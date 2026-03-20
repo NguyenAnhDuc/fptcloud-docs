@@ -1,0 +1,9 @@
+{
+  "label": "Quản lý Instance Group với chính sách Affinity & Anti-Affinity",
+  "link": {
+    "type": "doc",
+    "id": "affinity-anti-affinity/index"
+  },
+  "collapsed": true,
+  "collapsible": true
+}

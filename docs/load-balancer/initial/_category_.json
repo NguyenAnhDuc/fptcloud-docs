@@ -1,0 +1,11 @@
+{
+  "label": "Khởi tạo",
+  "position": 2,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "load-balancer/initial/index"
+  },
+  "key": "load-balancer-initial"
+}

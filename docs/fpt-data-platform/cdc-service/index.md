@@ -1,0 +1,40 @@
+---
+title: "CDC Service & Connectors"
+sidebar_label: "CDC Service & Connectors"
+---
+
+# CDC Service & Connectors
+
+- [2. FPT Data Platform](./cdc-service)
+- [2. FPT Data Platform](./tao-cdc-service)
+- [2. FPT Data Platform](./xem-thong-tin-cdc-service)
+- [2. FPT Data Platform](./xoa-cdc-service)
+- [2. FPT Data Platform](./postgresql-source-connector)
+- [2. FPT Data Platform](./mongodb-source-connector)
+- [2. FPT Data Platform](./sql-server-source-connector)
+- [2. FPT Data Platform](./mysql-source-connector)
+- [2. FPT Data Platform](./mariadb-source-connector)
+- [2. FPT Data Platform](./oracle-source-connector)
+- [2. FPT Data Platform](./clickhouse-logs-sink-connector)
+- [2. FPT Data Platform](./mongodb-sink-connector)
+- [2. FPT Data Platform](./postgresql-sink-connector)
+- [2. FPT Data Platform](./opensearch-sink-connector)
+- [2. FPT Data Platform](./sql-server-sink-connector)
+- [2. FPT Data Platform](./mysql-sink-connector)
+- [2. FPT Data Platform](./mariadb-sink-connector)
+- [2. FPT Data Platform](./iceberg-sink-connector)
+- [2. FPT Data Platform](./clickhouse-replication-sink-connector)
+- [2. FPT Data Platform](./s3-sink-connector)
+- [2. FPT Data Platform](./elasticsearch-sink-connector)
+- [2. FPT Data Platform](./iceberg-logs-sink-connector)
+- [2. FPT Data Platform](./redis-sink-connector)
+- [2. FPT Data Platform](./tao-connector-source-kafka)
+- [2. FPT Data Platform](./tao-connector-source-s3)
+- [2. FPT Data Platform](./xem-thong-tin-connector)
+- [2. FPT Data Platform](./hanh-dong-voi-connector)
+- [2. FPT Data Platform](./xoa-connector)
+- [2. FPT Data Platform](./xem-th-ng-tin-snapshot)
+- [2. FPT Data Platform](./trang-thai-snapshot)
+- [2. FPT Data Platform](./hanh-dong-voi-snapshot)
+- [2. FPT Data Platform](./kafka-mm2)
+- [2. FPT Data Platform](./quan-ly-connectors)

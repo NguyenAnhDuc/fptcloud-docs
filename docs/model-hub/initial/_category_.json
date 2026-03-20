@@ -1,0 +1,14 @@
+{
+  "label": "Khởi tạo & Tổ chức",
+  "position": 2,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "model-hub/initial/index"
+  },
+  "customProps": {
+    "sidebar_key": "model-hub-initial"
+  },
+  "key": "model-hub-initial"
+}

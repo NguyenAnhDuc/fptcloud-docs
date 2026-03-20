@@ -1,0 +1,11 @@
+{
+  "label": "Retention Rules",
+  "position": 4,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-container-registry-2/retention/index"
+  },
+  "key": "fpt-container-registry-2-retention"
+}

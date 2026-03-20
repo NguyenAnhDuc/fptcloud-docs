@@ -1,0 +1,11 @@
+{
+  "label": "Custom Images",
+  "position": 10,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "cloud-server/custom-images/index"
+  },
+  "key": "cloud-server-custom-images"
+}

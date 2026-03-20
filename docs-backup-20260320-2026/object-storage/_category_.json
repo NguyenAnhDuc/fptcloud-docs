@@ -1,0 +1,9 @@
+{
+  "label": "FPT Object Storage",
+  "link": {
+    "type": "doc",
+    "id": "object-storage/index"
+  },
+  "collapsed": true,
+  "collapsible": true
+}

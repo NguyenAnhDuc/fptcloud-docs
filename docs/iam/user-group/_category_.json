@@ -1,0 +1,11 @@
+{
+  "label": "Quản lý User Group",
+  "position": 4,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "iam/user-group/index"
+  },
+  "key": "iam-user-group"
+}

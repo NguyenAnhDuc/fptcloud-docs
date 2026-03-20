@@ -1,0 +1,11 @@
+{
+  "label": "Triển khai Ứng dụng",
+  "position": 3,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-argocd-3/deploy/index"
+  },
+  "key": "fpt-argocd-3-deploy"
+}

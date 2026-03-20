@@ -1,0 +1,11 @@
+{
+  "label": "Cloud Server",
+  "link": {
+    "type": "doc",
+    "id": "cloud-server/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "position": 1,
+  "key": "cloud-server"
+}

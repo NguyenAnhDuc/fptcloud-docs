@@ -1,0 +1,11 @@
+{
+  "label": "Cảnh báo & FAQ",
+  "position": 5,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "huong-dan-su-dung-grafana/alerting/index"
+  },
+  "key": "huong-dan-su-dung-grafana-alerting"
+}

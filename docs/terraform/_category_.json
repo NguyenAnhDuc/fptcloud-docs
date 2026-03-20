@@ -1,0 +1,10 @@
+{
+  "label": "Terraform",
+  "link": {
+    "type": "doc",
+    "id": "terraform/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "terraform"
+}

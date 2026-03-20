@@ -1,0 +1,11 @@
+{
+  "label": "Quản lý SSL Certificate",
+  "position": 6,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "load-balancer/ssl/index"
+  },
+  "key": "load-balancer-ssl"
+}

@@ -1,0 +1,11 @@
+{
+  "label": "Worker Group & Storage",
+  "position": 3,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-managed-gpu-cluster/worker-storage/index"
+  },
+  "key": "fpt-managed-gpu-cluster-worker-storage"
+}

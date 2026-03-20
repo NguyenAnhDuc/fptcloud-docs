@@ -1,0 +1,9 @@
+{
+  "label": "Budget Alert",
+  "link": {
+    "type": "doc",
+    "id": "budget-alert/index"
+  },
+  "collapsed": true,
+  "collapsible": true
+}

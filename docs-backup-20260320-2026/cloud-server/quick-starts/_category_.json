@@ -1,0 +1,10 @@
+{
+  "label": "Hướng dẫn nhanh",
+  "position": 2,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "cloud-server/quick-starts/index"
+  }
+}

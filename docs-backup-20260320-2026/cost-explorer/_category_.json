@@ -1,0 +1,10 @@
+{
+  "label": "Cost Explorer",
+  "link": {
+    "type": "doc",
+    "id": "cost-explorer/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "position": 4
+}

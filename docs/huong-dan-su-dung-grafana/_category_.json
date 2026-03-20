@@ -1,0 +1,10 @@
+{
+  "label": "Hướng dẫn sử dụng Grafana",
+  "link": {
+    "type": "doc",
+    "id": "huong-dan-su-dung-grafana/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "huong-dan-su-dung-grafana"
+}

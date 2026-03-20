@@ -1,0 +1,11 @@
+{
+  "label": "Khởi tạo & Cấu hình ban đầu",
+  "position": 2,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "managed-fpt-kubernetes-engine/initial/index"
+  },
+  "key": "managed-fpt-kubernetes-engine-initial"
+}

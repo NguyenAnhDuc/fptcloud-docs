@@ -1,0 +1,10 @@
+{
+  "label": "Quản lý máy ảo",
+  "position": 3,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "cloud-server/vm-management/index"
+  }
+}

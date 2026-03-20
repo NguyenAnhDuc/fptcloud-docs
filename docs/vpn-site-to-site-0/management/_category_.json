@@ -1,0 +1,11 @@
+{
+  "label": "Quản lý VPN",
+  "position": 3,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "vpn-site-to-site-0/management/index"
+  },
+  "key": "vpn-site-to-site-0-management"
+}

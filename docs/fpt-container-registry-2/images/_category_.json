@@ -1,0 +1,11 @@
+{
+  "label": "Quản lý Images & Repositories",
+  "position": 3,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-container-registry-2/images/index"
+  },
+  "key": "fpt-container-registry-2-images"
+}

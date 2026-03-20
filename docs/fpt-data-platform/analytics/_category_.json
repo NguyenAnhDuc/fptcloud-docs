@@ -1,0 +1,11 @@
+{
+  "label": "Công cụ Phân tích & Trực quan",
+  "position": 4,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-data-platform/analytics/index"
+  },
+  "key": "fpt-data-platform-analytics"
+}

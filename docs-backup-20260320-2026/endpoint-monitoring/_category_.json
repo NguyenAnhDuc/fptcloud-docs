@@ -1,0 +1,9 @@
+{
+  "label": "Endpoint monitoring",
+  "link": {
+    "type": "doc",
+    "id": "endpoint-monitoring/index"
+  },
+  "collapsed": true,
+  "collapsible": true
+}

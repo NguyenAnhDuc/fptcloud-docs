@@ -1,0 +1,10 @@
+{
+  "label": "Storage",
+  "position": 5,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "cloud-server/storage/index"
+  }
+}

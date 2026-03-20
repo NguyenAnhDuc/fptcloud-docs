@@ -1,0 +1,11 @@
+{
+  "label": "Quản lý WAF",
+  "position": 3,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-cloud-waf/management/index"
+  },
+  "key": "fpt-cloud-waf-management"
+}

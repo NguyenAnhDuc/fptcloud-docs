@@ -1,0 +1,11 @@
+{
+  "label": "Khởi tạo & Tài khoản",
+  "position": 2,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "iam/initial/index"
+  },
+  "key": "iam-initial"
+}

@@ -1,0 +1,10 @@
+{
+  "label": "Managed GPU Cluster (Kubernetes)",
+  "link": {
+    "type": "doc",
+    "id": "fpt-managed-gpu-cluster/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "fpt-managed-gpu-cluster"
+}

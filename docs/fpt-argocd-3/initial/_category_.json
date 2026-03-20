@@ -1,0 +1,14 @@
+{
+  "label": "Khởi tạo & Đăng nhập",
+  "position": 2,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-argocd-3/initial/index"
+  },
+  "customProps": {
+    "sidebar_key": "fpt-argocd-3-initial"
+  },
+  "key": "fpt-argocd-3-initial"
+}

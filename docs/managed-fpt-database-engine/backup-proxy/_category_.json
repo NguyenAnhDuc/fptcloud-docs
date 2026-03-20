@@ -1,0 +1,11 @@
+{
+  "label": "Backup & Proxy",
+  "position": 4,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "managed-fpt-database-engine/backup-proxy/index"
+  },
+  "key": "managed-fpt-database-engine-backup-proxy"
+}

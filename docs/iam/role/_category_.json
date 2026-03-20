@@ -1,0 +1,11 @@
+{
+  "label": "Quản lý Role",
+  "position": 3,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "iam/role/index"
+  },
+  "key": "iam-role"
+}

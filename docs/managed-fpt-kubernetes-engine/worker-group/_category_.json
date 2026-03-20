@@ -1,0 +1,11 @@
+{
+  "label": "Worker Group & Node",
+  "position": 4,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "managed-fpt-kubernetes-engine/worker-group/index"
+  },
+  "key": "managed-fpt-kubernetes-engine-worker-group"
+}

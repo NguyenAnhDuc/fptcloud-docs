@@ -1,0 +1,11 @@
+{
+  "label": "Phiên bản & FAQ",
+  "position": 5,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "dedicated-fpt-kubernetes-engine/version/index"
+  },
+  "key": "dedicated-fpt-kubernetes-engine-version"
+}

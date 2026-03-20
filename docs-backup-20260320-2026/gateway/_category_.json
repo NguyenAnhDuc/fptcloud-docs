@@ -1,0 +1,9 @@
+{
+  "label": "Gateway",
+  "link": {
+    "type": "doc",
+    "id": "gateway/index"
+  },
+  "collapsed": true,
+  "collapsible": true
+}

@@ -1,0 +1,10 @@
+{
+  "label": "FPT Cloud Guard",
+  "link": {
+    "type": "doc",
+    "id": "cloud-guard/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "cloud-guard"
+}

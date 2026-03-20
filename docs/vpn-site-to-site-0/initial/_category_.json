@@ -1,0 +1,11 @@
+{
+  "label": "Khởi tạo & Cấu hình",
+  "position": 2,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "vpn-site-to-site-0/initial/index"
+  },
+  "key": "vpn-site-to-site-0-initial"
+}

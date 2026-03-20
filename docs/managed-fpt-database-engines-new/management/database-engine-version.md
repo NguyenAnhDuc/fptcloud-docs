@@ -1,0 +1,22 @@
+---
+sidebar_label: "2. Managed – FPT Database Engines"
+title: "2. Managed – FPT Database Engines"
+source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=database-engine-version"
+parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"
+lang: vi
+converted: "2026-03-19"
+---
+
+# 2. Managed – FPT Database Engines
+
+
+Version database engine
+
+
+* * *
+
+FPT Database Engine cung cấp dịch vụ cơ sở dữ liệu được quản lý hoàn toàn cho nhiều hệ quản trị cơ sở dữ liệu khác nhau do FPT hỗ trợ, giúp khách hàng dễ dàng triển khai, vận hành và mở rộng hệ thống một cách hiệu quả. Mục **Version database engine** mô tả chính sách hỗ trợ phiên bản cho các database engine này, bao gồm vòng đời phiên bản, tính khả dụng, cập nhật và thời điểm kết thúc hỗ trợ.
+
+Thông qua việc hiểu rõ chính sách phiên bản, khách hàng có thể chủ động lựa chọn và quản lý database engine version phù hợp, đảm bảo hệ thống luôn an toàn, ổn định, tương thích với các cải tiến mới nhất, đồng thời giảm thiểu rủi ro và gián đoạn trong quá trình nâng cấp hoặc chuyển đổi phiên bản.
+
+[ Next Chính sách version ](./version-policy)

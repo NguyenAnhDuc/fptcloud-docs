@@ -1,0 +1,11 @@
+{
+  "label": "Quản lý Server Pool",
+  "position": 5,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "load-balancer/server-pool/index"
+  },
+  "key": "load-balancer-server-pool"
+}

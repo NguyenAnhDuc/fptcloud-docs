@@ -1,0 +1,9 @@
+{
+  "label": "Notification Bell",
+  "link": {
+    "type": "doc",
+    "id": "notification-bell/index"
+  },
+  "collapsed": true,
+  "collapsible": true
+}

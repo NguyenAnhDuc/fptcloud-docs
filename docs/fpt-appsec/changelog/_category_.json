@@ -1,0 +1,11 @@
+{
+  "label": "Changelog",
+  "position": 6,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-appsec/changelog/index"
+  },
+  "key": "fpt-appsec-changelog"
+}

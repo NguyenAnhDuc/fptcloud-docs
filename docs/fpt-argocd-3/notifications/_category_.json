@@ -1,0 +1,11 @@
+{
+  "label": "Notifications & Webhook",
+  "position": 6,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-argocd-3/notifications/index"
+  },
+  "key": "fpt-argocd-3-notifications"
+}

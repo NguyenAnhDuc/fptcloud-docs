@@ -1,0 +1,9 @@
+{
+  "label": "Network Interface Card (NIC)",
+  "link": {
+    "type": "doc",
+    "id": "nic/index"
+  },
+  "collapsed": true,
+  "collapsible": true
+}

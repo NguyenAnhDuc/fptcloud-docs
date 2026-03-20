@@ -1,0 +1,11 @@
+{
+  "label": "Quản lý Tài khoản",
+  "position": 4,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-argocd-3/account/index"
+  },
+  "key": "fpt-argocd-3-account"
+}

@@ -1,0 +1,10 @@
+{
+  "label": "Token",
+  "key": "cloud-server-token",
+  "position": 11,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "generated-index"
+  }
+}

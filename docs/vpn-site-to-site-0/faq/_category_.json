@@ -1,0 +1,11 @@
+{
+  "label": "FAQ",
+  "position": 5,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "vpn-site-to-site-0/faq/index"
+  },
+  "key": "vpn-site-to-site-0-faq"
+}

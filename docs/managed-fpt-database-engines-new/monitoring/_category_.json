@@ -1,0 +1,11 @@
+{
+  "label": "Giám sát & Báo cáo",
+  "position": 5,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "managed-fpt-database-engines-new/monitoring/index"
+  },
+  "key": "managed-fpt-database-engines-new-monitoring"
+}

@@ -1,0 +1,827 @@
+<!doctype html>
+<html lang="vi" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-fpt-appsec/cicd-guideline" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.9.2">
+<title data-rh="true">FPT AppSec | FPT Cloud Docs</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:url" content="https://fptcloud-docs.ducna.xyz/fpt-appsec/cicd-guideline"><meta data-rh="true" property="og:locale" content="vi"><meta data-rh="true" name="docusaurus_locale" content="vi"><meta data-rh="true" name="docsearch:language" content="vi"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="FPT AppSec | FPT Cloud Docs"><meta data-rh="true" name="description" content="2. FPT AppSec"><meta data-rh="true" property="og:description" content="2. FPT AppSec"><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://fptcloud-docs.ducna.xyz/fpt-appsec/cicd-guideline"><link data-rh="true" rel="alternate" href="https://fptcloud-docs.ducna.xyz/fpt-appsec/cicd-guideline" hreflang="vi"><link data-rh="true" rel="alternate" href="https://fptcloud-docs.ducna.xyz/fpt-appsec/cicd-guideline" hreflang="x-default"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"FPT AppSec","item":"https://fptcloud-docs.ducna.xyz/fpt-appsec/"},{"@type":"ListItem","position":2,"name":"FPT AppSec","item":"https://fptcloud-docs.ducna.xyz/fpt-appsec/cicd-guideline"}]}</script><link rel="stylesheet" href="/assets/css/styles.a4cacd50.css">
+<script src="/assets/js/runtime~main.86a76e6a.js" defer="defer"></script>
+<script src="/assets/js/main.202d383e.js" defer="defer"></script>
+</head>
+<body class="navigation-with-keyboard">
+<svg style="display: none;"><defs>
+<symbol id="theme-svg-external-link" viewBox="0 0 24 24"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>!function(){var t=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme")}catch(t){}}();document.documentElement.setAttribute("data-theme",t||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")),document.documentElement.setAttribute("data-theme-choice",t||"system")}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><link rel="preload" as="image" href="/img/logo.svg"><div role="region" aria-label="Chuyển tới nội dung chính"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Chuyển tới nội dung chính</a></div><nav aria-label="Thanh điều hướng" class="theme-layout-navbar navbar navbar--fixed-top"><div class="navbar__inner"><div class="theme-layout-navbar-left navbar__items"><button aria-label="Đóng - mở thanh điều hướng" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/logo.svg" alt="FPT Cloud Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo.svg" alt="FPT Cloud Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">FPT Cloud Docs</b></a><a aria-current="page" class="navbar__item navbar__link navbar__link--active" href="/cloud-server/">🇻🇳 Tiếng Việt</a><a class="navbar__item navbar__link" href="/en/ai-factory-billing/add-credits">🇬🇧 English</a><a class="navbar__item navbar__link" href="/ja/gpu-virtual-machine/gpu-vm">🇯🇵 日本語</a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="system mode" aria-label="Chuyển đổi chế độ sáng và tối (hiện tại là system mode)"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill="currentColor" d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"><div class="navbar__search searchBarContainer_NW3z" dir="ltr"><input placeholder="Tìm kiếm..." aria-label="Search" class="navbar__search-input searchInput_YFbd" value=""><div class="loadingRing_RJI3 searchBarLoadingRing_YnHq"><div></div><div></div><div></div><div></div></div></div></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Trở lại đầu trang" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class="sidebarViewport_aRkj"><div class="sidebar_njMd"><nav aria-label="Thanh điều hướng tài liệu" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/cloud-server/"><span title="Cloud Server" class="categoryLinkLabel_W154">Cloud Server</span></a><button aria-label="Xem thêm danh mục &#x27;Cloud Server&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/billing/"><span title="Bills" class="categoryLinkLabel_W154">Bills</span></a><button aria-label="Xem thêm danh mục &#x27;Bills&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/backup/"><span title="Backup" class="categoryLinkLabel_W154">Backup</span></a><button aria-label="Xem thêm danh mục &#x27;Backup&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/cost-explorer/"><span title="Cost Explorer" class="categoryLinkLabel_W154">Cost Explorer</span></a><button aria-label="Xem thêm danh mục &#x27;Cost Explorer&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/affinity-anti-affinity/"><span title="Quản lý Instance Group với chính sách Affinity &amp; Anti-Affinity" class="categoryLinkLabel_W154">Quản lý Instance Group với chính sách Affinity &amp; Anti-Affinity</span></a><button aria-label="Xem thêm danh mục &#x27;Quản lý Instance Group với chính sách Affinity &amp; Anti-Affinity&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/allow-address-pair/"><span title="Allow Address Pair" class="categoryLinkLabel_W154">Allow Address Pair</span></a><button aria-label="Xem thêm danh mục &#x27;Allow Address Pair&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/app-catalogs/"><span title="FPT App Catalogs" class="categoryLinkLabel_W154">FPT App Catalogs</span></a><button aria-label="Xem thêm danh mục &#x27;FPT App Catalogs&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/auto-schedule-to-on-off-instance/"><span title="Auto Schedule To On-Off Instance" class="categoryLinkLabel_W154">Auto Schedule To On-Off Instance</span></a><button aria-label="Xem thêm danh mục &#x27;Auto Schedule To On-Off Instance&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/budget-alert/"><span title="Budget Alert" class="categoryLinkLabel_W154">Budget Alert</span></a><button aria-label="Xem thêm danh mục &#x27;Budget Alert&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/change-network-config-0/"><span title="Change Network Config" class="categoryLinkLabel_W154">Change Network Config</span></a><button aria-label="Xem thêm danh mục &#x27;Change Network Config&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/checkpoint-fpt-ngfw/"><span title="CheckPoint – FPT NGFW" class="categoryLinkLabel_W154">CheckPoint – FPT NGFW</span></a><button aria-label="Xem thêm danh mục &#x27;CheckPoint – FPT NGFW&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/cloud-advisor/"><span title="Cloud Advisor" class="categoryLinkLabel_W154">Cloud Advisor</span></a><button aria-label="Xem thêm danh mục &#x27;Cloud Advisor&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/cloud-guard/"><span title="FPT Cloud Guard" class="categoryLinkLabel_W154">FPT Cloud Guard</span></a><button aria-label="Xem thêm danh mục &#x27;FPT Cloud Guard&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/create_vpc/"><span title="Create VPC" class="categoryLinkLabel_W154">Create VPC</span></a><button aria-label="Xem thêm danh mục &#x27;Create VPC&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/ddos-protection/"><span title="DdoS Protection" class="categoryLinkLabel_W154">DdoS Protection</span></a><button aria-label="Xem thêm danh mục &#x27;DdoS Protection&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/dedicated-fpt-kubernetes-engine/"><span title="Dedicated – FPT Kubernetes Engine" class="categoryLinkLabel_W154">Dedicated – FPT Kubernetes Engine</span></a><button aria-label="Xem thêm danh mục &#x27;Dedicated – FPT Kubernetes Engine&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/end-user-request-resource/"><span title="Request Resource" class="categoryLinkLabel_W154">Request Resource</span></a><button aria-label="Xem thêm danh mục &#x27;Request Resource&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/endpoint-monitoring/"><span title="Endpoint monitoring" class="categoryLinkLabel_W154">Endpoint monitoring</span></a><button aria-label="Xem thêm danh mục &#x27;Endpoint monitoring&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/file-storage-high-performance/"><span title="File Storage – High Performance" class="categoryLinkLabel_W154">File Storage – High Performance</span></a><button aria-label="Xem thêm danh mục &#x27;File Storage – High Performance&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fortigate-fpt-ngfw/"><span title="Fortigate – FPT NGFW" class="categoryLinkLabel_W154">Fortigate – FPT NGFW</span></a><button aria-label="Xem thêm danh mục &#x27;Fortigate – FPT NGFW&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-api-gateway/"><span title="FPT API Gateway" class="categoryLinkLabel_W154">FPT API Gateway</span></a><button aria-label="Xem thêm danh mục &#x27;FPT API Gateway&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-api-management/"><span title="FPT API Management" class="categoryLinkLabel_W154">FPT API Management</span></a><button aria-label="Xem thêm danh mục &#x27;FPT API Management&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist menu__link--active" href="/fpt-appsec/"><span title="FPT AppSec" class="categoryLinkLabel_W154">FPT AppSec</span></a><button aria-label="Thu gọn danh mục &#x27;FPT AppSec&#x27;" aria-expanded="true" type="button" class="clean-btn menu__caret"></button></div><ul class="menu__list"><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/aspm_v1.2.1"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/aspm_v1.3.0"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/cai-dat-team"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/chinh-sua-thong-tin-org"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link menu__link--active" aria-current="page" tabindex="0" href="/fpt-appsec/cicd-guideline"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/create-schedule"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/detail-dasboard"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/gioi-thieu-organization"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/guide-asset-by-team"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/guide-change-status-issue-detail"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/guide-change-status-issue-list"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/guide-dashboard-overview"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/guide-fcr"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/guide-github"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/guide-gitlab"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/guide-gitlabserver"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/guide-harbor"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/guide-integration"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/guide-issue-by-team"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/guide-workspace"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/initial-setup"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/quan-ly-mem-team"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/quan-ly-member"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/quan-ly-role"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/quan-ly-team"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/quan-ly-teams-org"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/schedule-delete"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/schedule-detail"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/schedule-edit"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/workspace-crasset"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item hidden"><a class="menu__link" tabindex="0" href="/fpt-appsec/workspace-scmasset"><span title="FPT AppSec" class="linkLabel_WmDU">FPT AppSec</span></a></li></ul></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-argocd-3/"><span title="FPT ArgoCD" class="categoryLinkLabel_W154">FPT ArgoCD</span></a><button aria-label="Xem thêm danh mục &#x27;FPT ArgoCD&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-autoscale/"><span title="FPT Autoscale" class="categoryLinkLabel_W154">FPT Autoscale</span></a><button aria-label="Xem thêm danh mục &#x27;FPT Autoscale&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-backup-as-a-service/"><span title="FPT Backup As a Service" class="categoryLinkLabel_W154">FPT Backup As a Service</span></a><button aria-label="Xem thêm danh mục &#x27;FPT Backup As a Service&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-cloud-desktop/"><span title="FPT Cloud Desktop" class="categoryLinkLabel_W154">FPT Cloud Desktop</span></a><button aria-label="Xem thêm danh mục &#x27;FPT Cloud Desktop&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-cloud-monitoring/"><span title="FPT Cloud Monitoring" class="categoryLinkLabel_W154">FPT Cloud Monitoring</span></a><button aria-label="Xem thêm danh mục &#x27;FPT Cloud Monitoring&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-cloud-portal-pay-as-you-gofpt-cloud-portal-pay-as-you-go/"><span title="FPT Cloud Portal – Pay As You Go" class="categoryLinkLabel_W154">FPT Cloud Portal – Pay As You Go</span></a><button aria-label="Xem thêm danh mục &#x27;FPT Cloud Portal – Pay As You Go&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-cloud-waf/"><span title="FPT Cloud WAF" class="categoryLinkLabel_W154">FPT Cloud WAF</span></a><button aria-label="Xem thêm danh mục &#x27;FPT Cloud WAF&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-cloud-wapples/"><span title="FPT Cloud WAPPLES" class="categoryLinkLabel_W154">FPT Cloud WAPPLES</span></a><button aria-label="Xem thêm danh mục &#x27;FPT Cloud WAPPLES&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-container-registry-2/"><span title="FPT Container Registry" class="categoryLinkLabel_W154">FPT Container Registry</span></a><button aria-label="Xem thêm danh mục &#x27;FPT Container Registry&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-data-platform/"><span title="FPT Data Platform" class="categoryLinkLabel_W154">FPT Data Platform</span></a><button aria-label="Xem thêm danh mục &#x27;FPT Data Platform&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-event-gateway/"><span title="FPT Event Gateway" class="categoryLinkLabel_W154">FPT Event Gateway</span></a><button aria-label="Xem thêm danh mục &#x27;FPT Event Gateway&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-jenkins-ci/"><span title="FPT Jenkins CI" class="categoryLinkLabel_W154">FPT Jenkins CI</span></a><button aria-label="Xem thêm danh mục &#x27;FPT Jenkins CI&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-key-vault/"><span title="FPT Key Vault" class="categoryLinkLabel_W154">FPT Key Vault</span></a><button aria-label="Xem thêm danh mục &#x27;FPT Key Vault&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-kubernetes-engine-with-gpu/"><span title="FPT Kubernetes Engine with GPU" class="categoryLinkLabel_W154">FPT Kubernetes Engine with GPU</span></a><button aria-label="Xem thêm danh mục &#x27;FPT Kubernetes Engine with GPU&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-managed-gpu-cluster/"><span title="Managed GPU Cluster (Kubernetes)" class="categoryLinkLabel_W154">Managed GPU Cluster (Kubernetes)</span></a><button aria-label="Xem thêm danh mục &#x27;Managed GPU Cluster (Kubernetes)&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-message-bus-for-rabbitmq/"><span title="FPT Message Bus for RabbitMQ" class="categoryLinkLabel_W154">FPT Message Bus for RabbitMQ</span></a><button aria-label="Xem thêm danh mục &#x27;FPT Message Bus for RabbitMQ&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-monitoring-ip-access-control/"><span title="FPT Monitoring – IP Access Control" class="categoryLinkLabel_W154">FPT Monitoring – IP Access Control</span></a><button aria-label="Xem thêm danh mục &#x27;FPT Monitoring – IP Access Control&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/fpt-va/"><span title="FPT Cloud VA" class="categoryLinkLabel_W154">FPT Cloud VA</span></a><button aria-label="Xem thêm danh mục &#x27;FPT Cloud VA&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/gateway/"><span title="Gateway" class="categoryLinkLabel_W154">Gateway</span></a><button aria-label="Xem thêm danh mục &#x27;Gateway&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/global-search/"><span title="Global Search" class="categoryLinkLabel_W154">Global Search</span></a><button aria-label="Xem thêm danh mục &#x27;Global Search&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/huong-dan-su-dung-grafana/"><span title="Hướng dẫn sử dụng Grafana" class="categoryLinkLabel_W154">Hướng dẫn sử dụng Grafana</span></a><button aria-label="Xem thêm danh mục &#x27;Hướng dẫn sử dụng Grafana&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/iac-old/"><span title="IaC old" class="categoryLinkLabel_W154">IaC old</span></a><button aria-label="Xem thêm danh mục &#x27;IaC old&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/iam/"><span title="IAM" class="categoryLinkLabel_W154">IAM</span></a><button aria-label="Xem thêm danh mục &#x27;IAM&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/incident-management/"><span title="Incident Management" class="categoryLinkLabel_W154">Incident Management</span></a><button aria-label="Xem thêm danh mục &#x27;Incident Management&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/load-balancer/"><span title="Load Balancer" class="categoryLinkLabel_W154">Load Balancer</span></a><button aria-label="Xem thêm danh mục &#x27;Load Balancer&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/lock-unlock-instance-deletion/"><span title="Lock &amp; Unlock Instance Deletion" class="categoryLinkLabel_W154">Lock &amp; Unlock Instance Deletion</span></a><button aria-label="Xem thêm danh mục &#x27;Lock &amp; Unlock Instance Deletion&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/managed-fpt-database-engine/"><span title="Managed – FPT Database Engine" class="categoryLinkLabel_W154">Managed – FPT Database Engine</span></a><button aria-label="Xem thêm danh mục &#x27;Managed – FPT Database Engine&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/managed-fpt-database-engines-new/"><span title="Managed – FPT Database Engines" class="categoryLinkLabel_W154">Managed – FPT Database Engines</span></a><button aria-label="Xem thêm danh mục &#x27;Managed – FPT Database Engines&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/managed-fpt-kubernetes-engine/"><span title="Managed – FPT Kubernetes Engine" class="categoryLinkLabel_W154">Managed – FPT Kubernetes Engine</span></a><button aria-label="Xem thêm danh mục &#x27;Managed – FPT Kubernetes Engine&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/model-hub/"><span title="Model Hub" class="categoryLinkLabel_W154">Model Hub</span></a><button aria-label="Xem thêm danh mục &#x27;Model Hub&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/nat_instance/"><span title="NAT Instance" class="categoryLinkLabel_W154">NAT Instance</span></a><button aria-label="Xem thêm danh mục &#x27;NAT Instance&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/nic/"><span title="Network Interface Card (NIC)" class="categoryLinkLabel_W154">Network Interface Card (NIC)</span></a><button aria-label="Xem thêm danh mục &#x27;Network Interface Card (NIC)&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/notification-bell/"><span title="Notification Bell" class="categoryLinkLabel_W154">Notification Bell</span></a><button aria-label="Xem thêm danh mục &#x27;Notification Bell&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/object-storage/"><span title="FPT Object Storage" class="categoryLinkLabel_W154">FPT Object Storage</span></a><button aria-label="Xem thêm danh mục &#x27;FPT Object Storage&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/policy-management/"><span title="Policy Management" class="categoryLinkLabel_W154">Policy Management</span></a><button aria-label="Xem thêm danh mục &#x27;Policy Management&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/relation-management/"><span title="Relation management" class="categoryLinkLabel_W154">Relation management</span></a><button aria-label="Xem thêm danh mục &#x27;Relation management&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/reporting/"><span title="FPT Reporting" class="categoryLinkLabel_W154">FPT Reporting</span></a><button aria-label="Xem thêm danh mục &#x27;FPT Reporting&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/sso-single-sign-on/"><span title="SSO – Single sign-on" class="categoryLinkLabel_W154">SSO – Single sign-on</span></a><button aria-label="Xem thêm danh mục &#x27;SSO – Single sign-on&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/tagging/"><span title="Tagging" class="categoryLinkLabel_W154">Tagging</span></a><button aria-label="Xem thêm danh mục &#x27;Tagging&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/terraform/"><span title="Terraform" class="categoryLinkLabel_W154">Terraform</span></a><button aria-label="Xem thêm danh mục &#x27;Terraform&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/token/"><span title="Token" class="categoryLinkLabel_W154">Token</span></a><button aria-label="Xem thêm danh mục &#x27;Token&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/trellix-customer-guide/"><span title="Trellix Customer Guide" class="categoryLinkLabel_W154">Trellix Customer Guide</span></a><button aria-label="Xem thêm danh mục &#x27;Trellix Customer Guide&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="categoryLink_byQd menu__link menu__link--sublist" href="/vpn-site-to-site-0/"><span title="VPN Site-to-Site" class="categoryLinkLabel_W154">VPN Site-to-Site</span></a><button aria-label="Xem thêm danh mục &#x27;VPN Site-to-Site&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/zalo-ticket-support"><span title="Zalo ticket support" class="linkLabel_WmDU">Zalo ticket support</span></a></li></ul></nav></div></div></aside><main class="docMainContainer_TBSr"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label="Liên kết điều hướng"><ul class="breadcrumbs"><li class="breadcrumbs__item"><a aria-label="Trang chủ" class="breadcrumbs__link" href="/"><svg viewBox="0 0 24 24" class="breadcrumbHomeIcon_YNFT"><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill="currentColor"></path></svg></a></li><li class="breadcrumbs__item"><a class="breadcrumbs__link" href="/fpt-appsec/"><span>FPT AppSec</span></a></li><li class="breadcrumbs__item breadcrumbs__item--active"><span class="breadcrumbs__link">FPT AppSec</span></li></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type="button" class="clean-btn tocCollapsibleButton_TO0P">Trên trang này</button></div><div class="theme-doc-markdown markdown"><header><h1>FPT AppSec</h1></header>
+<ol start="2">
+<li class="">FPT AppSec</li>
+</ol>
+<p>DevOps Pipeline Integration</p>
+<ul>
+<li class=""><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ffptcloud.com%2Fdocuments%2Ffpt-appsec%2F" target="_blank" rel="noopener noreferrer" class=""> </a></li>
+<li class=""><a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Ffptcloud.com%2Fdocuments%2Ffpt-appsec%2F" target="_blank" rel="noopener noreferrer" class=""> </a></li>
+<li class=""><a href="https://twitter.com/share?text=&amp;url=https%3A%2F%2Ffptcloud.com%2Fdocuments%2Ffpt-appsec%2F" target="_blank" rel="noopener noreferrer" class=""> </a></li>
+</ul>
+<hr>
+<p><strong>Guideline: Tích hợp Scanning API của FSP Core Service vào CI/CD Pipelines</strong></p>
+<p>Hướng dẫn này sẽ hướng dẫn bạn cách tích hợp các endpoint quét dịch vụ lõi FSP vào quy trình CI/CD của mình, cho phép tự động quét mã nguồn, quét bí mật và quét bảo mật hình ảnh container trên mỗi lần thay đổi.</p>
+<p><img decoding="async" loading="lazy" alt="CICD flow" src="/assets/images/0f7aa110ee8c-Screenshot-2026-01-22-113824-b690805d3591f533165babbe3196de8b.png" width="1546" height="718" class="img_ev3q"></p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-tổng-quan">1. Tổng quan<a href="#1-tổng-quan" class="hash-link" aria-label="Đường dẫn trực tiếp đến 1. Tổng quan" title="Đường dẫn trực tiếp đến 1. Tổng quan" translate="no">​</a></h3>
+<p>Tự động hóa các bước quét bảo mật trong pipeline CI/CD giúp phát hiện lỗ hổng sớm. Hướng dẫn này bao gồm:</p>
+<ul>
+<li class="">Yêu cầu chuẩn bị</li>
+<li class="">Cách thiết lập xác thực</li>
+<li class="">Các bước tích hợp pipeline cho scan code, scan secret, và scan image</li>
+<li class="">Cấu hình mẫu (GitLab CI, Jenkins)</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-yêu-cầu-chuẩn-bị">2. Yêu cầu chuẩn bị<a href="#2-yêu-cầu-chuẩn-bị" class="hash-link" aria-label="Đường dẫn trực tiếp đến 2. Yêu cầu chuẩn bị" title="Đường dẫn trực tiếp đến 2. Yêu cầu chuẩn bị" translate="no">​</a></h3>
+<ul>
+<li class="">Tài khoản FSP Core Service đang hoạt động, với Orgid và access_key hợp lệ.</li>
+<li class="">Truy cập được các endpoint API (ví dụ: <em>/integration/scan-code, /integration/scan-secret, /integration/scan-image</em> và các endpoint lấy kết quả tương ứng).</li>
+<li class="">Runner hoặc agent CI/CD có thể kết nối mạng tới API FSP Core Service.</li>
+<li class="">Môi trường shell Unix-like (bash, sh) để viết script gọi HTTP.</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-đặc-tả-api">3. Đặc tả API<a href="#3-đặc-tả-api" class="hash-link" aria-label="Đường dẫn trực tiếp đến 3. Đặc tả API" title="Đường dẫn trực tiếp đến 3. Đặc tả API" translate="no">​</a></h3>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="31-tích-hợp-scan-code">3.1. Tích hợp scan code<a href="#31-tích-hợp-scan-code" class="hash-link" aria-label="Đường dẫn trực tiếp đến 3.1. Tích hợp scan code" title="Đường dẫn trực tiếp đến 3.1. Tích hợp scan code" translate="no">​</a></h4>
+<h5 class="anchor anchorTargetStickyNavbar_Vzrq" id="311-scan-toàn-bộ-mã-nguồn">3.1.1. Scan toàn bộ mã nguồn<a href="#311-scan-toàn-bộ-mã-nguồn" class="hash-link" aria-label="Đường dẫn trực tiếp đến 3.1.1. Scan toàn bộ mã nguồn" title="Đường dẫn trực tiếp đến 3.1.1. Scan toàn bộ mã nguồn" translate="no">​</a></h5>
+<p><code>POST /api/v1/xplat/fsp-service/core-service/integration/scan-code</code></p>
+<p><em>Khởi tạo quét mã nguồn cho một kho lưu trữ và commit cụ thể thuộc nhóm FSEC.</em></p>
+<p><strong>Yêu cầu</strong></p>
+<p><strong><em>Headers</em></strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tên</th><th>Loại</th><th>Bắt buộc</th><th>Mô tả</th></tr></thead><tbody><tr><td>Orgid</td><td>string</td><td>Không</td><td>ID tổ chức để xác thực</td></tr></tbody></table>
+<p><strong><em>Body</em></strong></p>
+<p>Content-Type: application/json</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tên</th><th>Loại</th><th>Bắt buộc</th><th>Mô tả</th></tr></thead><tbody><tr><td>team_code</td><td>string</td><td>Có</td><td>Mã của nhóm FSEC, cách lấy team_code <a href="https://fptcloud.com/documents/fpt-security-platform/?doc=cai-dat-team" target="_blank" rel="noopener noreferrer" class="">tại đây</a></td></tr><tr><td>git_repo_url</td><td>string</td><td>Có</td><td>URL kho lưu trữ Git (ví dụ: GitHub hoặc GitLab)</td></tr><tr><td>access_key</td><td>string</td><td>Có</td><td>Khóa truy cập do FSEC cấp để truy cập kho lưu trữ, lấy access_key tại màn hình Integration detail<a href="https://fptcloud.com/documents/fpt-security-platform/?doc=guide-gitlabserver" target="_blank" rel="noopener noreferrer" class="">tại đây</a>, tương tự với các loại tích hợp khác</td></tr><tr><td>branch</td><td>string</td><td>Có</td><td>Tên nhánh cần quét</td></tr><tr><td>commit</td><td>string</td><td>Không</td><td>SHA của commit trên nhánh cần quét</td></tr></tbody></table>
+<p><strong>Ví dụ</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#bfc7d5;background-color:#292d3e"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token plain">POST /api/v1/xplat/fsp-service/core-service/integration/scan-code HTTP/1.1</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Host: api.yourdomain.com</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Orgid: 123e4567-e89b-12d3-a456-426614174000</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Accept: application/json</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Content-Type: application/json</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">{</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;team_code&quot;: &quot;FSEC_TEAM_001&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;git_repo_url&quot;: &quot;https://github.com/example/repo.git&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;access_key&quot;: &quot;abcd1234&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;branch&quot;: &quot;main&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">}</span><br></span></code></pre></div></div>
+<p><strong>Phản hồi</strong></p>
+<ul>
+<li class="">
+<p>200 - Successful Response</p>
+<p>{
+&quot;data&quot;: {
+&quot;errorCode&quot;: &quot;F-000&quot;,
+&quot;errorMessage&quot;: &quot;&quot;,
+&quot;data&quot;: {
+&quot;request_code&quot;: &quot;&quot;,
+&quot;request_time&quot;: &quot;2025-03-25 13:34:11&quot;
+}
+}
+}</p>
+</li>
+<li class="">
+<p>422 - Validation Error</p>
+<p>{
+&quot;detail&quot;: [
+{
+&quot;loc&quot;: [&quot;string&quot;, 0],
+&quot;msg&quot;: &quot;string&quot;,
+&quot;type&quot;: &quot;string&quot;
+}
+]
+}</p>
+</li>
+</ul>
+<h5 class="anchor anchorTargetStickyNavbar_Vzrq" id="312-scan-theo-commit">3.1.2. Scan theo commit<a href="#312-scan-theo-commit" class="hash-link" aria-label="Đường dẫn trực tiếp đến 3.1.2. Scan theo commit" title="Đường dẫn trực tiếp đến 3.1.2. Scan theo commit" translate="no">​</a></h5>
+<p><code>POST /api/v1/xplat/fsp-service/core-service/integration/scan-code?scan-mode=commit</code></p>
+<p><em>Khởi tạo quét mã nguồn cho một kho lưu trữ và commit cụ thể thuộc nhóm FSEC.</em></p>
+<p><strong>Yêu cầu</strong></p>
+<p><strong><em>Headers</em></strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tên</th><th>Loại</th><th>Bắt buộc</th><th>Mô tả</th></tr></thead><tbody><tr><td>Orgid</td><td>string</td><td>Không</td><td>ID tổ chức để xác thực</td></tr></tbody></table>
+<p><strong><em>Body</em></strong></p>
+<p>Content-Type: application/json</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tên</th><th>Loại</th><th>Bắt buộc</th><th>Mô tả</th></tr></thead><tbody><tr><td>team_code</td><td>string</td><td>Có</td><td>Mã của nhóm FSEC, cách lấy team_code <a href="https://fptcloud.com/documents/fpt-security-platform/?doc=cai-dat-team" target="_blank" rel="noopener noreferrer" class="">tại đây</a></td></tr><tr><td>git_repo_url</td><td>string</td><td>Có</td><td>URL kho lưu trữ Git (ví dụ: GitHub hoặc GitLab)</td></tr><tr><td>access_key</td><td>string</td><td>Có</td><td>Khóa truy cập do FSEC cấp để truy cập kho lưu trữ, cách lấy access_key của GitLab server <a href="https://fptcloud.com/documents/fpt-security-platform/?doc=guide-gitlabserver" target="_blank" rel="noopener noreferrer" class="">tại đây</a>, tương tự với các loại tích hợp khác</td></tr><tr><td>branch</td><td>string</td><td>Có</td><td>Tên nhánh cần quét</td></tr><tr><td>commit</td><td>string</td><td>Có</td><td>SHA của commit trên nhánh cần quét</td></tr></tbody></table>
+<p><strong>Ví dụ</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#bfc7d5;background-color:#292d3e"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token plain">POST /api/v1/xplat/fsp-service/core-service/integration/scan-code?scan-mode=commit HTTP/1.1</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Host: api.yourdomain.com</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Orgid: 123e4567-e89b-12d3-a456-426614174000</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Accept: application/json</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Content-Type: application/json</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">{</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;team_code&quot;: &quot;FSEC_TEAM_001&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;git_repo_url&quot;: &quot;https://github.com/example/repo.git&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;access_key&quot;: &quot;abcd1234&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;branch&quot;: &quot;main&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;commit&quot;: &quot;a1b2c3d4e5f6g7h8i9j0&quot;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">}</span><br></span></code></pre></div></div>
+<p><strong>Phản hồi</strong></p>
+<ul>
+<li class="">
+<p>200 - Successful Response</p>
+<p>{
+&quot;data&quot;: {
+&quot;errorCode&quot;: &quot;F-000&quot;,
+&quot;errorMessage&quot;: &quot;&quot;,
+&quot;data&quot;: {
+&quot;request_code&quot;: &quot;&quot;,
+&quot;request_time&quot;: &quot;2025-03-25 13:34:11&quot;
+}
+}
+}</p>
+</li>
+<li class="">
+<p>422 - Validation Error</p>
+<p>{
+&quot;detail&quot;: [
+{
+&quot;loc&quot;: [&quot;string&quot;, 0],
+&quot;msg&quot;: &quot;string&quot;,
+&quot;type&quot;: &quot;string&quot;
+}
+]
+}</p>
+</li>
+</ul>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="32-tích-hợp-scan-secret">3.2. Tích hợp scan secret<a href="#32-tích-hợp-scan-secret" class="hash-link" aria-label="Đường dẫn trực tiếp đến 3.2. Tích hợp scan secret" title="Đường dẫn trực tiếp đến 3.2. Tích hợp scan secret" translate="no">​</a></h4>
+<h5 class="anchor anchorTargetStickyNavbar_Vzrq" id="321-scan-toàn-bộ-mã-nguồn">3.2.1. Scan toàn bộ mã nguồn<a href="#321-scan-toàn-bộ-mã-nguồn" class="hash-link" aria-label="Đường dẫn trực tiếp đến 3.2.1. Scan toàn bộ mã nguồn" title="Đường dẫn trực tiếp đến 3.2.1. Scan toàn bộ mã nguồn" translate="no">​</a></h5>
+<p><code>POST /api/v1/xplat/fsp-service/core-service/integration/scan-secret</code> <em>Khởi tạo quét secret cho một kho lưu trữ và commit cụ thể thuộc nhóm FSEC.</em></p>
+<p><strong>Yêu cầu</strong></p>
+<p><strong><em>Headers</em></strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tên</th><th>Loại</th><th>Bắt buộc</th><th>Mô tả</th></tr></thead><tbody><tr><td>Orgid</td><td>string</td><td>Không</td><td>ID tổ chức để xác thực</td></tr></tbody></table>
+<p><strong><em>Body</em></strong></p>
+<p>Content-Type: application/json</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tên</th><th>Loại</th><th>Bắt buộc</th><th>Mô tả</th></tr></thead><tbody><tr><td>team_code</td><td>string</td><td>Có</td><td>Mã của nhóm FSEC, cách lấy team_code <a href="https://fptcloud.com/documents/fpt-security-platform/?doc=cai-dat-team" target="_blank" rel="noopener noreferrer" class="">tại đây</a></td></tr><tr><td>git_repo_url</td><td>string</td><td>Có</td><td>URL kho lưu trữ Git (ví dụ: GitHub hoặc GitLab)</td></tr><tr><td>access_key</td><td>string</td><td>Có</td><td>Khóa truy cập do FSEC cấp để truy cập kho lưu trữ, cách lấy access_key của GitLab server <a href="https://fptcloud.com/documents/fpt-security-platform/?doc=guide-gitlabserver" target="_blank" rel="noopener noreferrer" class="">tại đây</a>, tương tự với các loại tích hợp khác</td></tr><tr><td>branch</td><td>string</td><td>Có</td><td>Tên nhánh cần quét</td></tr><tr><td>commit</td><td>string</td><td>Không</td><td>SHA của commit trên nhánh cần quét</td></tr></tbody></table>
+<p><strong>Ví dụ</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#bfc7d5;background-color:#292d3e"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token plain">POST /api/v1/xplat/fsp-service/core-service/integration/scan-secret HTTP/1.1</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Host: api.yourdomain.com</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Orgid: 123e4567-e89b-12d3-a456-426614174000</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Accept: application/json</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Content-Type: application/json</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">{</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;team_code&quot;: &quot;FSEC_TEAM_001&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;git_repo_url&quot;: &quot;https://github.com/example/repo.git&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;access_key&quot;: &quot;abcd1234&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;branch&quot;: &quot;main&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">}</span><br></span></code></pre></div></div>
+<p><strong>Phản hồi</strong></p>
+<ul>
+<li class="">
+<p>200 - Successful Response</p>
+<p>{
+&quot;data&quot;: {
+&quot;errorCode&quot;: &quot;F-000&quot;,
+&quot;errorMessage&quot;: &quot;&quot;,
+&quot;data&quot;: {
+&quot;request_code&quot;: &quot;&quot;,
+&quot;request_time&quot;: &quot;2025-03-25 13:34:11&quot;
+}
+}
+}</p>
+</li>
+<li class="">
+<p>422 - Validation Error</p>
+<p>{
+&quot;detail&quot;: [
+{
+&quot;loc&quot;: [&quot;string&quot;, 0],
+&quot;msg&quot;: &quot;string&quot;,
+&quot;type&quot;: &quot;string&quot;
+}
+]
+}</p>
+</li>
+</ul>
+<h5 class="anchor anchorTargetStickyNavbar_Vzrq" id="322-scan-theo-commit">3.2.2. Scan theo commit<a href="#322-scan-theo-commit" class="hash-link" aria-label="Đường dẫn trực tiếp đến 3.2.2. Scan theo commit" title="Đường dẫn trực tiếp đến 3.2.2. Scan theo commit" translate="no">​</a></h5>
+<p><code>POST /api/v1/xplat/fsp-service/core-service/integration/scan-secret?scan-mode=commit</code> <em>Khởi tạo quét secret cho một kho lưu trữ và commit cụ thể thuộc nhóm FSEC.</em></p>
+<p><strong>Yêu cầu</strong></p>
+<p><strong><em>Headers</em></strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tên</th><th>Loại</th><th>Bắt buộc</th><th>Mô tả</th></tr></thead><tbody><tr><td>Orgid</td><td>string</td><td>Không</td><td>ID tổ chức để xác thực</td></tr></tbody></table>
+<p><strong><em>Body</em></strong></p>
+<p>Content-Type: application/json</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tên</th><th>Loại</th><th>Bắt buộc</th><th>Mô tả</th></tr></thead><tbody><tr><td>team_code</td><td>string</td><td>Có</td><td>Mã của nhóm FSEC, cách lấy team_code <a href="https://fptcloud.com/documents/fpt-security-platform/?doc=cai-dat-team" target="_blank" rel="noopener noreferrer" class="">tại đây</a></td></tr><tr><td>git_repo_url</td><td>string</td><td>Có</td><td>URL kho lưu trữ Git (ví dụ: GitHub hoặc GitLab)</td></tr><tr><td>access_key</td><td>string</td><td>Có</td><td>Khóa truy cập do FSEC cấp để truy cập kho lưu trữ, cách lấy access_key của GitLab server <a href="https://fptcloud.com/documents/fpt-security-platform/?doc=guide-gitlabserver" target="_blank" rel="noopener noreferrer" class="">tại đây</a>, tương tự với các loại tích hợp khác</td></tr><tr><td>branch</td><td>string</td><td>Có</td><td>Tên nhánh cần quét</td></tr><tr><td>commit</td><td>string</td><td>Có</td><td>SHA của commit trên nhánh cần quét</td></tr></tbody></table>
+<p><strong>Ví dụ</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#bfc7d5;background-color:#292d3e"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token plain">POST /api/v1/xplat/fsp-service/core-service/integration/scan-secret?scan-mode=commit HTTP/1.1</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Host: api.yourdomain.com</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Orgid: 123e4567-e89b-12d3-a456-426614174000</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Accept: application/json</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Content-Type: application/json</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">{</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;team_code&quot;: &quot;FSEC_TEAM_001&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;git_repo_url&quot;: &quot;https://github.com/example/repo.git&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;access_key&quot;: &quot;abcd1234&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;branch&quot;: &quot;main&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;commit&quot;: &quot;a1b2c3d4e5f6g7h8i9j0&quot;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">}</span><br></span></code></pre></div></div>
+<p><strong>Phản hồi</strong></p>
+<ul>
+<li class="">
+<p>200 - Successful Response</p>
+<p>{
+&quot;data&quot;: {
+&quot;errorCode&quot;: &quot;F-000&quot;,
+&quot;errorMessage&quot;: &quot;&quot;,
+&quot;data&quot;: {
+&quot;request_code&quot;: &quot;&quot;,
+&quot;request_time&quot;: &quot;2025-03-25 13:34:11&quot;
+}
+}
+}</p>
+</li>
+<li class="">
+<p>422 - Validation Error</p>
+<p>{
+&quot;detail&quot;: [
+{
+&quot;loc&quot;: [&quot;string&quot;, 0],
+&quot;msg&quot;: &quot;string&quot;,
+&quot;type&quot;: &quot;string&quot;
+}
+]
+}</p>
+</li>
+</ul>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="33-tích-hợp-scan-image">3.3. Tích hợp scan image<a href="#33-tích-hợp-scan-image" class="hash-link" aria-label="Đường dẫn trực tiếp đến 3.3. Tích hợp scan image" title="Đường dẫn trực tiếp đến 3.3. Tích hợp scan image" translate="no">​</a></h4>
+<p><code>POST /api/v1/xplat/fsp-service/core-service/integration/scan-image</code> <em>Khởi tạo quét image cho một kho lưu trữ và commit cụ thể thuộc nhóm FSEC.</em></p>
+<p><strong>Yêu cầu</strong></p>
+<p><strong><em>Headers</em></strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tên</th><th>Loại</th><th>Bắt buộc</th><th>Mô tả</th></tr></thead><tbody><tr><td>Orgid</td><td>string</td><td>Không</td><td>ID tổ chức để xác thực</td></tr></tbody></table>
+<p><strong><em>Body</em></strong></p>
+<p>Content-Type: application/json</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tên</th><th>Loại</th><th>Bắt buộc</th><th>Mô tả</th></tr></thead><tbody><tr><td>team_code</td><td>string</td><td>Có</td><td>Mã của nhóm FSEC, cách lấy team_code <a href="https://fptcloud.com/documents/fpt-security-platform/?doc=cai-dat-team" target="_blank" rel="noopener noreferrer" class="">tại đây</a></td></tr><tr><td>access_key</td><td>string</td><td>Có</td><td>Khóa truy cập do FSEC cấp cho registry image, cách lấy access_key của GitLab server <a href="https://fptcloud.com/documents/fpt-security-platform/?doc=guide-gitlabserver" target="_blank" rel="noopener noreferrer" class="">tại đây</a>, tương tự với các loại tích hợp khác</td></tr><tr><td>image_url</td><td>string</td><td>Có</td><td>Đường dẫn registry và tag của image (ví dụ: repo:tag)</td></tr></tbody></table>
+<p><strong>Ví dụ</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#bfc7d5;background-color:#292d3e"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token plain">POST /api/v1/xplat/fsp-service/core-service/integration/scan-image HTTP/1.1</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Host: api.yourdomain.com</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Orgid: 123e4567-e89b-12d3-a456-426614174000</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Accept: application/json</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Content-Type: application/json</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">{</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;team_code&quot;: &quot;FSEC_TEAM_001&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;access_key&quot;: &quot;abcd1234&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;image_url&quot;: &quot;registry.example.com/myapp:latest&quot;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">}</span><br></span></code></pre></div></div>
+<p><strong>Phản hồi</strong></p>
+<ul>
+<li class="">
+<p>200 - Successful Response</p>
+<p>{
+&quot;data&quot;: {
+&quot;errorCode&quot;: &quot;F-000&quot;,
+&quot;errorMessage&quot;: &quot;&quot;,
+&quot;data&quot;: {
+&quot;request_code&quot;: &quot;&quot;,
+&quot;request_time&quot;: &quot;2025-03-25 13:34:11&quot;
+}
+}
+}</p>
+</li>
+<li class="">
+<p>422 - Validation Error</p>
+<p>{
+&quot;detail&quot;: [
+{
+&quot;loc&quot;: [&quot;string&quot;, 0],
+&quot;msg&quot;: &quot;string&quot;,
+&quot;type&quot;: &quot;string&quot;
+}
+]
+}</p>
+</li>
+</ul>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="34-tích-hợp-lấy-kết-quả-scan-code">3.4. Tích hợp lấy kết quả scan code<a href="#34-tích-hợp-lấy-kết-quả-scan-code" class="hash-link" aria-label="Đường dẫn trực tiếp đến 3.4. Tích hợp lấy kết quả scan code" title="Đường dẫn trực tiếp đến 3.4. Tích hợp lấy kết quả scan code" translate="no">​</a></h4>
+<p><code>POST /api/v1/xplat/fsp-service/core-service/integration/get-scan-code-result</code> <em>Lấy kết quả của một lần quét mã nguồn đã khởi tạo trước đó bằng request_code.</em></p>
+<p><strong>Yêu cầu</strong></p>
+<p><strong><em>Headers</em></strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tên</th><th>Loại</th><th>Bắt buộc</th><th>Mô tả</th></tr></thead><tbody><tr><td>Orgid</td><td>string</td><td>Không</td><td>ID tổ chức để xác thực</td></tr></tbody></table>
+<p><strong><em>Body</em></strong></p>
+<p>Content-Type: application/json</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tên</th><th>Loại</th><th>Bắt buộc</th><th>Mô tả</th></tr></thead><tbody><tr><td>request_code</td><td>string</td><td>Có</td><td>Mã yêu cầu trả về từ /scan-code</td></tr><tr><td>access_key</td><td>string</td><td>Có</td><td>Khóa truy cập do FSEC cấp, cách lấy access_key của GitLab server <a href="https://fptcloud.com/documents/fpt-security-platform/?doc=guide-gitlabserver" target="_blank" rel="noopener noreferrer" class="">tại đây</a>, tương tự với các loại tích hợp khác</td></tr></tbody></table>
+<p><strong>Ví dụ</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#bfc7d5;background-color:#292d3e"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token plain">POST /api/v1/xplat/fsp-service/core-service/integration/get-scan-code-result HTTP/1.1</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Host: api.yourdomain.com</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Orgid: 123e4567-e89b-12d3-a456-426614174000</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Accept: application/json</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Content-Type: application/json</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">{</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;request_code&quot;: &quot;RSC-123456&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;access_key&quot;: &quot;abcd1234&quot;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">}</span><br></span></code></pre></div></div>
+<p><strong>Phản hồi</strong></p>
+<ul>
+<li class="">
+<p>200 - Successful Response</p>
+<p>{
+&quot;errorCode&quot;: &quot;F-000&quot;,
+&quot;errorMessage&quot;: &quot;&quot;,
+&quot;data&quot;: {
+&quot;request_code&quot;: &quot;RSC-123456&quot;,
+&quot;scan_status&quot;: &quot;FINISHED&quot;,
+&quot;scan_result_status&quot;: &quot;SUCCESS&quot;,
+&quot;scan_result&quot;: {
+&quot;C&quot;: 0,
+&quot;H&quot;: 0,
+&quot;L&quot;: 0,
+&quot;M&quot;: 4
+},
+&quot;result_details&quot;: {
+&quot;scanCode&quot;: {
+&quot;M&quot;: 4,
+&quot;L&quot;: 0,
+&quot;H&quot;: 0,
+&quot;C&quot;: 0
+}
+},
+&quot;finish_time&quot;: &quot;2025-08-18 04:32:30.137421&quot;,
+&quot;quatity_gate&quot;: null
+}
+}</p>
+</li>
+<li class="">
+<p>422 - Validation Error</p>
+<p>{
+&quot;detail&quot;: [
+{
+&quot;loc&quot;: [&quot;string&quot;, 0],
+&quot;msg&quot;: &quot;string&quot;,
+&quot;type&quot;: &quot;string&quot;
+}
+]
+}</p>
+</li>
+</ul>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="35-tích-hợp-lấy-kết-quả-scan-secret">3.5. Tích hợp lấy kết quả scan secret<a href="#35-tích-hợp-lấy-kết-quả-scan-secret" class="hash-link" aria-label="Đường dẫn trực tiếp đến 3.5. Tích hợp lấy kết quả scan secret" title="Đường dẫn trực tiếp đến 3.5. Tích hợp lấy kết quả scan secret" translate="no">​</a></h4>
+<p><code>POST /api/v1/xplat/fsp-service/core-service/integration/get-scan-secret-result</code> <em>Lấy kết quả của một lần quét secret đã khởi tạo trước đó bằng request_code.</em></p>
+<p><strong>Yêu cầu</strong></p>
+<p><strong><em>Headers</em></strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tên</th><th>Loại</th><th>Bắt buộc</th><th>Mô tả</th></tr></thead><tbody><tr><td>Orgid</td><td>string</td><td>Không</td><td>ID tổ chức để xác thực</td></tr></tbody></table>
+<p><strong><em>Body</em></strong></p>
+<p>Content-Type: application/json</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tên</th><th>Loại</th><th>Bắt buộc</th><th>Mô tả</th></tr></thead><tbody><tr><td>request_code</td><td>string</td><td>Có</td><td>Mã yêu cầu trả về từ /scan-secret</td></tr><tr><td>access_key</td><td>string</td><td>Có</td><td>Khóa truy cập do FSEC cấp, cách lấy access_key của GitLab server <a href="https://fptcloud.com/documents/fpt-security-platform/?doc=guide-gitlabserver" target="_blank" rel="noopener noreferrer" class="">tại đây</a>, tương tự với các loại tích hợp khác</td></tr></tbody></table>
+<p><strong>Ví dụ</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#bfc7d5;background-color:#292d3e"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token plain">POST /api/v1/xplat/fsp-service/core-service/integration/get-scan-secret-result HTTP/1.1</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Host: api.yourdomain.com</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Orgid: 123e4567-e89b-12d3-a456-426614174000</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Accept: application/json</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Content-Type: application/json</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">{</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;request_code&quot;: &quot;RSC-123456&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;access_key&quot;: &quot;abcd1234&quot;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">}</span><br></span></code></pre></div></div>
+<p><strong>Phản hồi</strong></p>
+<ul>
+<li class="">
+<p>200 - Successful Response</p>
+<p>{
+&quot;errorCode&quot;: &quot;F-000&quot;,
+&quot;errorMessage&quot;: &quot;&quot;,
+&quot;data&quot;: {
+&quot;request_code&quot;: &quot;RSC-123456&quot;,
+&quot;scan_status&quot;: &quot;FINISHED&quot;,
+&quot;scan_result_status&quot;: &quot;SUCCESS&quot;,
+&quot;scan_result&quot;: {
+&quot;C&quot;: 0,
+&quot;H&quot;: 0,
+&quot;L&quot;: 0,
+&quot;M&quot;: 4
+},
+&quot;result_details&quot;: {
+&quot;scanCode&quot;: {
+&quot;M&quot;: 4,
+&quot;L&quot;: 0,
+&quot;H&quot;: 0,
+&quot;C&quot;: 0
+}
+},
+&quot;finish_time&quot;: &quot;2025-08-18 04:32:30.137421&quot;,
+&quot;quatity_gate&quot;: null
+}
+}</p>
+</li>
+<li class="">
+<p>422 - Validation Error</p>
+<p>{
+&quot;detail&quot;: [
+{
+&quot;loc&quot;: [&quot;string&quot;, 0],
+&quot;msg&quot;: &quot;string&quot;,
+&quot;type&quot;: &quot;string&quot;
+}
+]
+}</p>
+</li>
+</ul>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="36-tích-hợp-lấy-kết-quả-scan-image">3.6. Tích hợp lấy kết quả scan image<a href="#36-tích-hợp-lấy-kết-quả-scan-image" class="hash-link" aria-label="Đường dẫn trực tiếp đến 3.6. Tích hợp lấy kết quả scan image" title="Đường dẫn trực tiếp đến 3.6. Tích hợp lấy kết quả scan image" translate="no">​</a></h4>
+<p><code>POST /api/v1/xplat/fsp-service/core-service/integration/get-scan-image-result</code> <em>Lấy kết quả của một lần quét image đã khởi tạo trước đó bằng request_code.</em></p>
+<p><strong>Yêu cầu</strong></p>
+<p><strong><em>Headers</em></strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tên</th><th>Loại</th><th>Bắt buộc</th><th>Mô tả</th></tr></thead><tbody><tr><td>Orgid</td><td>string</td><td>Không</td><td>ID tổ chức để xác thực</td></tr></tbody></table>
+<p><strong><em>Body</em></strong></p>
+<p>Content-Type: application/json</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tên</th><th>Loại</th><th>Bắt buộc</th><th>Mô tả</th></tr></thead><tbody><tr><td>request_code</td><td>string</td><td>Có</td><td>Mã yêu cầu trả về từ /scan-image</td></tr><tr><td>access_key</td><td>string</td><td>Có</td><td>Khóa truy cập do FSEC cấp, cách lấy access_key của GitLab server <a href="https://fptcloud.com/documents/fpt-security-platform/?doc=guide-gitlabserver" target="_blank" rel="noopener noreferrer" class="">tại đây</a>, tương tự với các loại tích hợp khác</td></tr></tbody></table>
+<p><strong>Ví dụ</strong></p>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#bfc7d5;background-color:#292d3e"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token plain">POST /api/v1/xplat/fsp-service/core-service/integration/get-scan-image-result HTTP/1.1</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Host: api.yourdomain.com</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Orgid: 123e4567-e89b-12d3-a456-426614174000</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Accept: application/json</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">Content-Type: application/json</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">{</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;request_code&quot;: &quot;RSC-123456&quot;,</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &quot;access_key&quot;: &quot;abcd1234&quot;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">}</span><br></span></code></pre></div></div>
+<p><strong>Phản hồi</strong></p>
+<ul>
+<li class="">
+<p>200 - Successful Response</p>
+<p>{
+&quot;errorCode&quot;: &quot;F-000&quot;,
+&quot;errorMessage&quot;: &quot;&quot;,
+&quot;data&quot;: {
+&quot;request_code&quot;: &quot;RSC-123456&quot;,
+&quot;scan_status&quot;: &quot;FINISHED&quot;,
+&quot;scan_result_status&quot;: &quot;SUCCESS&quot;,
+&quot;scan_result&quot;: {
+&quot;C&quot;: 0,
+&quot;H&quot;: 0,
+&quot;L&quot;: 0,
+&quot;M&quot;: 4
+},
+&quot;result_details&quot;: {
+&quot;scanCode&quot;: {
+&quot;M&quot;: 4,
+&quot;L&quot;: 0,
+&quot;H&quot;: 0,
+&quot;C&quot;: 0
+}
+},
+&quot;finish_time&quot;: &quot;2025-08-18 04:32:30.137421&quot;,
+&quot;quatity_gate&quot;: null
+}
+}</p>
+</li>
+<li class="">
+<p>422 - Validation Error</p>
+<p>{
+&quot;detail&quot;: [
+{
+&quot;loc&quot;: [&quot;string&quot;, 0],
+&quot;msg&quot;: &quot;string&quot;,
+&quot;type&quot;: &quot;string&quot;
+}
+]
+}</p>
+</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-pipeline-flow">4. Pipeline flow<a href="#4-pipeline-flow" class="hash-link" aria-label="Đường dẫn trực tiếp đến 4. Pipeline flow" title="Đường dẫn trực tiếp đến 4. Pipeline flow" translate="no">​</a></h3>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="41-giai-đoạn-scan-code-sau-bước-checkout-source">4.1. Giai đoạn scan code (sau bước checkout source)<a href="#41-giai-đoạn-scan-code-sau-bước-checkout-source" class="hash-link" aria-label="Đường dẫn trực tiếp đến 4.1. Giai đoạn scan code (sau bước checkout source)" title="Đường dẫn trực tiếp đến 4.1. Giai đoạn scan code (sau bước checkout source)" translate="no">​</a></h4>
+<ul>
+<li class=""><strong>Kích hoạt scan</strong> :</li>
+<li class="">
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#bfc7d5;background-color:#292d3e"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token plain">* Scan toàn bộ source code: Gọi `POST /api/v1/xplat/fsp-service/core-service/integration/scan-code` với thông tin chi tiết về repository.</span><br></span></code></pre></div></div>
+</li>
+<li class="">
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#bfc7d5;background-color:#292d3e"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token plain">* Scan thay đổi theo commit: Gọi `POST /api/v1/xplat/fsp-service/core-service/integration/scan-code?scan-mode=commit` với thông tin chi tiết về repository.</span><br></span></code></pre></div></div>
+</li>
+<li class=""><strong>Lấy kết quả</strong> : Gọi <code>POST /api/v1/xplat/fsp-service/core-service/integration/get-scan-code-result</code> và lặp lại đến khi <em>scan_result_status = SUCCESS</em>.</li>
+<li class=""><strong>Đánh giá pass/fail</strong> : Dựa trên kết quả thuộc trường <em>scan_result</em> hoặc các ngưỡng chất lượng (quality gate) riêng.</li>
+</ul>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="42-giai-đoạn-scan-secret-sau-bước-checkout-source">4.2. Giai đoạn scan secret (sau bước checkout source)<a href="#42-giai-đoạn-scan-secret-sau-bước-checkout-source" class="hash-link" aria-label="Đường dẫn trực tiếp đến 4.2. Giai đoạn scan secret (sau bước checkout source)" title="Đường dẫn trực tiếp đến 4.2. Giai đoạn scan secret (sau bước checkout source)" translate="no">​</a></h4>
+<ul>
+<li class=""><strong>Kích hoạt scan</strong> : Gọi <code>POST /api/v1/xplat/fsp-service/core-service/integration/scan-secret</code> với payload giống bước scan code.</li>
+<li class=""><strong>Lấy kết quả</strong> : Gọi <code>POST /api/v1/xplat/fsp-service/core-service/integration/get-scan-secret-result</code> và lặp lại đến khi <em>scan_result_status = SUCCESS</em>.</li>
+<li class=""><strong>Đánh giá pass/fail</strong> : Dựa trên kết quả thuộc trường <em>scan_result</em> hoặc các ngưỡng chất lượng (quality gate) riêng.</li>
+</ul>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="43-giai-đoạn-scan-image-sau-bước-build">4.3. Giai đoạn scan image (sau bước build)<a href="#43-giai-đoạn-scan-image-sau-bước-build" class="hash-link" aria-label="Đường dẫn trực tiếp đến 4.3. Giai đoạn scan image (sau bước build)" title="Đường dẫn trực tiếp đến 4.3. Giai đoạn scan image (sau bước build)" translate="no">​</a></h4>
+<ul>
+<li class=""><strong>Kích hoạt scan</strong> : Gọi <code>POST /api/v1/xplat/fsp-service/core-service/integration/scan-image</code> với tag của image.</li>
+<li class=""><strong>Lấy kết quả</strong> : Gọi <code>POST /api/v1/xplat/fsp-service/core-service/integration/get-scan-image-result</code> và lặp lại đến khi <em>scan_result_status = SUCCESS</em>.</li>
+<li class=""><strong>Đánh giá pass/fail</strong> : Dựa trên kết quả thuộc trường <em>scan_result</em> hoặc các ngưỡng chất lượng (quality gate) riêng.</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-cấu-hình-mẫu">5. Cấu hình mẫu<a href="#5-cấu-hình-mẫu" class="hash-link" aria-label="Đường dẫn trực tiếp đến 5. Cấu hình mẫu" title="Đường dẫn trực tiếp đến 5. Cấu hình mẫu" translate="no">​</a></h3>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="51-gitlab-ci">5.1. GitLab CI<a href="#51-gitlab-ci" class="hash-link" aria-label="Đường dẫn trực tiếp đến 5.1. GitLab CI" title="Đường dẫn trực tiếp đến 5.1. GitLab CI" translate="no">​</a></h4>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#bfc7d5;background-color:#292d3e"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token plain">variables:</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  ORGID: &quot;$FSP_ORGID&quot;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  ACCESS_KEY: &quot;$FSP_ACCESS_KEY&quot;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  API_URL: &quot;https://api.yourdomain.com/api/v1/xplat/fsp-service/core-service&quot;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  TEAM_CODE: &quot;FSEC_TEAM_001&quot;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">stages:</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  - code-scan</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  - secret-scan</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  - build</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  - image-scan</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain"># Shared script for code &amp; secret scans</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">.scan-stage: &amp;scan-stage;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  image: alpine:latest</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  before_script:</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    - apk add --no-cache curl jq</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  script:</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    - echo &quot;Trigger scan&quot;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    - RESPONSE=$(curl -s -X POST &quot;$API_URL/integration/${ENDPOINT}&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        -H &quot;Orgid: $ORGID&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        -H &quot;access_key: $ACCESS_KEY&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        -H &quot;Content-Type: application/json&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        -d &quot;{\&quot;team_code\&quot;:\&quot;$TEAM_CODE\&quot;,\&quot;git_repo_url\&quot;:\&quot;$CI_PROJECT_URL.git\&quot;,\&quot;branch\&quot;:\&quot;$CI_COMMIT_REF_NAME\&quot;,\&quot;commit\&quot;:\&quot;$CI_COMMIT_SHA\&quot;}&quot;)</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    - CODE=$(echo &quot;$RESPONSE&quot; | jq -r &#x27;.data.data.request_code&#x27;)</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    - |</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">      echo &quot;Polling for scan result...&quot;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">      until [ &quot;$(curl -s -X POST &quot;$API_URL/integration/$RESULT_ENDPOINT&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">            -H &quot;Orgid: $ORGID&quot; -H &quot;access_key: $ACCESS_KEY&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">            -H &quot;Content-Type: application/json&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">            -d &quot;{\&quot;request_code\&quot;:\&quot;$CODE\&quot;,\&quot;access_key\&quot;:\&quot;$ACCESS_KEY\&quot;}&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        | jq -r &#x27;.data.data.status&#x27;)&quot; = &quot;COMPLETED&quot; ]; do</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        sleep 10</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">      done</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    - ISSUES=$(curl -s -X POST &quot;$API_URL/integration/$RESULT_ENDPOINT&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        -H &quot;Orgid: $ORGID&quot; -H &quot;access_key: $ACCESS_KEY&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        -H &quot;Content-Type: application/json&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        -d &quot;{\&quot;request_code\&quot;:\&quot;$CODE\&quot;,\&quot;access_key\&quot;:\&quot;$ACCESS_KEY\&quot;}&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        | jq &#x27;.data.data.issues_found&#x27;)</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    - if [ &quot;$ISSUES&quot; -gt 0 ]; then echo &quot;Found $ISSUES issues in $ENDPOINT&quot;; exit 1; fi</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">code-scan:</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  stage: code-scan</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  variables:</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    ENDPOINT: &quot;scan-code&quot;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    RESULT_ENDPOINT: &quot;get-scan-code-result&quot;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &lt;&lt;: *scan-stage</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">secret-scan:</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  stage: secret-scan</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  variables:</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    ENDPOINT: &quot;scan-secret&quot;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    RESULT_ENDPOINT: &quot;get-scan-secret-result&quot;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  &lt;&lt;: *scan-stage</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">build:</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  stage: build</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  script:</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    - docker build -t myapp:$CI_COMMIT_SHA .</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">image-scan:</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  stage: image-scan</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  script:</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    - echo &quot;Trigger image scan&quot;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    - RESPONSE=$(curl -s -X POST &quot;$API_URL/integration/scan-image&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        -H &quot;Orgid: $ORGID&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        -H &quot;access_key: $ACCESS_KEY&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        -H &quot;Content-Type: application/json&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        -d &quot;{\&quot;team_code\&quot;:\&quot;$TEAM_CODE\&quot;,\&quot;access_key\&quot;:\&quot;$ACCESS_KEY\&quot;,\&quot;image_url\&quot;:\&quot;registry.example.com/myapp:$CI_COMMIT_SHA\&quot;}&quot;)</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    - CODE=$(echo &quot;$RESPONSE&quot; | jq -r &#x27;.data.data.request_code&#x27;)</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    - |</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">      echo &quot;Polling for image scan result...&quot;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">      until [ &quot;$(curl -s -X POST &quot;$API_URL/integration/get-scan-image-result&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">            -H &quot;Orgid: $ORGID&quot; -H &quot;access_key: $ACCESS_KEY&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">            -H &quot;Content-Type: application/json&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">            -d &quot;{\&quot;request_code\&quot;:\&quot;$CODE\&quot;,\&quot;access_key\&quot;:\&quot;$ACCESS_KEY\&quot;}&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        | jq -r &#x27;.data.data.scan_status&#x27;)&quot; = &quot;COMPLETED&quot; ]; do</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        sleep 10</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">      done</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    - HIGH=$(curl -s -X POST &quot;$API_URL/integration/get-scan-image-result&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        -H &quot;Orgid: $ORGID&quot; -H &quot;access_key: $ACCESS_KEY&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        -H &quot;Content-Type: application/json&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        -d &quot;{\&quot;request_code\&quot;:\&quot;$CODE\&quot;,\&quot;access_key\&quot;:\&quot;$ACCESS_KEY\&quot;}&quot; \</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        | jq &#x27;.data.data.scan_result.H&#x27;)</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    - if [ &quot;$HIGH&quot; -gt 0 ]; then echo &quot;High severity issues found&quot;; exit 1; fi</span><br></span></code></pre></div></div>
+<h4 class="anchor anchorTargetStickyNavbar_Vzrq" id="52-jenkins-pipeline">5.2. Jenkins Pipeline<a href="#52-jenkins-pipeline" class="hash-link" aria-label="Đường dẫn trực tiếp đến 5.2. Jenkins Pipeline" title="Đường dẫn trực tiếp đến 5.2. Jenkins Pipeline" translate="no">​</a></h4>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#bfc7d5;--prism-background-color:#292d3e"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#bfc7d5;background-color:#292d3e"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#bfc7d5"><span class="token plain">pipeline {</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  agent any</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  environment {</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    ORGID = credentials(&#x27;FSP_ORGID&#x27;)</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    ACCESS_KEY = credentials(&#x27;FSP_ACCESS_KEY&#x27;)</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    API_URL = &#x27;https://api.yourdomain.com/api/v1/xplat/fsp-service/core-service&#x27;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  }</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">  stages {</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    stage(&#x27;Code Scan&#x27;) {</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">      steps {</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        script {</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">          def payload = [team_code: &#x27;FSEC_TEAM_001&#x27;, git_repo_url: env.GIT_URL, branch: env.BRANCH_NAME, commit: env.GIT_COMMIT]</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">          def response = httpRequest acceptType: &#x27;APPLICATION_JSON&#x27;, contentType: &#x27;APPLICATION_JSON&#x27;, httpMode: &#x27;POST&#x27;, requestBody: groovy.json.JsonOutput.toJson(payload), url: &quot;${API_URL}/integration/scan-code&quot;, customHeaders: [[name:&#x27;Orgid&#x27;, value:ORGID], [name:&#x27;access_key&#x27;, value:ACCESS_KEY]]</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">          def code = readJSON(text: response.content).data.data.request_code</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">          timeout(time: 5, unit: &#x27;MINUTES&#x27;) {</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">            waitUntil {</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">              def result = httpRequest acceptType: &#x27;APPLICATION_JSON&#x27;, contentType: &#x27;APPLICATION_JSON&#x27;, httpMode: &#x27;POST&#x27;, requestBody: groovy.json.JsonOutput.toJson([request_code: code, access_key: ACCESS_KEY]), url: &quot;${API_URL}/integration/get-scan-code-result&quot;, customHeaders: [[name:&#x27;Orgid&#x27;, value:ORGID], [name:&#x27;access_key&#x27;, value:ACCESS_KEY]]</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">              return readJSON(text: result.content).data.data.status == &#x27;COMPLETED&#x27;</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">            }</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">          }</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">          def issues = readJSON(text: result.content).data.data.issues_found</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">          if (issues &gt; 0) { error &quot;Found ${issues} code issues&quot; }</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        }</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">      }</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    }</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">    stage(&#x27;Secret Scan&#x27;) {</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">      steps {</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">        script {</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">          def payload = [team_code: &#x27;FSEC_TEAM_001&#x27;, git_repo_url: env.GIT_URL, branch: env.BRANCH_NAME, commit: env.GIT_COMMIT]</span><br></span><span class="token-line" style="color:#bfc7d5"><span class="token plain">          def response = httpRequest acceptType: &#x27;APPLICATION_JSON&#x27;, contentType: &#x27;APPLICATION_JSON&#x27;, httpMode: &#x27;POST&#x27;, requestBody: groovy.json.JsonOutput.toJson(payload), url: &quot;${API_URL}/integration/scan-secret&quot;, custom</span><br></span></code></pre></div></div>
+<p><a class="" href="/fpt-appsec/guide-harbor"> Previous Harbor </a> <a class="" href="/fpt-appsec/guide-workspace"> Next Workspace Management - Quản lý Asset và Issue </a></p></div></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Trang tài liệu"><a class="pagination-nav__link pagination-nav__link--prev" href="/fpt-appsec/chinh-sua-thong-tin-org"><div class="pagination-nav__sublabel">Trước</div><div class="pagination-nav__label">FPT AppSec</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/fpt-appsec/create-schedule"><div class="pagination-nav__sublabel">Kế tiếp</div><div class="pagination-nav__label">FPT AppSec</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#1-tổng-quan" class="table-of-contents__link toc-highlight">1. Tổng quan</a></li><li><a href="#2-yêu-cầu-chuẩn-bị" class="table-of-contents__link toc-highlight">2. Yêu cầu chuẩn bị</a></li><li><a href="#3-đặc-tả-api" class="table-of-contents__link toc-highlight">3. Đặc tả API</a></li><li><a href="#4-pipeline-flow" class="table-of-contents__link toc-highlight">4. Pipeline flow</a></li><li><a href="#5-cấu-hình-mẫu" class="table-of-contents__link toc-highlight">5. Cấu hình mẫu</a></li></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="theme-layout-footer-column col footer__col"><div class="footer__title">FPT Cloud</div><ul class="footer__items clean-list"><li class="footer__item"><a href="https://console.fptcloud.com" target="_blank" rel="noopener noreferrer" class="footer__link-item">FPT Cloud Portal<svg width="13.5" height="13.5" aria-label="(opens in new tab)" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a></li><li class="footer__item"><a href="https://fptcloud.com" target="_blank" rel="noopener noreferrer" class="footer__link-item">FPT Cloud Website<svg width="13.5" height="13.5" aria-label="(opens in new tab)" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a></li></ul></div><div class="theme-layout-footer-column col footer__col"><div class="footer__title">Documentation</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/cloud-server">Cloud Server (VI)</a></li><li class="footer__item"><a class="footer__link-item" href="/en/ai-factory-billing">English Docs</a></li><li class="footer__item"><a class="footer__link-item" href="/ja/ja_gpu-virtual-machine">日本語ドキュメント</a></li></ul></div><div class="theme-layout-footer-column col footer__col"><div class="footer__title">Support</div><ul class="footer__items clean-list"><li class="footer__item"><a href="https://fptcloud.com/contact" target="_blank" rel="noopener noreferrer" class="footer__link-item">Contact Support<svg width="13.5" height="13.5" aria-label="(opens in new tab)" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a></li></ul></div></div><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2026 FPT Smart Cloud. All rights reserved.</div></div></div></footer></div>
+</body>
+</html>

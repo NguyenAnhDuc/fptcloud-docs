@@ -1,0 +1,14 @@
+{
+  "label": "Khởi tạo & Truy cập",
+  "position": 2,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "huong-dan-su-dung-grafana/initial/index"
+  },
+  "customProps": {
+    "sidebar_key": "huong-dan-su-dung-grafana-initial"
+  },
+  "key": "huong-dan-su-dung-grafana-initial"
+}

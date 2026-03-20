@@ -1,0 +1,14 @@
+{
+  "label": "Storage & Backup",
+  "position": 4,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "dedicated-fpt-kubernetes-engine/storage-backup/index"
+  },
+  "customProps": {
+    "sidebar_key": "dedicated-fpt-kubernetes-engine-storage-backup"
+  },
+  "key": "dedicated-fpt-kubernetes-engine-storage-backup"
+}

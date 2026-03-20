@@ -1,0 +1,11 @@
+{
+  "label": "Khởi tạo & Cấu hình",
+  "position": 2,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "incident-management/initial/index"
+  },
+  "key": "incident-management-initial"
+}

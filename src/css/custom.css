@@ -1,0 +1,69 @@
+/* FPT Cloud Brand Colors */
+:root {
+  --ifm-color-primary: #e65c00;
+  --ifm-color-primary-dark: #cf5300;
+  --ifm-color-primary-darker: #c24e00;
+  --ifm-color-primary-darkest: #a04100;
+  --ifm-color-primary-light: #fd6500;
+  --ifm-color-primary-lighter: #fd6c0d;
+  --ifm-color-primary-lightest: #fd7d2a;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(230, 92, 0, 0.1);
+}
+
+/* Dark mode */
+[data-theme='dark'] {
+  --ifm-color-primary: #ff8c42;
+  --ifm-color-primary-dark: #ff7a28;
+  --ifm-color-primary-darker: #ff711b;
+  --ifm-color-primary-darkest: #e55900;
+  --ifm-color-primary-light: #ff9e5c;
+  --ifm-color-primary-lighter: #ffa769;
+  --ifm-color-primary-lightest: #ffbc8d;
+  --docusaurus-highlighted-code-line-bg: rgba(255, 140, 66, 0.1);
+}
+
+/* Hide sub-pages from sidebar */
+.menu__list-item.hidden,
+li.hidden {
+  display: none !important;
+}
+
+/* Navbar branding */
+.navbar__title {
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+/* Better sidebar */
+.menu__link {
+  font-size: 0.9rem;
+}
+
+/* Footer */
+.footer {
+  background-color: #1a1a2e;
+}
+
+/* Mobile improvements */
+@media (max-width: 768px) {
+  .navbar__title {
+    font-size: 1rem;
+  }
+}
+
+/* Table of contents */
+.table-of-contents__link:hover,
+.table-of-contents__link--active {
+  color: var(--ifm-color-primary);
+}
+
+/* Better code blocks */
+.prism-code {
+  font-size: 0.85rem;
+}
+
+/* Breadcrumbs */
+.breadcrumbs__item--active .breadcrumbs__link {
+  color: var(--ifm-color-primary);
+}

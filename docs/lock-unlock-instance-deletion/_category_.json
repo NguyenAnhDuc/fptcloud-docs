@@ -1,0 +1,10 @@
+{
+  "label": "Lock & Unlock Instance Deletion",
+  "link": {
+    "type": "doc",
+    "id": "lock-unlock-instance-deletion/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "lock-unlock-instance-deletion"
+}

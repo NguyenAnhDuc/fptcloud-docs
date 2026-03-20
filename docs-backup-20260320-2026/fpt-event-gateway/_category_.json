@@ -1,0 +1,9 @@
+{
+  "label": "FPT Event Gateway",
+  "link": {
+    "type": "doc",
+    "id": "fpt-event-gateway/index"
+  },
+  "collapsed": true,
+  "collapsible": true
+}

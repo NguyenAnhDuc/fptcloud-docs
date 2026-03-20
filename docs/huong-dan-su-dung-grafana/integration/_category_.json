@@ -1,0 +1,11 @@
+{
+  "label": "Tích hợp",
+  "position": 3,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "huong-dan-su-dung-grafana/integration/index"
+  },
+  "key": "huong-dan-su-dung-grafana-integration"
+}

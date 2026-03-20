@@ -1,0 +1,10 @@
+{
+  "label": "Create VPC",
+  "link": {
+    "type": "doc",
+    "id": "create_vpc/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "create-vpc"
+}

@@ -1,0 +1,11 @@
+{
+  "label": "Registry & Secret",
+  "position": 5,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-argocd-3/registry-secret/index"
+  },
+  "key": "fpt-argocd-3-registry-secret"
+}
