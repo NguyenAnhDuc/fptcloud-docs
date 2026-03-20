@@ -18,3 +18,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Backup folders
+/build-backup-*/
+/docs-backup-*/
+
+# Blog (not used)
+/blog

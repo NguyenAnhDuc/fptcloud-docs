@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkfptcloud_docs=globalThis.webpackChunkfptcloud_docs||[]).push([[34583],{36866(u,c,o){o.r(c),o.d(c,{default:()=>l});var s=o(56347),d=o(74848);function l(){return(0,d.jsx)(s.rd,{to:"/vi/cloud-server"})}}}]);
