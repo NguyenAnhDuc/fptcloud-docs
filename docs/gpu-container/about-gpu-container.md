@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Overview"
+sidebar_label: "About Gpu Container"
 title: "Overview"
 source: "https://fptcloud.com/en/documents/gpu-container/?doc=about-gpu-container"
 parent: "https://fptcloud.com/en/documents/gpu-container"

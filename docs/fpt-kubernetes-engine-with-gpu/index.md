@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Trang chủ"
+sidebar_label: "FPT Kubernetes Engine with GPU"
 title: "2. FPT Kubernetes Engine with GPU"
 source: "https://fptcloud.com/documents/fpt-kubernetes-engine-with-gpu/"
 lang: vi

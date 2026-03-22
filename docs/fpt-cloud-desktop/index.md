@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Giới thiệu"
+sidebar_label: "FPT Cloud Desktop"
 title: "2. FPT Cloud Desktop"
 source: "https://fptcloud.com/documents/fpt-cloud-desktop/"
 lang: vi

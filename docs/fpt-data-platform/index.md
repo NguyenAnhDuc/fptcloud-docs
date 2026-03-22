@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Trang chủ"
+sidebar_label: "FPT Data Platform"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/"
 lang: vi

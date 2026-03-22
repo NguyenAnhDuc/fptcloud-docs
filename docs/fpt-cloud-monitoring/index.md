@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Trang chủ"
+sidebar_label: "FPT Cloud Monitoring"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/"
 lang: vi

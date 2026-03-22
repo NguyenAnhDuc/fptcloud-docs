@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Overview"
+sidebar_label: "Billing Overview"
 title: "Overview"
 source: "https://fptcloud.com/en/documents/gpu-container/?doc=billing-overview"
 parent: "https://fptcloud.com/en/documents/gpu-container"

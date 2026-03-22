@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Overview"
+sidebar_label: "About Ai Notebooks"
 title: "Overview"
 source: "https://fptcloud.com/en/documents/ai-notebook/?doc=about-ai-notebooks"
 parent: "https://fptcloud.com/en/documents/ai-notebook"

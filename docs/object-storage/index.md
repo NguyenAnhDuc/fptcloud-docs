@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Index"
+sidebar_label: "FPT Object Storage"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/"
 lang: vi

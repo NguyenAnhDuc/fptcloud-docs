@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Giới thiệu"
+sidebar_label: "NAT Instance"
 title: "2. NAT Instance"
 source: "https://fptcloud.com/documents/nat_instance/"
 lang: vi

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Giới thiệu"
+sidebar_label: "Overview Affinity"
 title: "Giới thiệu"
 source: "https://fptcloud.com/documents/cloud-server/?doc=overview-affinity"
 parent: "https://fptcloud.com/documents/cloud-server"

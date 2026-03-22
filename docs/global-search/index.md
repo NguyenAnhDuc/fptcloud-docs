@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Overview"
+sidebar_label: "Global Search"
 title: "2. Global Search"
 source: "https://fptcloud.com/documents/global-search/"
 lang: vi

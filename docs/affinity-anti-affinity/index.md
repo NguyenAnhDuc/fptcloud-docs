@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Giới thiệu"
+sidebar_label: "Quản lý Instance Group với chính sách Affinity & Anti-Affinity"
 title: "2. Quản lý Instance Group với chính sách Affinity & Anti-Affinity"
 source: "https://fptcloud.com/documents/affinity-anti-affinity/"
 lang: vi

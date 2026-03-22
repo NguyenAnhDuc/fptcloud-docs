@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Giới thiệu"
+sidebar_label: "Lock & Unlock Instance Deletion"
 title: "2. Lock & Unlock Instance Deletion"
 source: "https://fptcloud.com/documents/lock-unlock-instance-deletion/"
 lang: vi

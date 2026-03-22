@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Trang chủ"
+sidebar_label: "FPT API Management"
 title: "2. FPT API Management"
 source: "https://fptcloud.com/documents/fpt-api-management/"
 lang: vi

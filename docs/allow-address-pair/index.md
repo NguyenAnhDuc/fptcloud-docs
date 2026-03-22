@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Giới thiệu"
+sidebar_label: "Allow Address Pair"
 title: "2. Allow Address Pair"
 source: "https://fptcloud.com/documents/allow-address-pair/"
 lang: vi

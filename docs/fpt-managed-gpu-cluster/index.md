@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Trang chủ"
+sidebar_label: "Managed GPU Cluster (Kubernetes)"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/"
 lang: vi

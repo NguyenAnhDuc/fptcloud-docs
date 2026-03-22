@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Trang chủ"
+sidebar_label: "Incident Management"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/"
 lang: vi

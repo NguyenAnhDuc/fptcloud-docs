@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tổng quan"
+sidebar_label: "Network Interface Card (NIC)"
 title: "2. Network Interface Card (NIC)"
 source: "https://fptcloud.com/documents/nic/"
 lang: vi

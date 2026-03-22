@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Trang chủ"
+sidebar_label: "FPT Cloud WAF"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/"
 lang: vi

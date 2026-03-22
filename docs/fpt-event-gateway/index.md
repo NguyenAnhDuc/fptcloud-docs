@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Trang chủ"
+sidebar_label: "FPT Event Gateway"
 title: "2. FPT Event Gateway"
 source: "https://fptcloud.com/documents/fpt-event-gateway/"
 lang: vi

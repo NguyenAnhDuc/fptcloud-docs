@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Trang chủ"
+sidebar_label: "FPT AppSec"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/"
 lang: vi

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Overview"
+sidebar_label: "Overview Nic"
 title: "Overview"
 source: "https://fptcloud.com/documents/cloud-server/?doc=overview-nic"
 parent: "https://fptcloud.com/documents/cloud-server"

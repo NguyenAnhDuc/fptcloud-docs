@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Trang chủ"
+sidebar_label: "Model Hub"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/"
 lang: vi

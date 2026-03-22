@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Trang chủ"
+sidebar_label: "FPT Cloud Guard"
 title: "2. FPT Cloud Guard"
 source: "https://fptcloud.com/documents/cloud-guard/"
 lang: vi

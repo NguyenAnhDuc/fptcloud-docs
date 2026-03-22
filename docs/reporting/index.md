@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Trang chủ"
+sidebar_label: "FPT Reporting"
 title: "2. FPT Reporting"
 source: "https://fptcloud.com/documents/reporting/"
 lang: vi

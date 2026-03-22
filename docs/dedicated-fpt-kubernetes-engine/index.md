@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Trang chủ"
+sidebar_label: "Dedicated – FPT Kubernetes Engine"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/"
 lang: vi

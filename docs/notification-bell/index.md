@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Giới thiệu"
+sidebar_label: "Notification Bell"
 title: "2. Notification Bell"
 source: "https://fptcloud.com/documents/notification-bell/"
 lang: vi

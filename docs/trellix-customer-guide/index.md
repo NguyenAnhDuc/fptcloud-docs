@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Giới thiệu"
+sidebar_label: "Trellix Customer Guide"
 title: "2. Trellix Customer Guide"
 source: "https://fptcloud.com/documents/trellix-customer-guide/"
 lang: vi

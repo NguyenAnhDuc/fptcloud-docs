@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Giới thiệu"
+sidebar_label: "Terraform"
 title: "2. Terraform"
 source: "https://fptcloud.com/documents/terraform/"
 lang: vi

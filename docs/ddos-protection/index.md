@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Giới thiệu"
+sidebar_label: "DdoS Protection"
 title: "2. DdoS Protection"
 source: "https://fptcloud.com/documents/ddos-protection/"
 lang: vi

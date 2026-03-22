@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Trang chủ"
+sidebar_label: "Managed – FPT Kubernetes Engine"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/"
 lang: vi

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Overview"
+sidebar_label: "Endpoint monitoring"
 title: "2. Endpoint monitoring"
 source: "https://fptcloud.com/documents/endpoint-monitoring/?doc=overview"
 parent: "https://fptcloud.com/documents/endpoint-monitoring"

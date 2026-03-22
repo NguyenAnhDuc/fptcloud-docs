@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Trang chủ"
+sidebar_label: "FPT API Gateway"
 title: "2. FPT API Gateway"
 source: "https://fptcloud.com/documents/fpt-api-gateway/"
 lang: vi

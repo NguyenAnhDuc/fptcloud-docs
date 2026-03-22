@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Trang chủ"
+sidebar_label: "FPT ArgoCD"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/"
 lang: vi

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Trang chủ"
+sidebar_label: "FPT Autoscale"
 title: "2. FPT Autoscale"
 source: "https://fptcloud.com/documents/fpt-autoscale/"
 lang: vi
