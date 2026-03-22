@@ -36,7 +36,7 @@ const config: Config = {
       require.resolve("@easyops-cn/docusaurus-search-local"),
       {
         hashed: true,
-        language: ["en", "vi", "ja"],
+        language: ["vi"],
         indexDocs: true,
         indexBlog: false,
         indexPages: false,
