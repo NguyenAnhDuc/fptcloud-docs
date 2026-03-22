@@ -1,0 +1,10 @@
+{
+  "label": "Cloud Server",
+  "link": {
+    "type": "generated-index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "position": 1,
+  "key": "cloud-server"
+}

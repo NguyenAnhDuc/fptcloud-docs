@@ -1,0 +1,9 @@
+{
+  "label": "2. Quản lý Instance Group với chính sách Affinity & Anti-Affinity",
+  "link": {
+    "type": "generated-index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "affinity-anti-affinity"
+}
