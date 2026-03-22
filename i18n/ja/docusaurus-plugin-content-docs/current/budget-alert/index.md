@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. Budget Alert"
 sidebar_label: "2. Budget Alert"
 lang: ja

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. File Storage – High Performance"
 sidebar_label: "2. File Storage – High Performance"
 lang: ja

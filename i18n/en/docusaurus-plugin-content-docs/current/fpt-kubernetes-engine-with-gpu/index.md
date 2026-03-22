@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. FPT Kubernetes Engine with GPU"
 sidebar_label: "2. FPT Kubernetes Engine with GPU"
 lang: en

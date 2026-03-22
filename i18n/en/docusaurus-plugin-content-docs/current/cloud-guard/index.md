@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. FPT Cloud Guard"
 sidebar_label: "2. FPT Cloud Guard"
 lang: en

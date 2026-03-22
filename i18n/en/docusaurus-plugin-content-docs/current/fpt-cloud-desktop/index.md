@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. FPT Cloud Desktop"
 sidebar_label: "2. FPT Cloud Desktop"
 lang: en

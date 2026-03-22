@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. Global Search"
 sidebar_label: "2. Global Search"
 lang: ja

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. FPT Key Vault"
 sidebar_label: "2. FPT Key Vault"
 lang: ja

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. CheckPoint – FPT NGFW"
 sidebar_label: "2. CheckPoint – FPT NGFW"
 lang: en

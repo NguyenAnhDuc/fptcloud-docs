@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. FPT Monitoring – IP Access Control"
 sidebar_label: "2. FPT Monitoring – IP Access Control"
 lang: ja

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. Hướng dẫn sử dụng Grafana"
 sidebar_label: "2. Hướng dẫn sử dụng Grafana"
 lang: en

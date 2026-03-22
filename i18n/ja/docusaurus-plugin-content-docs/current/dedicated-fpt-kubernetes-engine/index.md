@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. Dedicated – FPT Kubernetes Engine"
 sidebar_label: "2. Dedicated – FPT Kubernetes Engine"
 lang: ja

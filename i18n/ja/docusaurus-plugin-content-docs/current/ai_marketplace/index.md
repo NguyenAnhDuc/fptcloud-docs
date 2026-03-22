@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "AI Inference"
 sidebar_label: "AI Inference"
 lang: ja

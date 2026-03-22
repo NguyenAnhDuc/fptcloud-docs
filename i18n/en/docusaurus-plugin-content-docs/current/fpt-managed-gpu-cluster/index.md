@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. Managed GPU Cluster (Kubernetes)"
 sidebar_label: "2. Managed GPU Cluster (Kubernetes)"
 lang: en

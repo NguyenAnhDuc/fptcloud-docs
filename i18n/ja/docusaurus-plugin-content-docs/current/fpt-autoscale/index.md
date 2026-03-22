@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. FPT Autoscale"
 sidebar_label: "2. FPT Autoscale"
 lang: ja

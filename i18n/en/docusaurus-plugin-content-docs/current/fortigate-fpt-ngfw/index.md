@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. Fortigate – FPT NGFW"
 sidebar_label: "2. Fortigate – FPT NGFW"
 lang: en

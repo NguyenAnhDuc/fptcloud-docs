@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. Allow Address Pair"
 sidebar_label: "2. Allow Address Pair"
 lang: ja

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. Cloud Advisor"
 sidebar_label: "2. Cloud Advisor"
 lang: ja

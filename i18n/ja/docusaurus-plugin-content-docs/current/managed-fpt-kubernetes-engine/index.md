@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. Managed – FPT Kubernetes Engine"
 sidebar_label: "2. Managed – FPT Kubernetes Engine"
 lang: ja

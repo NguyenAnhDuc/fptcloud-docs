@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. FPT Cloud VA"
 sidebar_label: "2. FPT Cloud VA"
 lang: ja

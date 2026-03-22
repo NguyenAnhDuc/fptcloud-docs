@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "Load Balancer"
 sidebar_label: "Load Balancer"
 lang: ja

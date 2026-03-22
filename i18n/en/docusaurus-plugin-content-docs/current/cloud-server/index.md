@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "Cloud Server"
 sidebar_label: "Cloud Server"
 lang: en

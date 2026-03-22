@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. Incident Management"
 sidebar_label: "2. Incident Management"
 lang: ja

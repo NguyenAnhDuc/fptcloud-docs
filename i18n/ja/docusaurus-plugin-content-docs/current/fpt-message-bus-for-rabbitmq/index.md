@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. FPT Message Bus for RabbitMQ"
 sidebar_label: "2. FPT Message Bus for RabbitMQ"
 lang: ja

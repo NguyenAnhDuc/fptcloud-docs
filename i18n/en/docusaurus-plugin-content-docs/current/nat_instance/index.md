@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. NAT Instance"
 sidebar_label: "2. NAT Instance"
 lang: en

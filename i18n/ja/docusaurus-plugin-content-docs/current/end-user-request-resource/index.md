@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. Request Resource"
 sidebar_label: "2. Request Resource"
 lang: ja

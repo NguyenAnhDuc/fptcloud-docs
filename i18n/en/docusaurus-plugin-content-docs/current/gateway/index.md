@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. Gateway"
 sidebar_label: "2. Gateway"
 lang: en

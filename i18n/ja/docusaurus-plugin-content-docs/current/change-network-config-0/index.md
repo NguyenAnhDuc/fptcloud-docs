@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. Change Network Config"
 sidebar_label: "2. Change Network Config"
 lang: ja

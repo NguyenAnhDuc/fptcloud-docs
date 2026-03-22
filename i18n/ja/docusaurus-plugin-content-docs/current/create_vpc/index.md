@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. Create VPC"
 sidebar_label: "2. Create VPC"
 lang: ja

@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. DdoS Protection"
 sidebar_label: "2. DdoS Protection"
 lang: en

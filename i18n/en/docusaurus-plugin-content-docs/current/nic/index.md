@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. Network Interface Card (NIC)"
 sidebar_label: "2. Network Interface Card (NIC)"
 lang: en

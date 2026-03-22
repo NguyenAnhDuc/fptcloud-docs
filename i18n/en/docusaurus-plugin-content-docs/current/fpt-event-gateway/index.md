@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. FPT Event Gateway"
 sidebar_label: "2. FPT Event Gateway"
 lang: en

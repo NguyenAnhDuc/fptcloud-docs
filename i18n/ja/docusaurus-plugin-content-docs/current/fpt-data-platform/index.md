@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. FPT Data Platform"
 sidebar_label: "2. FPT Data Platform"
 lang: ja

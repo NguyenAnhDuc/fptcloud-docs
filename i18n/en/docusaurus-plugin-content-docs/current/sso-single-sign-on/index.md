@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. SSO – Single sign-on"
 sidebar_label: "2. SSO – Single sign-on"
 lang: en

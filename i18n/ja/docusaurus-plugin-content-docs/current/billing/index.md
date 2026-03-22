@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. Bills"
 sidebar_label: "2. Bills"
 lang: ja

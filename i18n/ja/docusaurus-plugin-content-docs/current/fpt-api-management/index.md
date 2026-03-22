@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. FPT API Management"
 sidebar_label: "2. FPT API Management"
 lang: ja

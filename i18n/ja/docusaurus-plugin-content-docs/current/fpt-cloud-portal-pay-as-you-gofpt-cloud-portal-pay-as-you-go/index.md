@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "FPT Cloud Portal – Pay As You Go"
 sidebar_label: "FPT Cloud Portal – Pay As You Go"
 lang: ja

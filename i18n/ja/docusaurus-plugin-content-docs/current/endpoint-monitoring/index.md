@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. Endpoint monitoring"
 sidebar_label: "2. Endpoint monitoring"
 lang: ja

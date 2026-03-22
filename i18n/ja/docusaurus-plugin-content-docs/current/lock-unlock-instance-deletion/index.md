@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. Lock & Unlock Instance Deletion"
 sidebar_label: "2. Lock & Unlock Instance Deletion"
 lang: ja

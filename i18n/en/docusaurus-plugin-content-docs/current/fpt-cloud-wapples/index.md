@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. FPT Cloud WAPPLES"
 sidebar_label: "2. FPT Cloud WAPPLES"
 lang: en

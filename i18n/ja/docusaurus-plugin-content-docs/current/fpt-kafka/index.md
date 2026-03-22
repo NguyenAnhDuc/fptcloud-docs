@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "FPT Kafka"
 sidebar_label: "FPT Kafka"
 lang: ja

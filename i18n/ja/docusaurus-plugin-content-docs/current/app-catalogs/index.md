@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "2. FPT App Catalogs"
 sidebar_label: "2. FPT App Catalogs"
 lang: ja

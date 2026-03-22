@@ -1,4 +1,5 @@
 ---
+unlisted: true
 title: "AI Factory Billing"
 sidebar_label: "AI Factory Billing"
 lang: ja
