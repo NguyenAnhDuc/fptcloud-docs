@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Managed GPU Cluster (Kubernetes)"
+sidebar_label: "Chuẩn bị môi trường"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=multi-gpus-example"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

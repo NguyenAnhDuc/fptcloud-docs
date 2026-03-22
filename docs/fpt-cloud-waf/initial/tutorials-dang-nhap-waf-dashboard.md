@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Cloud WAF"
+sidebar_label: "Tutorials dang nhap waf dashboard"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=tutorials-dang-nhap-waf-dashboard"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

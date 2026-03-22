@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Data Platform"
+sidebar_label: "Certificate manager"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=certificate-manager"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

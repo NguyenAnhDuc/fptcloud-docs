@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Incident Management"
+sidebar_label: "Jira"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=jira"
 parent: "https://fptcloud.com/documents/incident-management"

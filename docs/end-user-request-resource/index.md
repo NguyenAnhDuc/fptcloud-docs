@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Request Resource"
+sidebar_label: "Tổng quan (Overview)"
 title: "2. Request Resource"
 source: "https://fptcloud.com/documents/end-user-request-resource/"
 lang: vi

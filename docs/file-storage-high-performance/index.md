@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. File Storage – High Performance"
+sidebar_label: "Index"
 title: "2. File Storage – High Performance"
 source: "https://fptcloud.com/documents/file-storage-high-performance/"
 lang: vi

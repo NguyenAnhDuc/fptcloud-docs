@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed – FPT Database Engines"
+sidebar_label: "Push s3"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=push-s3"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

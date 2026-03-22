@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Managed – FPT Database Engine"
+sidebar_label: "Khoi tao database engine"
 title: "2. Managed – FPT Database Engine"
 source: "https://fptcloud.com/documents/managed-fpt-database-engine/?doc=Khoi-tao-Database-Engine"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engine"

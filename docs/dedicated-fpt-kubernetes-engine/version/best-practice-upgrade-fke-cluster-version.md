@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Dedicated – FPT Kubernetes Engine"
+sidebar_label: "Best practice upgrade fke cluster version"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=best-practice-upgrade-fke-cluster-version"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

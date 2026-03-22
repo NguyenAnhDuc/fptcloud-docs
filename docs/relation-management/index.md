@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Relation management"
+sidebar_label: "Trang chủ"
 title: "2. Relation management"
 source: "https://fptcloud.com/documents/relation-management/"
 lang: vi

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Terraform"
+sidebar_label: "Overview terraform"
 title: "2. Terraform"
 source: "https://fptcloud.com/documents/terraform/?doc=overview-terraform"
 parent: "https://fptcloud.com/documents/terraform"

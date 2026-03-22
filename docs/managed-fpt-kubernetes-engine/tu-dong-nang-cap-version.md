@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Tu dong nang cap version"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=tu-dong-nang-cap-version"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

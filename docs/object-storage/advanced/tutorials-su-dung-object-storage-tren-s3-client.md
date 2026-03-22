@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Object Storage"
+sidebar_label: "Tutorials Su Dung Object Storage Tren S3 Client"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/?doc=tutorials-su-dung-object-storage-tren-s3-client"
 parent: "https://fptcloud.com/documents/object-storage"

@@ -1,7 +1,7 @@
 ---
 slug: cloud-advisor-index
 sidebar_class_name: hidden
-sidebar_label: "2. Cloud Advisor"
+sidebar_label: "Cloud advisor"
 title: "2. Cloud Advisor"
 source: "https://fptcloud.com/documents/cloud-advisor/?doc=cloud-advisor"
 parent: "https://fptcloud.com/documents/cloud-advisor"

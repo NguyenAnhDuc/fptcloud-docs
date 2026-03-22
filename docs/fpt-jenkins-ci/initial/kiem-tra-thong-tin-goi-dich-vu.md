@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Jenkins CI"
+sidebar_label: "Kiem tra thong tin goi dich vu"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=kiem-tra-thong-tin-goi-dich-vu"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

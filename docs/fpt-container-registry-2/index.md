@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Container Registry"
+sidebar_label: "Trang chủ"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/"
 lang: vi

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Service type load balancer"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=service-type-load-balancer"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Incident Management"
+sidebar_label: "Xem chi tiet incident"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=xem-chi-tiet-incident"
 parent: "https://fptcloud.com/documents/incident-management"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Cloud Desktop"
+sidebar_label: "Sso qua fcdclient cu"
 title: "2. FPT Cloud Desktop"
 source: "https://fptcloud.com/documents/fpt-cloud-desktop/?doc=SSO-qua-FCDClient-cu"
 parent: "https://fptcloud.com/documents/fpt-cloud-desktop"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Container Registry"
+sidebar_label: "Docker login"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=docker-login"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

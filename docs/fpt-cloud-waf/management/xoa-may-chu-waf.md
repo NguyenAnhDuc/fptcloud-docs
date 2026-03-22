@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Cloud WAF"
+sidebar_label: "Xoa may chu waf"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=xoa-may-chu-waf"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Nang cap k8s version"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=nang-cap-k8s-version"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

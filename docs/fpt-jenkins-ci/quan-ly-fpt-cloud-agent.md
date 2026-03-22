@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Jenkins CI"
+sidebar_label: "Quan ly fpt cloud agent"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=quan-ly-fpt-cloud-agent"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

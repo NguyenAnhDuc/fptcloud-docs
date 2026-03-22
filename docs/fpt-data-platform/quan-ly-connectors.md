@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Data Platform"
+sidebar_label: "Quan ly connectors"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=quan-ly-connectors"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

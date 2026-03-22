@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Cloud WAPPLES"
+sidebar_label: "Privacy filtering"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=privacy-filtering"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

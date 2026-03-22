@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Data Platform"
+sidebar_label: "Cai dat ingestion service"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=cai-dat-ingestion-service"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

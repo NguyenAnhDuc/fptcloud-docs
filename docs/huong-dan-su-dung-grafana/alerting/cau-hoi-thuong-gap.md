@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Hướng dẫn sử dụng Grafana"
+sidebar_label: "Cau hoi thuong gap"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=cau-hoi-thuong-gap"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"

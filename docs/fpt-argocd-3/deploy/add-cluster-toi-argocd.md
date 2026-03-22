@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT ArgoCD"
+sidebar_label: "Add cluster toi argocd"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=add-cluster-toi-argocd"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

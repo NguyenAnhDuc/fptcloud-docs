@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Object Storage"
+sidebar_label: "Mount Bucket Thanh O Dia Tren May Local"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/?doc=mount-bucket-thanh-o-dia-tren-may-local"
 parent: "https://fptcloud.com/documents/object-storage"

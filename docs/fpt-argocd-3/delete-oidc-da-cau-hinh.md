@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT ArgoCD"
+sidebar_label: "Delete oidc da cau hinh"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=delete-oidc-da-cau-hinh"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Key Vault"
+sidebar_label: "Tutorials tao auth method"
 title: "2. FPT Key Vault"
 source: "https://fptcloud.com/documents/fpt-key-vault/?doc=tutorials-tao-auth-method"
 parent: "https://fptcloud.com/documents/fpt-key-vault"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Fpt cloud managed kubernetes release calendar"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=fpt-cloud-managed-kubernetes-release-calendar"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

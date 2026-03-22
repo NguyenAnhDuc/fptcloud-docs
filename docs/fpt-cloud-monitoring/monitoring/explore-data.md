@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Cloud Monitoring"
+sidebar_label: "Explore data"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=explore-data"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

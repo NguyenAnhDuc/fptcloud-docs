@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Network Interface Card (NIC)"
+sidebar_label: "Initial setup"
 title: "2. Network Interface Card (NIC)"
 source: "https://fptcloud.com/documents/nic/?doc=initial-setup"
 parent: "https://fptcloud.com/documents/nic"

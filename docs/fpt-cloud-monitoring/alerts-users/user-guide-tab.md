@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Cloud Monitoring"
+sidebar_label: "User guide tab"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=user-guide-tab"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

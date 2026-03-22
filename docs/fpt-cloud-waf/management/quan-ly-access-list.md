@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Cloud WAF"
+sidebar_label: "Cấu hình nâng cao cho Access List:"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=quan-ly-access-list"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

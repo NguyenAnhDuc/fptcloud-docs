@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Autoscale"
+sidebar_label: "Bước 1: Truy cập trang Autoscaling > Autoscale Policy. Trên dòng tương ứng với policy cần xóa, chọn biểu tượng delete."
 title: "2. FPT Autoscale"
 source: "https://fptcloud.com/documents/fpt-autoscale/?doc=xoa-policy"
 parent: "https://fptcloud.com/documents/fpt-autoscale"

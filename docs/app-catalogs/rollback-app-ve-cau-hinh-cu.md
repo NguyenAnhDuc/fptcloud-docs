@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT App Catalogs"
+sidebar_label: "Rollback app ve cau hinh cu"
 title: "2. FPT App Catalogs"
 source: "https://fptcloud.com/documents/app-catalogs/?doc=rollback-app-ve-cau-hinh-cu"
 parent: "https://fptcloud.com/documents/app-catalogs"

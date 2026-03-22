@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Create VPC"
+sidebar_label: "Giới thiệu"
 title: "2. Create VPC"
 source: "https://fptcloud.com/documents/create_vpc/"
 lang: vi

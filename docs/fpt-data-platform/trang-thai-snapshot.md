@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Data Platform"
+sidebar_label: "Trang thai snapshot"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=trang-thai-snapshot"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

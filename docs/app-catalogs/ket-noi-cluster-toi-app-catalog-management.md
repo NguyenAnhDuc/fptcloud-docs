@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT App Catalogs"
+sidebar_label: "Ket noi cluster toi app catalog management"
 title: "2. FPT App Catalogs"
 source: "https://fptcloud.com/documents/app-catalogs/?doc=ket-noi-cluster-toi-app-catalog-management"
 parent: "https://fptcloud.com/documents/app-catalogs"

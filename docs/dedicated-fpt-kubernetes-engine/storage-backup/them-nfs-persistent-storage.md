@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Dedicated – FPT Kubernetes Engine"
+sidebar_label: "Them nfs persistent storage"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=them-nfs-persistent-storage"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

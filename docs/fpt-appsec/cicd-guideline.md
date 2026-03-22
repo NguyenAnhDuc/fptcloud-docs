@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT AppSec"
+sidebar_label: "Cicd guideline"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=cicd-guideline"
 parent: "https://fptcloud.com/documents/fpt-appsec"

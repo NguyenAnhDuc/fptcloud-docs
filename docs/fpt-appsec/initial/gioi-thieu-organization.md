@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT AppSec"
+sidebar_label: "Gioi thieu organization"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=gioi-thieu-Organization"
 parent: "https://fptcloud.com/documents/fpt-appsec"

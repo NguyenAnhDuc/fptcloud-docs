@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Model Hub"
+sidebar_label: "Share detail invited"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=share-detail-invited"
 parent: "https://fptcloud.com/documents/model-hub"

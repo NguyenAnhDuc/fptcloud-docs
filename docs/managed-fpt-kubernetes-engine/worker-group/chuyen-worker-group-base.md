@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Chuyen worker group base"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=chuyen-worker-group-base"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

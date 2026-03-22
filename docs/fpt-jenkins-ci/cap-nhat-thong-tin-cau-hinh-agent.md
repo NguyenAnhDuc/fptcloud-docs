@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Jenkins CI"
+sidebar_label: "Cap nhat thong tin cau hinh agent"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=cap-nhat-thong-tin-cau-hinh-agent"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

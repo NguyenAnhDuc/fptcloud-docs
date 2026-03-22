@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Kubernetes Engine with GPU"
+sidebar_label: "Driver installation self install"
 title: "2. FPT Kubernetes Engine with GPU"
 source: "https://fptcloud.com/documents/fpt-kubernetes-engine-with-gpu/?doc=driver-installation-self-install"
 parent: "https://fptcloud.com/documents/fpt-kubernetes-engine-with-gpu"

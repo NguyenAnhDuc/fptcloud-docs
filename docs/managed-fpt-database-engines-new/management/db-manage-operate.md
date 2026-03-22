@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed – FPT Database Engines"
+sidebar_label: "Db manage operate"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=db-manage-operate"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

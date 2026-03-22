@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT App Catalogs"
+sidebar_label: "Quan ly applications da duoc deploy"
 title: "2. FPT App Catalogs"
 source: "https://fptcloud.com/documents/app-catalogs/?doc=quan-ly-applications-da-duoc-deploy"
 parent: "https://fptcloud.com/documents/app-catalogs"

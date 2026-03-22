@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed – FPT Database Engines"
+sidebar_label: "Maintenance"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=maintenance"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

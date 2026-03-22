@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed GPU Cluster (Kubernetes)"
+sidebar_label: "Try example workload"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=try-example-workload"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

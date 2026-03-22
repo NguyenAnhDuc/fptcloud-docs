@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. IaC old"
+sidebar_label: "Overviews"
 title: "2. IaC old"
 source: "https://fptcloud.com/documents/iac-old/"
 lang: vi

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Cloud Guard"
+sidebar_label: "| Total packet In/Out per second | packet/s | Tổng lượng packet được Load balancer xử lý theo hướng In hoặc Out. Chỉ số giúp người dùng nắm bắt mức độ tải thực tế qua LB từ đó phát hiện thời điểm hệ thống tăng tải bất thường"
 title: "2. FPT Cloud Guard"
 source: "https://fptcloud.com/documents/cloud-guard/?doc=khoi-tao-canh-bao-load-balancer"
 parent: "https://fptcloud.com/documents/cloud-guard"

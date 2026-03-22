@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Container Registry"
+sidebar_label: "Pull docker image tu fpt container registry ve local"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=pull-docker-image-tu-fpt-container-registry-ve-local"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

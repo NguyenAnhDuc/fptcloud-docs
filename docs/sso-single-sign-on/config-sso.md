@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. SSO – Single sign-on"
+sidebar_label: "Config sso"
 title: "2. SSO – Single sign-on"
 source: "https://fptcloud.com/documents/sso-single-sign-on/?doc=config-sso"
 parent: "https://fptcloud.com/documents/sso-single-sign-on"

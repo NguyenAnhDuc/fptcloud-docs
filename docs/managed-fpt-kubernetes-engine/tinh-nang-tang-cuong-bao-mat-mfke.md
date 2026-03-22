@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Tinh nang tang cuong bao mat mfke"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=tinh-nang-tang-cuong-bao-mat-mfke"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

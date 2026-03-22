@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Message Bus for RabbitMQ"
+sidebar_label: "Trang chủ"
 title: "2. FPT Message Bus for RabbitMQ"
 source: "https://fptcloud.com/documents/fpt-message-bus-for-rabbitmq/"
 lang: vi

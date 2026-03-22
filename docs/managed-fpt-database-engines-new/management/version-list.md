@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed – FPT Database Engines"
+sidebar_label: "| 17.7 | 08/2025 | 25/11/2025 | -- | --"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=Version-List"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

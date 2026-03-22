@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Network Interface Card (NIC)"
+sidebar_label: "Disable nic card"
 title: "2. Network Interface Card (NIC)"
 source: "https://fptcloud.com/documents/nic/?doc=disable-NIC-card"
 parent: "https://fptcloud.com/documents/nic"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Container Registry"
+sidebar_label: "Scan image"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=scan-image"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT App Catalogs"
+sidebar_label: "Xem chi tiet app da deploy"
 title: "2. FPT App Catalogs"
 source: "https://fptcloud.com/documents/app-catalogs/?doc=xem-chi-tiet-app-da-deploy"
 parent: "https://fptcloud.com/documents/app-catalogs"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Monitoring – IP Access Control"
+sidebar_label: "Quan li danh sach whitelisted ip"
 title: "2. FPT Monitoring – IP Access Control"
 source: "https://fptcloud.com/documents/fpt-monitoring-ip-access-control/?doc=quan-li-danh-sach-whitelisted-ip"
 parent: "https://fptcloud.com/documents/fpt-monitoring-ip-access-control"

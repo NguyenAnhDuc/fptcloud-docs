@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Gpu la gi"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=gpu-la-gi"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

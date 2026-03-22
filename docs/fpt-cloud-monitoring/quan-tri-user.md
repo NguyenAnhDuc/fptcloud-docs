@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Cloud Monitoring"
+sidebar_label: ". Quản trị User"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=quan-tri-user"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

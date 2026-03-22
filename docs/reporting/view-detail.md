@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Reporting"
+sidebar_label: "View detail"
 title: "2. FPT Reporting"
 source: "https://fptcloud.com/documents/reporting/?doc=view-detail"
 parent: "https://fptcloud.com/documents/reporting"

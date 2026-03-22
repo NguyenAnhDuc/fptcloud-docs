@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Budget Alert"
+sidebar_label: "Xem"
 title: "2. Budget Alert"
 source: "https://fptcloud.com/documents/budget-alert/?doc=Xem"
 parent: "https://fptcloud.com/documents/budget-alert"

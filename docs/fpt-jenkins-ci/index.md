@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Jenkins CI"
+sidebar_label: "Trang chủ"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/"
 lang: vi

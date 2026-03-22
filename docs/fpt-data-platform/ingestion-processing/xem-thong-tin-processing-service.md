@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Data Platform"
+sidebar_label: "Xem thong tin processing service"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xem-thong-tin-processing-service"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

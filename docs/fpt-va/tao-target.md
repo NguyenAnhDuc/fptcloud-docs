@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Cloud VA"
+sidebar_label: "Tao target"
 title: "2. FPT Cloud VA"
 source: "https://fptcloud.com/documents/fpt-va/?doc=tao-target"
 parent: "https://fptcloud.com/documents/fpt-va"

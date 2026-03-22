@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Auto Schedule To On-Off Instance"
+sidebar_label: "Manage version schedules"
 title: "2. Auto Schedule To On-Off Instance"
 source: "https://fptcloud.com/documents/auto-schedule-to-on-off-instance/?doc=manage-version-schedules"
 parent: "https://fptcloud.com/documents/auto-schedule-to-on-off-instance"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Fortigate – FPT NGFW"
+sidebar_label: "Truy cap giao dien quan tri"
 title: "2. Fortigate – FPT NGFW"
 source: "https://fptcloud.com/documents/fortigate-fpt-ngfw/?doc=truy-cap-giao-dien-quan-tri"
 parent: "https://fptcloud.com/documents/fortigate-fpt-ngfw"

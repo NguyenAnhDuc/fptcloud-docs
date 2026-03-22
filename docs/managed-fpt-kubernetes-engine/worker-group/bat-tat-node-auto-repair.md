@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Bat tat node auto repair"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=bat-tat-node-auto-repair"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

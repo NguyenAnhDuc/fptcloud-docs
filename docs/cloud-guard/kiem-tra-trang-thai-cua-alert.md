@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Cloud Guard"
+sidebar_label: "Kiem tra trang thai cua alert"
 title: "2. FPT Cloud Guard"
 source: "https://fptcloud.com/documents/cloud-guard/?doc=kiem-tra-trang-thai-cua-alert"
 parent: "https://fptcloud.com/documents/cloud-guard"

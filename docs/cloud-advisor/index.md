@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Cloud Advisor"
+sidebar_label: "Cloud Advisor Documentation"
 title: "2. Cloud Advisor"
 source: "https://fptcloud.com/documents/cloud-advisor/"
 lang: vi

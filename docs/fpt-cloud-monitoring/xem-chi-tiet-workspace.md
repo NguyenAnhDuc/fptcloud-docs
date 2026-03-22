@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Cloud Monitoring"
+sidebar_label: "Xem chi tiet workspace"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=xem-chi-tiet-workspace"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

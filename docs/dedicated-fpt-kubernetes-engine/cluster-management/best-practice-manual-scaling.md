@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Dedicated – FPT Kubernetes Engine"
+sidebar_label: "Best practice manual scaling"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=best-practice-manual-scaling"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

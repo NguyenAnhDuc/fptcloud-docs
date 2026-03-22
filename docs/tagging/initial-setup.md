@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Tagging"
+sidebar_label: "Initial setup"
 title: "2. Tagging"
 source: "https://fptcloud.com/documents/tagging/?doc=initial-setup"
 parent: "https://fptcloud.com/documents/tagging"

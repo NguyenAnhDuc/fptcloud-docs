@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Data Platform"
+sidebar_label: "Xem th ng tin snapshot"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xem-thông-tin-snapshot"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

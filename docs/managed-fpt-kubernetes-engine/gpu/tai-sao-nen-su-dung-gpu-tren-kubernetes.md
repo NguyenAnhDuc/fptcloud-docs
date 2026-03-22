@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Tai sao nen su dung gpu tren kubernetes"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=tai-sao-nen-su-dung-gpu-tren-kubernetes"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

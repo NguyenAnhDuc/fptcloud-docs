@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Container Registry"
+sidebar_label: "Huong dan nang goi dich vu dang su dung"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=huong-dan-nang-goi-dich-vu-dang-su-dung"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

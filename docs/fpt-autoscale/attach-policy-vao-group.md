@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Autoscale"
+sidebar_label: "Bước 1: Truy cập trang Autoscaling > Autoscale Group. Click vào tên group cần gắn policy."
 title: "2. FPT Autoscale"
 source: "https://fptcloud.com/documents/fpt-autoscale/?doc=attach-policy-vao-group"
 parent: "https://fptcloud.com/documents/fpt-autoscale"

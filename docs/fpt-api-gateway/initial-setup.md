@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT API Gateway"
+sidebar_label: "Initial setup"
 title: "2. FPT API Gateway"
 source: "https://fptcloud.com/documents/fpt-api-gateway/?doc=initial-setup"
 parent: "https://fptcloud.com/documents/fpt-api-gateway"

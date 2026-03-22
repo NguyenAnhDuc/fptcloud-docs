@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Change Network Config"
+sidebar_label: "Change statis ip in centos"
 title: "2. Change Network Config"
 source: "https://fptcloud.com/documents/change-network-config-0/?doc=change-statis-IP-in-CentOS"
 parent: "https://fptcloud.com/documents/change-network-config-0"

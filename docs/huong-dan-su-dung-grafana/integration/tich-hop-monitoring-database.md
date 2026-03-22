@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Hướng dẫn sử dụng Grafana"
+sidebar_label: "Tich hop monitoring database"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=tich-hop-monitoring-database"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"

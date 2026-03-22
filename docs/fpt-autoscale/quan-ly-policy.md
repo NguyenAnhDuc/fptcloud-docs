@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Autoscale"
+sidebar_label: "Quan ly policy"
 title: "2. FPT Autoscale"
 source: "https://fptcloud.com/documents/fpt-autoscale/?doc=quan-ly-policy"
 parent: "https://fptcloud.com/documents/fpt-autoscale"

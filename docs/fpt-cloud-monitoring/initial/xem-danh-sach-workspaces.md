@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Cloud Monitoring"
+sidebar_label: "Xem danh sach workspaces"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=xem-danh-sach-workspaces"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

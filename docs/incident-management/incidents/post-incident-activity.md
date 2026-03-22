@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Incident Management"
+sidebar_label: "Post incident activity"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=post-incident-activity"
 parent: "https://fptcloud.com/documents/incident-management"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Data Platform"
+sidebar_label: "Huong dan su dung open metadata"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=huong-dan-su-dung-open-metadata"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

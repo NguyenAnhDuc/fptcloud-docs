@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Container Registry"
+sidebar_label: "Xoa image hoac artifact trong repositories"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=xoa-image-hoac-artifact-trong-repositories"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

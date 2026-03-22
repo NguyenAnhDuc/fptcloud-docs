@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Model Hub"
+sidebar_label: "View update organization"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=view-update-organization"
 parent: "https://fptcloud.com/documents/model-hub"

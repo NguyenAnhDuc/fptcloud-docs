@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Kubernetes Engine with GPU"
+sidebar_label: "Yêu cầu"
 title: "2. FPT Kubernetes Engine with GPU"
 source: "https://fptcloud.com/documents/fpt-kubernetes-engine-with-gpu/?doc=huong-dan-cau-hinh-auto-scale-su-dung-keda-va-prometheus"
 parent: "https://fptcloud.com/documents/fpt-kubernetes-engine-with-gpu"

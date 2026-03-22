@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Cloud Guard"
+sidebar_label: "Khoi tao mot alert moi activity alert"
 title: "2. FPT Cloud Guard"
 source: "https://fptcloud.com/documents/cloud-guard/?doc=khoi-tao-mot-alert-moi-activity-alert"
 parent: "https://fptcloud.com/documents/cloud-guard"

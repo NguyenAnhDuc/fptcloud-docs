@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed GPU Cluster (Kubernetes)"
+sidebar_label: "File storage high performance"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=file-storage-high-performance"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Cac luu y khi su dung m fke"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=cac-luu-y-khi-su-dung-m-fke"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

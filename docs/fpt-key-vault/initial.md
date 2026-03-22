@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Key Vault"
+sidebar_label: "Initial"
 title: "2. FPT Key Vault"
 source: "https://fptcloud.com/documents/fpt-key-vault/?doc=Initial"
 parent: "https://fptcloud.com/documents/fpt-key-vault"

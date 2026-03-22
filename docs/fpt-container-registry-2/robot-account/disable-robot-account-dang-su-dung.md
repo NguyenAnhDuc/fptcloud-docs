@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Container Registry"
+sidebar_label: "Disable robot account dang su dung"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=disable-robot-account-dang-su-dung"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

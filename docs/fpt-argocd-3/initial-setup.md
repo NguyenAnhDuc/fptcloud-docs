@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT ArgoCD"
+sidebar_label: "Initial setup"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=Initial-setup"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

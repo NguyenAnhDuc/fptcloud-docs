@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Autoscale"
+sidebar_label: "Bước 1 : Truy cập trang Autoscaling > Autoscale Profile. Click vào tên profile cần đổi tên."
 title: "2. FPT Autoscale"
 source: "https://fptcloud.com/documents/fpt-autoscale/?doc=doi-ten-profile"
 parent: "https://fptcloud.com/documents/fpt-autoscale"

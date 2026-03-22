@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT AppSec"
+sidebar_label: "25-09-06"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=aspm_v1.2.1"
 parent: "https://fptcloud.com/documents/fpt-appsec"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Data Platform"
+sidebar_label: "Cấu hình PostgreSQL - Cấp quyền trên schema"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=postgresql-sink-connector"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

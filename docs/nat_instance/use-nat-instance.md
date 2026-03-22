@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. NAT Instance"
+sidebar_label: "Use nat instance"
 title: "2. NAT Instance"
 source: "https://fptcloud.com/documents/nat_instance/?doc=use-nat-instance"
 parent: "https://fptcloud.com/documents/nat_instance"

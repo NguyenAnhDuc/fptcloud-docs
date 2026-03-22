@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT API Management"
+sidebar_label: "1. Nhận thông tin từ API Provider"
 title: "2. FPT API Management"
 source: "https://fptcloud.com/documents/fpt-api-management/?doc=huong-dan-su-dung-cho-api-consumer"
 parent: "https://fptcloud.com/documents/fpt-api-management"

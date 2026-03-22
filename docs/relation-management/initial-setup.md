@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Relation management"
+sidebar_label: "Initial setup"
 title: "2. Relation management"
 source: "https://fptcloud.com/documents/relation-management/?doc=initial-setup"
 parent: "https://fptcloud.com/documents/relation-management"

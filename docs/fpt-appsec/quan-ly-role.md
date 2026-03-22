@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT AppSec"
+sidebar_label: "Quan ly role"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=quan-ly-role"
 parent: "https://fptcloud.com/documents/fpt-appsec"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Cloud WAF"
+sidebar_label: "Initial"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=Initial"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

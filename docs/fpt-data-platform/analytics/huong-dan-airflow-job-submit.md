@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Data Platform"
+sidebar_label: "Huong dan airflow job submit"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=huong-dan-airflow-job-submit"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Monitoring – IP Access Control"
+sidebar_label: "Gioi thieu chung"
 title: "2. FPT Monitoring – IP Access Control"
 source: "https://fptcloud.com/documents/fpt-monitoring-ip-access-control/?doc=gioi-thieu-chung"
 parent: "https://fptcloud.com/documents/fpt-monitoring-ip-access-control"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT ArgoCD"
+sidebar_label: "Cau hinh channel de thuc hien gui thong bao"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=cau-hinh-channel-de-thuc-hien-gui-thong-bao"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

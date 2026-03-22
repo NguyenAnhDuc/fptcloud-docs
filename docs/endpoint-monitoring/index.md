@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Endpoint monitoring"
+sidebar_label: "Trang chủ"
 title: "2. Endpoint monitoring"
 source: "https://fptcloud.com/documents/endpoint-monitoring/"
 lang: vi

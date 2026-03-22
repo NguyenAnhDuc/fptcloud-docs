@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Auto Schedule To On-Off Instance"
+sidebar_label: "Use instance schedules for virtual machines"
 title: "2. Auto Schedule To On-Off Instance"
 source: "https://fptcloud.com/documents/auto-schedule-to-on-off-instance/?doc=use-instance-schedules-for-virtual-machines"
 parent: "https://fptcloud.com/documents/auto-schedule-to-on-off-instance"

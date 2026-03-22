@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Relation management"
+sidebar_label: "Datasource relation management"
 title: "2. Relation management"
 source: "https://fptcloud.com/documents/relation-management/?doc=datasource-relation-management"
 parent: "https://fptcloud.com/documents/relation-management"

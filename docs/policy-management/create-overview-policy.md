@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Policy Management"
+sidebar_label: "Create overview policy"
 title: "2. Policy Management"
 source: "https://fptcloud.com/documents/policy-management/?doc=create-overview-policy"
 parent: "https://fptcloud.com/documents/policy-management"

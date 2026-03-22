@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT ArgoCD"
+sidebar_label: "Thuc hien cau hinh webhook voi webhook secret da duoc tao"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=thuc-hien-cau-hinh-webhook-voi-webhook-secret-da-duoc-tao"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

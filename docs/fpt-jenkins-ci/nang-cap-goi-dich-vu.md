@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Jenkins CI"
+sidebar_label: "Nang cap goi dich vu"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=nang-cap-goi-dich-vu"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

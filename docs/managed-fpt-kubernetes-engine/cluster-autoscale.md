@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Bật tính năng Cluster Autoscale"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=cluster-autoscale"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

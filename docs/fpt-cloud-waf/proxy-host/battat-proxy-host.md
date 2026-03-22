@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Cloud WAF"
+sidebar_label: "Battat proxy host"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=battat-proxy-host"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

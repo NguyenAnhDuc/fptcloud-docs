@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT AppSec"
+sidebar_label: "1. Add Member"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=quan-ly-mem-team"
 parent: "https://fptcloud.com/documents/fpt-appsec"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Incident Management"
+sidebar_label: "Incident severity"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=incident-severity"
 parent: "https://fptcloud.com/documents/incident-management"

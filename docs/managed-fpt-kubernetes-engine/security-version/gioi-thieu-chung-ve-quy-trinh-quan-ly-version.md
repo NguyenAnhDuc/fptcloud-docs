@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Gioi thieu chung ve quy trinh quan ly version"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=gioi-thieu-chung-ve-quy-trinh-quan-ly-version"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

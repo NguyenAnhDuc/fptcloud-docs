@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Cloud WAPPLES"
+sidebar_label: "Detection status"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=detection-status"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

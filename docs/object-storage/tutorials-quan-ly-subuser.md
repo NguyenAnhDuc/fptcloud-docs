@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Object Storage"
+sidebar_label: "Tutorials Quan Ly Subuser"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/?doc=tutorials-quan-ly-subuser"
 parent: "https://fptcloud.com/documents/object-storage"

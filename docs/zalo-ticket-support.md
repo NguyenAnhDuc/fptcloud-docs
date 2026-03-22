@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Zalo ticket support"
+sidebar_label: "I. Giới thiệu"
 title: "2. Zalo ticket support"
 source: "https://fptcloud.com/documents/zalo-ticket-support/"
 lang: vi

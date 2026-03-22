@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Snapshot persistent volume tren k8s"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=snapshot-persistent-volume-tren-k8s"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

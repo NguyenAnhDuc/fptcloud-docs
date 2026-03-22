@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Container Registry"
+sidebar_label: "Cem chi tiet quota dich vu"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=cem-chi-tiet-quota-dich-vu"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

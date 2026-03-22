@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Cloud Desktop"
+sidebar_label: "Lợi thế so với PC Truyền thống"
 title: "2. FPT Cloud Desktop"
 source: "https://fptcloud.com/documents/fpt-cloud-desktop/?doc=overview-fcd"
 parent: "https://fptcloud.com/documents/fpt-cloud-desktop"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Incident Management"
+sidebar_label: "Quan tri incident"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=quan-tri-incident"
 parent: "https://fptcloud.com/documents/incident-management"

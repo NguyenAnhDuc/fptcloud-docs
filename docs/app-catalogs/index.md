@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT App Catalogs"
+sidebar_label: "Trang chủ"
 title: "2. FPT App Catalogs"
 source: "https://fptcloud.com/documents/app-catalogs/"
 lang: vi

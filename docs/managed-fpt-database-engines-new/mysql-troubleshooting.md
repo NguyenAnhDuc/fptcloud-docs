@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Managed – FPT Database Engines"
+sidebar_label: "Giới thiệu"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=mysql-troubleshooting"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

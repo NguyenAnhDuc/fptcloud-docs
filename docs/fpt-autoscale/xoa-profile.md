@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Autoscale"
+sidebar_label: "Bước 1: Truy cập trang Autoscaling > Autoscale Profile. Trên dòng tương ứng với profile cần xóa, chọn biểu tượng Delete."
 title: "2. FPT Autoscale"
 source: "https://fptcloud.com/documents/fpt-autoscale/?doc=xoa-profile"
 parent: "https://fptcloud.com/documents/fpt-autoscale"

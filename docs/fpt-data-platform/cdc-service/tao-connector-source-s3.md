@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Data Platform"
+sidebar_label: "Tao connector source s3"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=tao-connector-source-s3"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

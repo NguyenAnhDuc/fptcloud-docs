@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Thay doi cau hinh flavor cua worker pool"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=thay-doi-cau-hinh-flavor-cua-worker-pool"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Kubernetes Engine with GPU"
+sidebar_label: "Tong quan dich vu gpu"
 title: "2. FPT Kubernetes Engine with GPU"
 source: "https://fptcloud.com/documents/fpt-kubernetes-engine-with-gpu/?doc=tong-quan-dich-vu-GPU"
 parent: "https://fptcloud.com/documents/fpt-kubernetes-engine-with-gpu"

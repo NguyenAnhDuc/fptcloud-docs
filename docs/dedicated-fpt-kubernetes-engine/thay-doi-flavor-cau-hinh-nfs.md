@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Dedicated – FPT Kubernetes Engine"
+sidebar_label: "Thay doi flavor cau hinh nfs"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=thay-doi-flavor-cau-hinh-nfs"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

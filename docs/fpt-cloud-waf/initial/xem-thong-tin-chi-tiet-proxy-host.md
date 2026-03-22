@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Cloud WAF"
+sidebar_label: "Xem thong tin chi tiet proxy host"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=xem-thong-tin-chi-tiet-proxy-host"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

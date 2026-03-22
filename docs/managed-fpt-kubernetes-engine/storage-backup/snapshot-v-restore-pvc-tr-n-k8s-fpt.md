@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Snapshot v restore pvc tr n k8s fpt"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=snapshot-và-restore-pvc-trên-k8s-fpt"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Data Platform"
+sidebar_label: "Xem thong tin open metadata service"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xem-thong-tin-open-metadata-service"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

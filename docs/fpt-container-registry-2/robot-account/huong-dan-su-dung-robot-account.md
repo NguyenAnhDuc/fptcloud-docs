@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Container Registry"
+sidebar_label: "Huong dan su dung robot account"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=huong-dan-su-dung-robot-account"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Create VPC"
+sidebar_label: "Activitylog bell"
 title: "2. Create VPC"
 source: "https://fptcloud.com/documents/create_vpc/?doc=activitylog-bell"
 parent: "https://fptcloud.com/documents/create_vpc"

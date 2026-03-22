@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Hướng dẫn sử dụng Grafana"
+sidebar_label: "Query metric data"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=query-metric-data"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"

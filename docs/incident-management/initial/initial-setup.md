@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Incident Management"
+sidebar_label: "Initial setup"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=initial-setup"
 parent: "https://fptcloud.com/documents/incident-management"

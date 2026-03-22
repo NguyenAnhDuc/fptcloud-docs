@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Budget Alert"
+sidebar_label: "Ch nh"
 title: "2. Budget Alert"
 source: "https://fptcloud.com/documents/budget-alert/?doc=Chỉnh"
 parent: "https://fptcloud.com/documents/budget-alert"

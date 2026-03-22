@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Endpoint monitoring"
+sidebar_label: "Chi tiet endpoint"
 title: "2. Endpoint monitoring"
 source: "https://fptcloud.com/documents/endpoint-monitoring/?doc=chi-tiet-endpoint"
 parent: "https://fptcloud.com/documents/endpoint-monitoring"

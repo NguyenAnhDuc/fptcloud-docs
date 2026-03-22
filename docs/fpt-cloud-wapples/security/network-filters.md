@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Cloud WAPPLES"
+sidebar_label: "Network filters"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=network-filters"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Model Hub"
+sidebar_label: "Model deployment"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=model-deployment"
 parent: "https://fptcloud.com/documents/model-hub"

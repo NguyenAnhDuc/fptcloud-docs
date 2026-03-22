@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Managed – FPT Database Engines"
+sidebar_label: "Initial setup"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=Initial-setup"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

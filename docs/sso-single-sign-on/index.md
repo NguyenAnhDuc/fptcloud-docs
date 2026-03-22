@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. SSO – Single sign-on"
+sidebar_label: "Overviews"
 title: "2. SSO – Single sign-on"
 source: "https://fptcloud.com/documents/sso-single-sign-on/"
 lang: vi

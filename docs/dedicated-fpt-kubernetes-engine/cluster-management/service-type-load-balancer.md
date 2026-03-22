@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Dedicated – FPT Kubernetes Engine"
+sidebar_label: "A. Public LB"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=service-type-load-balancer"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

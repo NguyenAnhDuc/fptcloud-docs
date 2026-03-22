@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Auto Schedule To On-Off Instance"
+sidebar_label: "Giới thiệu"
 title: "2. Auto Schedule To On-Off Instance"
 source: "https://fptcloud.com/documents/auto-schedule-to-on-off-instance/"
 lang: vi

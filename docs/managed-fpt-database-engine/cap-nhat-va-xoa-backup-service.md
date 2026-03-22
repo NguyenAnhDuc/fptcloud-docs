@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Managed – FPT Database Engine"
+sidebar_label: "Cap nhat va xoa backup service"
 title: "2. Managed – FPT Database Engine"
 source: "https://fptcloud.com/documents/managed-fpt-database-engine/?doc=Cap-nhat-va-xoa-Backup-Service"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engine"

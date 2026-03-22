@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Cloud WAF"
+sidebar_label: "Them moi stream host"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=them-moi-stream-host"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

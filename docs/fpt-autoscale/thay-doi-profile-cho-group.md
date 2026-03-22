@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Autoscale"
+sidebar_label: "Bước 1: Truy cập trang Autoscaling > Autoscale Group. Trên dòng tương ứng với group cần thay đổi profile, click vào biểu tượng Action menu."
 title: "2. FPT Autoscale"
 source: "https://fptcloud.com/documents/fpt-autoscale/?doc=thay-doi-profile-cho-group"
 parent: "https://fptcloud.com/documents/fpt-autoscale"

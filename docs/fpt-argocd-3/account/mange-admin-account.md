@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT ArgoCD"
+sidebar_label: "Mange admin account"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=mange-admin-account"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

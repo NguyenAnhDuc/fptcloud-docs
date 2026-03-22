@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Quan ly kubernetes cluster"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=quan-ly-kubernetes-cluster"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

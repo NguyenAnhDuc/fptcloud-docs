@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. CheckPoint – FPT NGFW"
+sidebar_label: "Huong dan tren smartconsole"
 title: "2. CheckPoint – FPT NGFW"
 source: "https://fptcloud.com/documents/checkpoint-fpt-ngfw/?doc=huong-dan-tren-smartconsole"
 parent: "https://fptcloud.com/documents/checkpoint-fpt-ngfw"

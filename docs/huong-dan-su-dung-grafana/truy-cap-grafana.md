@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Hướng dẫn sử dụng Grafana"
+sidebar_label: "Truy cap grafana"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=truy-cap-grafana"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"

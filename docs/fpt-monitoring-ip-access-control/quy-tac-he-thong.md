@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Monitoring – IP Access Control"
+sidebar_label: "Quy tac he thong"
 title: "2. FPT Monitoring – IP Access Control"
 source: "https://fptcloud.com/documents/fpt-monitoring-ip-access-control/?doc=quy-tac-he-thong"
 parent: "https://fptcloud.com/documents/fpt-monitoring-ip-access-control"

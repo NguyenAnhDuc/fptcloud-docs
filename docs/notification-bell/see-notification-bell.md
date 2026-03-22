@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Notification Bell"
+sidebar_label: "See notification bell"
 title: "2. Notification Bell"
 source: "https://fptcloud.com/documents/notification-bell/?doc=see-notification-bell"
 parent: "https://fptcloud.com/documents/notification-bell"

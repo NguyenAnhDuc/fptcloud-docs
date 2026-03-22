@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Monitoring – IP Access Control"
+sidebar_label: "Them moi whitelisted ip"
 title: "2. FPT Monitoring – IP Access Control"
 source: "https://fptcloud.com/documents/fpt-monitoring-ip-access-control/?doc=them-moi-whitelisted-ip"
 parent: "https://fptcloud.com/documents/fpt-monitoring-ip-access-control"

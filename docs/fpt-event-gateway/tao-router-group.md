@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Event Gateway"
+sidebar_label: "Tao router group"
 title: "2. FPT Event Gateway"
 source: "https://fptcloud.com/documents/fpt-event-gateway/?doc=tao-router-group"
 parent: "https://fptcloud.com/documents/fpt-event-gateway"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Reporting"
+sidebar_label: "Delete report"
 title: "2. FPT Reporting"
 source: "https://fptcloud.com/documents/reporting/?doc=delete-report"
 parent: "https://fptcloud.com/documents/reporting"

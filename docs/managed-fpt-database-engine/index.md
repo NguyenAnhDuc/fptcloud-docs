@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed – FPT Database Engine"
+sidebar_label: "Trang chủ"
 title: "2. Managed – FPT Database Engine"
 source: "https://fptcloud.com/documents/managed-fpt-database-engine/"
 lang: vi

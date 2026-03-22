@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Tagging"
+sidebar_label: "1. Gắn tag trong lúc tạo security group"
 title: "2. Tagging"
 source: "https://fptcloud.com/documents/tagging/?doc=tags-security-group"
 parent: "https://fptcloud.com/documents/tagging"

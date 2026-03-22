@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Relation management"
+sidebar_label: "Truy cap dich vu"
 title: "2. Relation management"
 source: "https://fptcloud.com/documents/relation-management/?doc=truy-cap-dich-vu"
 parent: "https://fptcloud.com/documents/relation-management"

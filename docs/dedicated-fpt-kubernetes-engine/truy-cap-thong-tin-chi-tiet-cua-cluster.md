@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Dedicated – FPT Kubernetes Engine"
+sidebar_label: "Truy cap thong tin chi tiet cua cluster"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=truy-cap-thong-tin-chi-tiet-cua-cluster"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT App Catalogs"
+sidebar_label: "Deploy app catalogs toi cluster"
 title: "2. FPT App Catalogs"
 source: "https://fptcloud.com/documents/app-catalogs/?doc=deploy-app-catalogs-toi-cluster"
 parent: "https://fptcloud.com/documents/app-catalogs"

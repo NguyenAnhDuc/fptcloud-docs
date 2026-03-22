@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Dedicated – FPT Kubernetes Engine"
+sidebar_label: "Start kubernetes cluster"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=start-kubernetes-cluster"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Hướng dẫn sử dụng Grafana"
+sidebar_label: "Huong dan tich hop database"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=huong-dan-tich-hop-database"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT AppSec"
+sidebar_label: "Detail dasboard"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=detail-dasboard"
 parent: "https://fptcloud.com/documents/fpt-appsec"

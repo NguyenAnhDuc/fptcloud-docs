@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT ArgoCD"
+sidebar_label: "Huong dan cau hinh argocd cluster de deploy ung dung voi manifes"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=huong-dan-cau-hinh-argocd-cluster-de-deploy-ung-dung-voi-manifes"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

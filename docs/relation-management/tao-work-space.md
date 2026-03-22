@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Relation management"
+sidebar_label: "Tao work space"
 title: "2. Relation management"
 source: "https://fptcloud.com/documents/relation-management/?doc=tao-work-space"
 parent: "https://fptcloud.com/documents/relation-management"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Fortigate – FPT NGFW"
+sidebar_label: "Quan ly system user user profile"
 title: "2. Fortigate – FPT NGFW"
 source: "https://fptcloud.com/documents/fortigate-fpt-ngfw/?doc=quan-ly-system-user-user-profile"
 parent: "https://fptcloud.com/documents/fortigate-fpt-ngfw"

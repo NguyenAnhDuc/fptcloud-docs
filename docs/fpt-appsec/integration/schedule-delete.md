@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT AppSec"
+sidebar_label: "Schedule delete"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=schedule-delete"
 parent: "https://fptcloud.com/documents/fpt-appsec"

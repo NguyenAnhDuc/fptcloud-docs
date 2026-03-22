@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Jenkins CI"
+sidebar_label: "Them moi mot agent"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=them-moi-mot-agent"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

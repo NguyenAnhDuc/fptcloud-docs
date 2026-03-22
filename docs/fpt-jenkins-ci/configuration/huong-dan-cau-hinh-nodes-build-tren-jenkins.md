@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Jenkins CI"
+sidebar_label: "Huong dan cau hinh nodes build tren jenkins"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=huong-dan-cau-hinh-nodes-build-tren-jenkins"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

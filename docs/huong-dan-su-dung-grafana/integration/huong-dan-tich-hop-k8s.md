@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Hướng dẫn sử dụng Grafana"
+sidebar_label: "Huong dan tich hop k8s"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=huong-dan-tich-hop-k8s"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"

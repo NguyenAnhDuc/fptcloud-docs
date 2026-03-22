@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Allow Address Pair"
+sidebar_label: "Question 1"
 title: "2. Allow Address Pair"
 source: "https://fptcloud.com/documents/allow-address-pair/?doc=question-1"
 parent: "https://fptcloud.com/documents/allow-address-pair"

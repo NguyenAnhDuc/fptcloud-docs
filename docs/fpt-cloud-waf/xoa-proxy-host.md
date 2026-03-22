@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Cloud WAF"
+sidebar_label: "Xoa proxy host"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=xoa-proxy-host"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

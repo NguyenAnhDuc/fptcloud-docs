@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Gateway"
+sidebar_label: "Hướng dẫn truy cập"
 title: "2. Gateway"
 source: "https://fptcloud.com/documents/gateway/"
 lang: vi

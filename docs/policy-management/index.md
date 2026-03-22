@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Policy Management"
+sidebar_label: "Giới thiệu"
 title: "2. Policy Management"
 source: "https://fptcloud.com/documents/policy-management/"
 lang: vi

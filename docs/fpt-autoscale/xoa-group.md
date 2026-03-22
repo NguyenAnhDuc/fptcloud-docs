@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Autoscale"
+sidebar_label: "Bước 1: Truy cập trang Autoscaling > Autoscale Group. Trên dòng tương ứng với group cần xóa, click vào biểu tượng Action menu."
 title: "2. FPT Autoscale"
 source: "https://fptcloud.com/documents/fpt-autoscale/?doc=xoa-group"
 parent: "https://fptcloud.com/documents/fpt-autoscale"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Model Hub"
+sidebar_label: "Base model"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=base-model"
 parent: "https://fptcloud.com/documents/model-hub"

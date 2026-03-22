@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Managed – FPT Database Engines"
+sidebar_label: "Create db"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=create-db"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

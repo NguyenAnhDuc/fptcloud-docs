@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT AppSec"
+sidebar_label: "25-11-07"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=aspm_v1.3.0"
 parent: "https://fptcloud.com/documents/fpt-appsec"

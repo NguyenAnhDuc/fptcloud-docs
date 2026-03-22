@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Cloud Monitoring"
+sidebar_label: "Truc quan hoa du lieu"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=truc-quan-hoa-du-lieu"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

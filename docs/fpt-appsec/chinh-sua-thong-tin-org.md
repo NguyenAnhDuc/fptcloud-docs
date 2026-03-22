@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT AppSec"
+sidebar_label: "Chinh sua thong tin org"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=chinh-sua-thong-tin-org"
 parent: "https://fptcloud.com/documents/fpt-appsec"

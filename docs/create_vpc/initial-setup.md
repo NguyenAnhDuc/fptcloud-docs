@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Create VPC"
+sidebar_label: "Initial setup"
 title: "2. Create VPC"
 source: "https://fptcloud.com/documents/create_vpc/?doc=initial-setup"
 parent: "https://fptcloud.com/documents/create_vpc"

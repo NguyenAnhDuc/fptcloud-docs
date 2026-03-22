@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Model Hub"
+sidebar_label: "Dang nhap"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=dang-nhap"
 parent: "https://fptcloud.com/documents/model-hub"

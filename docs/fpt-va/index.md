@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Cloud VA"
+sidebar_label: "Trang chủ"
 title: "2. FPT Cloud VA"
 source: "https://fptcloud.com/documents/fpt-va/"
 lang: vi

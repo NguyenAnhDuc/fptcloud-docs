@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Change Network Config"
+sidebar_label: "Giới thiệu"
 title: "2. Change Network Config"
 source: "https://fptcloud.com/documents/change-network-config-0/"
 lang: vi

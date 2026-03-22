@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Cloud Desktop"
+sidebar_label: "Initial setup"
 title: "2. FPT Cloud Desktop"
 source: "https://fptcloud.com/documents/fpt-cloud-desktop/?doc=initial-setup"
 parent: "https://fptcloud.com/documents/fpt-cloud-desktop"

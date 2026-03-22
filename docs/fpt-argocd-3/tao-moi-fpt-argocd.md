@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT ArgoCD"
+sidebar_label: "Tao moi fpt argocd"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=tao-moi-fpt-argocd"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

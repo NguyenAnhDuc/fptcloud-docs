@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. CheckPoint – FPT NGFW"
+sidebar_label: "Truy cap gaia portal"
 title: "2. CheckPoint – FPT NGFW"
 source: "https://fptcloud.com/documents/checkpoint-fpt-ngfw/?doc=truy-cap-gaia-portal"
 parent: "https://fptcloud.com/documents/checkpoint-fpt-ngfw"

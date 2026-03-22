@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Bills"
+sidebar_label: "Giới thiệu"
 title: "2. Bills"
 source: "https://fptcloud.com/documents/billing/"
 lang: vi

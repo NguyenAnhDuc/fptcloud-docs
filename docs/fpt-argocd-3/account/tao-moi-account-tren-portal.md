@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT ArgoCD"
+sidebar_label: "Tao moi account tren portal"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=tao-moi-account-tren-portal"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

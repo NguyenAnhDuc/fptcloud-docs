@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Budget Alert"
+sidebar_label: "Hướng dẫn nhanh"
 title: "2. Budget Alert"
 source: "https://fptcloud.com/documents/budget-alert/"
 lang: vi

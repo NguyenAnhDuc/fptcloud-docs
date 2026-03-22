@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed GPU Cluster (Kubernetes)"
+sidebar_label: "Mps gpu sharing"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=mps-gpu-sharing"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

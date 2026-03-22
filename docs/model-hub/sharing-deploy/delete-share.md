@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Model Hub"
+sidebar_label: "Delete share"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=delete-share"
 parent: "https://fptcloud.com/documents/model-hub"

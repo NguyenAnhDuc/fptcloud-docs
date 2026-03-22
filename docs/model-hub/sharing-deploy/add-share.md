@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Model Hub"
+sidebar_label: "Add share"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=add-share"
 parent: "https://fptcloud.com/documents/model-hub"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Endpoint monitoring"
+sidebar_label: "Tao endpoint"
 title: "2. Endpoint monitoring"
 source: "https://fptcloud.com/documents/endpoint-monitoring/?doc=tao-endpoint"
 parent: "https://fptcloud.com/documents/endpoint-monitoring"

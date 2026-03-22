@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT ArgoCD"
+sidebar_label: "Huong dan dang nhap vao argocd"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=huong-dan-dang-nhap-vao-argocd"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

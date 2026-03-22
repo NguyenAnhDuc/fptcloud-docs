@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Dedicated – FPT Kubernetes Engine"
+sidebar_label: "Retry timeout rule"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=retry-timeout-rule"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Jenkins CI"
+sidebar_label: "Cau hinh telegram bots"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=cau-hinh-telegram-bots"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

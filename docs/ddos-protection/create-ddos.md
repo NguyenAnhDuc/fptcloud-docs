@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. DdoS Protection"
+sidebar_label: "Create ddos"
 title: "2. DdoS Protection"
 source: "https://fptcloud.com/documents/ddos-protection/?doc=create-ddos"
 parent: "https://fptcloud.com/documents/ddos-protection"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT API Management"
+sidebar_label: "1. Khai báo REST APIs"
 title: "2. FPT API Management"
 source: "https://fptcloud.com/documents/fpt-api-management/?doc=quan-ly-rest-apis"
 parent: "https://fptcloud.com/documents/fpt-api-management"

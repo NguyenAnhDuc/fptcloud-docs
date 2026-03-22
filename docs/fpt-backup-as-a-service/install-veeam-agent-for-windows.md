@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Backup As a Service"
+sidebar_label: "Install veeam agent for windows"
 title: "2. FPT Backup As a Service"
 source: "https://fptcloud.com/documents/fpt-backup-as-a-service/?doc=install-veeam-agent-for-windows"
 parent: "https://fptcloud.com/documents/fpt-backup-as-a-service"

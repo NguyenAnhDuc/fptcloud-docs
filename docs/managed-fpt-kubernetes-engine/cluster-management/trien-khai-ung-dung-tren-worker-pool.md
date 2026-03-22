@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Cấu hình file manifest để triển khai ứng dụng"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=trien-khai-ung-dung-tren-worker-pool"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

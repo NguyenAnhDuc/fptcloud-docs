@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Network Interface Card (NIC)"
+sidebar_label: "Change address mac"
 title: "2. Network Interface Card (NIC)"
 source: "https://fptcloud.com/documents/nic/?doc=change-address-MAC"
 parent: "https://fptcloud.com/documents/nic"

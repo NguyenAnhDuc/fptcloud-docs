@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Service type kb layer7 lbv2"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=service-type-kb-layer7-lbv2"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

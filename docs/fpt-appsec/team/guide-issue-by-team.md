@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT AppSec"
+sidebar_label: "1. Chọn chế độ xem"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=guide-issue-by-team"
 parent: "https://fptcloud.com/documents/fpt-appsec"

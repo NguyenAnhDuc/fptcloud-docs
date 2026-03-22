@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Fortigate – FPT NGFW"
+sidebar_label: "Cau hinh static routes"
 title: "2. Fortigate – FPT NGFW"
 source: "https://fptcloud.com/documents/fortigate-fpt-ngfw/?doc=cau-hinh-static-routes"
 parent: "https://fptcloud.com/documents/fortigate-fpt-ngfw"

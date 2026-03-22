@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Cloud WAF"
+sidebar_label: "1. Kết nối máy chủ WAF đến Web Server của người dùng"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=cau-hinh-ket-noi-may-chu-waf"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

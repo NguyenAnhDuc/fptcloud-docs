@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Object Storage"
+sidebar_label: "Phan Quyen Su Dung Bucket Cho Cac Subuser"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/?doc=phan-quyen-su-dung-bucket-cho-cac-subuser"
 parent: "https://fptcloud.com/documents/object-storage"

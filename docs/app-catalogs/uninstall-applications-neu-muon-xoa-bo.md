@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT App Catalogs"
+sidebar_label: "Uninstall applications neu muon xoa bo"
 title: "2. FPT App Catalogs"
 source: "https://fptcloud.com/documents/app-catalogs/?doc=uninstall-applications-neu-muon-xoa-bo"
 parent: "https://fptcloud.com/documents/app-catalogs"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT ArgoCD"
+sidebar_label: "Cau hinh webhook"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=cau-hinh-webhook"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

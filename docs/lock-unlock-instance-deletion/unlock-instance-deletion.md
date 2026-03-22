@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Lock & Unlock Instance Deletion"
+sidebar_label: "Unlock instance deletion"
 title: "2. Lock & Unlock Instance Deletion"
 source: "https://fptcloud.com/documents/lock-unlock-instance-deletion/?doc=unlock-instance-deletion"
 parent: "https://fptcloud.com/documents/lock-unlock-instance-deletion"

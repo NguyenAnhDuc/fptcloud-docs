@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. CheckPoint – FPT NGFW"
+sidebar_label: "Trang chủ"
 title: "2. CheckPoint – FPT NGFW"
 source: "https://fptcloud.com/documents/checkpoint-fpt-ngfw/"
 lang: vi

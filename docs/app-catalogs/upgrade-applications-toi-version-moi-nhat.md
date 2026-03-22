@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT App Catalogs"
+sidebar_label: "Upgrade applications toi version moi nhat"
 title: "2. FPT App Catalogs"
 source: "https://fptcloud.com/documents/app-catalogs/?doc=upgrade-applications-toi-version-moi-nhat"
 parent: "https://fptcloud.com/documents/app-catalogs"

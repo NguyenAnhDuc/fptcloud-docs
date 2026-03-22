@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Dedicated – FPT Kubernetes Engine"
+sidebar_label: "Backup and restore cluster"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=backup-and-restore-cluster"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

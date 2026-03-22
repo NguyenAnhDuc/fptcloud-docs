@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Tagging"
+sidebar_label: "1. Gắn tag trong lúc upload image"
 title: "2. Tagging"
 source: "https://fptcloud.com/documents/tagging/?doc=tags-custom-image"
 parent: "https://fptcloud.com/documents/tagging"

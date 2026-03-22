@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Data Platform"
+sidebar_label: "Gioi thieu workspace"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=gioi-thieu-workspace"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

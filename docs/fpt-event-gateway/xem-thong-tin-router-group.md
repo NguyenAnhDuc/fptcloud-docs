@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Event Gateway"
+sidebar_label: "Xem thong tin router group"
 title: "2. FPT Event Gateway"
 source: "https://fptcloud.com/documents/fpt-event-gateway/?doc=xem-thong-tin-router-group"
 parent: "https://fptcloud.com/documents/fpt-event-gateway"

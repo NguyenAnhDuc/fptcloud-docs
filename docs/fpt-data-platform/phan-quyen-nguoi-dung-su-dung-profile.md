@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Data Platform"
+sidebar_label: "Phan quyen nguoi dung su dung profile"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=phan-quyen-nguoi-dung-su-dung-profile"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

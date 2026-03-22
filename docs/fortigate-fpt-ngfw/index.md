@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Fortigate – FPT NGFW"
+sidebar_label: "Trang chủ"
 title: "2. Fortigate – FPT NGFW"
 source: "https://fptcloud.com/documents/fortigate-fpt-ngfw/"
 lang: vi

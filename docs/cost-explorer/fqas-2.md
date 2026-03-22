@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Cost Explorer"
+sidebar_label: "Fqas 2"
 title: "2. Cost Explorer"
 source: "https://fptcloud.com/documents/cost-explorer/?doc=fqas-2"
 parent: "https://fptcloud.com/documents/cost-explorer"

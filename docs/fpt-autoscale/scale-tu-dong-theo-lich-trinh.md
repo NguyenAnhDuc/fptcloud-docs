@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Autoscale"
+sidebar_label: "Tạo Autoscale Schedule"
 title: "2. FPT Autoscale"
 source: "https://fptcloud.com/documents/fpt-autoscale/?doc=scale-tu-dong-theo-lich-trinh"
 parent: "https://fptcloud.com/documents/fpt-autoscale"

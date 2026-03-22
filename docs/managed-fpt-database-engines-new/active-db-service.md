@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Managed – FPT Database Engines"
+sidebar_label: "Active db service"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=active-db-service"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Cloud Monitoring"
+sidebar_label: "Monitor public endpoints"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=monitor-public-endpoints"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

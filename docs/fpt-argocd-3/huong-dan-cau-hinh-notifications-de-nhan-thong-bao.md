@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT ArgoCD"
+sidebar_label: "Huong dan cau hinh notifications de nhan thong bao"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=huong-dan-cau-hinh-notifications-de-nhan-thong-bao"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

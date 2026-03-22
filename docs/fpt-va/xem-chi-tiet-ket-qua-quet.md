@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Cloud VA"
+sidebar_label: "Xem chi tiet ket qua quet"
 title: "2. FPT Cloud VA"
 source: "https://fptcloud.com/documents/fpt-va/?doc=xem-chi-tiet-ket-qua-quet"
 parent: "https://fptcloud.com/documents/fpt-va"

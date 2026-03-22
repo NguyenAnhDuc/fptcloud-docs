@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Cost Explorer"
+sidebar_label: "Hướng dẫn nhanh (Quick Starts)"
 title: "2. Cost Explorer"
 source: "https://fptcloud.com/documents/cost-explorer/"
 lang: vi

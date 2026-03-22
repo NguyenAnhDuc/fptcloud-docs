@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Container Registry"
+sidebar_label: "Tag va push image len fpt container registry"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=tag-va-push-image-len-fpt-container-registry"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

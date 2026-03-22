@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Quản lý Instance Group với chính sách Affinity & Anti-Affinity"
+sidebar_label: "Delete instance group"
 title: "2. Quản lý Instance Group với chính sách Affinity & Anti-Affinity"
 source: "https://fptcloud.com/documents/affinity-anti-affinity/?doc=delete-instance-group"
 parent: "https://fptcloud.com/documents/affinity-anti-affinity"

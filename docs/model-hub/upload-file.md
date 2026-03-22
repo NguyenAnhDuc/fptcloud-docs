@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Model Hub"
+sidebar_label: "Upload file"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=upload-file"
 parent: "https://fptcloud.com/documents/model-hub"

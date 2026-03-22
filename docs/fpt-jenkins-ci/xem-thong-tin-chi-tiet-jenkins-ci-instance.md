@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Jenkins CI"
+sidebar_label: "Xem thong tin chi tiet jenkins ci instance"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=xem-thong-tin-chi-tiet-jenkins-CI-instance"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

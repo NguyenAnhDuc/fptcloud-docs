@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Endpoint monitoring"
+sidebar_label: "Initial setup"
 title: "2. Endpoint monitoring"
 source: "https://fptcloud.com/documents/endpoint-monitoring/?doc=initial-setup"
 parent: "https://fptcloud.com/documents/endpoint-monitoring"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Jenkins CI"
+sidebar_label: "Xoa agent khi khong muon su dung"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=xoa-agent-khi-khong-muon-su-dung"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

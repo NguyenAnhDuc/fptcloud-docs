@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Policy Management"
+sidebar_label: "Initial setup"
 title: "2. Policy Management"
 source: "https://fptcloud.com/documents/policy-management/?doc=initial-setup"
 parent: "https://fptcloud.com/documents/policy-management"

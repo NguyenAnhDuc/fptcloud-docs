@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Object Storage"
+sidebar_label: "Su Dung Fpt Object Storage Lam Media Server Luu Tru Va Phan Phoi Media File Cho Websiteweb Application"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/?doc=su-dung-fpt-object-storage-lam-media-server-luu-tru-va-phan-phoi-media-file-cho-websiteweb-application"
 parent: "https://fptcloud.com/documents/object-storage"

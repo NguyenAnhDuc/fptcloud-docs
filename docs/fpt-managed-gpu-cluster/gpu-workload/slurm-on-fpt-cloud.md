@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed GPU Cluster (Kubernetes)"
+sidebar_label: "Slurm on fpt cloud"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=slurm-on-fpt-cloud"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

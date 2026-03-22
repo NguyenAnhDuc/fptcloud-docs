@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT App Catalogs"
+sidebar_label: "Search app catalogs trong repository"
 title: "2. FPT App Catalogs"
 source: "https://fptcloud.com/documents/app-catalogs/?doc=search-app-catalogs-trong-repository"
 parent: "https://fptcloud.com/documents/app-catalogs"

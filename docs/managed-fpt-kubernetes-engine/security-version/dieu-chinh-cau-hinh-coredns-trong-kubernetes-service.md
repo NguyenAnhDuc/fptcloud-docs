@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Dieu chinh cau hinh coredns trong kubernetes service"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=dieu-chinh-cau-hinh-coredns-trong-kubernetes-service"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

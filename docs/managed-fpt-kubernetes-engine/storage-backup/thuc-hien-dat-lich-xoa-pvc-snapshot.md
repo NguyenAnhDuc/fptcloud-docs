@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Managed – FPT Kubernetes Engine"
+sidebar_label: "Thuc hien dat lich xoa pvc snapshot"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=thuc-hien-dat-lich-xoa-pvc-snapshot"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

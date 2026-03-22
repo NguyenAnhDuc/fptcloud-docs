@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Backup As a Service"
+sidebar_label: "Những điều cần lưu ý khi sử dụng Backup as a Service"
 title: "2. FPT Backup As a Service"
 source: "https://fptcloud.com/documents/fpt-backup-as-a-service/"
 lang: vi

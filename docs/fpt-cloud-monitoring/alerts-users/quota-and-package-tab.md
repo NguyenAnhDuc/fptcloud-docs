@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Cloud Monitoring"
+sidebar_label: "Quota and package tab"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=quota-and-package-tab"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

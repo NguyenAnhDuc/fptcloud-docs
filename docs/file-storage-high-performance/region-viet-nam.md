@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. File Storage – High Performance"
+sidebar_label: "Region Viet Nam"
 title: "2. File Storage – High Performance"
 source: "https://fptcloud.com/documents/file-storage-high-performance/?doc=region-viet-nam"
 parent: "https://fptcloud.com/documents/file-storage-high-performance"

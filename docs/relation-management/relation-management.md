@@ -1,7 +1,7 @@
 ---
 slug: relation-management-index
 sidebar_class_name: hidden
-sidebar_label: "2. Relation management"
+sidebar_label: "Relation management"
 title: "2. Relation management"
 source: "https://fptcloud.com/documents/relation-management/?doc=relation-management"
 parent: "https://fptcloud.com/documents/relation-management"

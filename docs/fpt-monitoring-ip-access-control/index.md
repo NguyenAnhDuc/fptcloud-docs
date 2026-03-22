@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Monitoring – IP Access Control"
+sidebar_label: "Trang chủ"
 title: "2. FPT Monitoring – IP Access Control"
 source: "https://fptcloud.com/documents/fpt-monitoring-ip-access-control/"
 lang: vi

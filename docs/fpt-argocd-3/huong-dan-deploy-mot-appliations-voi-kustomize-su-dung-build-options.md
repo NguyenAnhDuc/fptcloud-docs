@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT ArgoCD"
+sidebar_label: "Huong dan deploy mot appliations voi kustomize su dung build options"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=huong-dan-deploy-mot-appliations-voi-kustomize-su-dung-build-options"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Change Network Config"
+sidebar_label: "Change static ip in window server"
 title: "2. Change Network Config"
 source: "https://fptcloud.com/documents/change-network-config-0/?doc=change-static-IP-in-window-server"
 parent: "https://fptcloud.com/documents/change-network-config-0"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Backup As a Service"
+sidebar_label: "Restore file and folder for linux"
 title: "2. FPT Backup As a Service"
 source: "https://fptcloud.com/documents/fpt-backup-as-a-service/?doc=restore-file-and-folder-for-linux"
 parent: "https://fptcloud.com/documents/fpt-backup-as-a-service"

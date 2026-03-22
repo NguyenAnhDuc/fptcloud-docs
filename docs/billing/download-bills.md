@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Bills"
+sidebar_label: "Download bills"
 title: "2. Bills"
 source: "https://fptcloud.com/documents/billing/?doc=download-bills"
 parent: "https://fptcloud.com/documents/billing"

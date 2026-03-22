@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Cloud Advisor"
+sidebar_label: "Cloud advisor fault tolerance"
 title: "2. Cloud Advisor"
 source: "https://fptcloud.com/documents/cloud-advisor/?doc=cloud-advisor-fault-tolerance"
 parent: "https://fptcloud.com/documents/cloud-advisor"

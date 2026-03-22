@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Jenkins CI"
+sidebar_label: "Huong dan dang nhap vao fpt cloud jenkins ci"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=huong-dan-dang-nhap-vao-fpt-cloud-jenkins-ci"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

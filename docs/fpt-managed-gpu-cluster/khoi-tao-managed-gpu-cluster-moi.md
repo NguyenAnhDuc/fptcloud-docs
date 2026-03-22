@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Managed GPU Cluster (Kubernetes)"
+sidebar_label: "Khoi tao managed gpu cluster moi"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=khoi-tao-managed-gpu-cluster-moi"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

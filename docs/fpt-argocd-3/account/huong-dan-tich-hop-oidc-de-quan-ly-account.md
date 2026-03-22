@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT ArgoCD"
+sidebar_label: "Huong dan tich hop oidc de quan ly account"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=huong-dan-tich-hop-oidc-de-quan-ly-account"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

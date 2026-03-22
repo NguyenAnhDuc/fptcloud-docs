@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Cloud WAPPLES"
+sidebar_label: "Website logs"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=website-logs"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

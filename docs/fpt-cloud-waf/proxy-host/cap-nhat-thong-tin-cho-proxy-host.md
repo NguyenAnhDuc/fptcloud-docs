@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Cloud WAF"
+sidebar_label: "Cap nhat thong tin cho proxy host"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=cap-nhat-thong-tin-cho-proxy-host"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

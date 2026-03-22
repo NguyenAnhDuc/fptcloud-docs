@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Container Registry"
+sidebar_label: "Quan ly goi dich vu"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=quan-ly-goi-dich-vu"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

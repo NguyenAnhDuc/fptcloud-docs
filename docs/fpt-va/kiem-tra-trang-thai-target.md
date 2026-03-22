@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Cloud VA"
+sidebar_label: "Kiem tra trang thai target"
 title: "2. FPT Cloud VA"
 source: "https://fptcloud.com/documents/fpt-va/?doc=kiem-tra-trang-thai-target"
 parent: "https://fptcloud.com/documents/fpt-va"

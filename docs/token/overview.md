@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Token"
+sidebar_label: "Overview"
 title: "2. Token"
 source: "https://fptcloud.com/documents/token/?doc=overview"
 parent: "https://fptcloud.com/documents/token"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. FPT Cloud Monitoring"
+sidebar_label: "Truy cap vao dashboard"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=truy-cap-vao-dashboard"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

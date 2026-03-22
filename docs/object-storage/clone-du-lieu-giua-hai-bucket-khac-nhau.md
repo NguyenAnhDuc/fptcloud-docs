@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT Object Storage"
+sidebar_label: "Clone Du Lieu Giua Hai Bucket Khac Nhau"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/?doc=clone-du-lieu-giua-hai-bucket-khac-nhau"
 parent: "https://fptcloud.com/documents/object-storage"

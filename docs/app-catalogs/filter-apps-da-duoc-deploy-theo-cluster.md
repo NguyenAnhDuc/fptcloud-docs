@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. FPT App Catalogs"
+sidebar_label: "Filter apps da duoc deploy theo cluster"
 title: "2. FPT App Catalogs"
 source: "https://fptcloud.com/documents/app-catalogs/?doc=filter-apps-da-duoc-deploy-theo-cluster"
 parent: "https://fptcloud.com/documents/app-catalogs"

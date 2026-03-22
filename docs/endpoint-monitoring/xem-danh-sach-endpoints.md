@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "2. Endpoint monitoring"
+sidebar_label: "Xem danh sach endpoints"
 title: "2. Endpoint monitoring"
 source: "https://fptcloud.com/documents/endpoint-monitoring/?doc=xem-danh-sach-endpoints"
 parent: "https://fptcloud.com/documents/endpoint-monitoring"

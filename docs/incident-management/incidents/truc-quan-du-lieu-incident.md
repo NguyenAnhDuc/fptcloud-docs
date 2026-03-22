@@ -1,5 +1,5 @@
 ---
-sidebar_label: "2. Incident Management"
+sidebar_label: "Truc quan du lieu incident"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=truc-quan-du-lieu-incident"
 parent: "https://fptcloud.com/documents/incident-management"
