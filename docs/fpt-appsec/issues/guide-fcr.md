@@ -1,5 +1,5 @@
 ---
-sidebar_label: "1. Integrate FCR - Add VPC"
+sidebar_label: "Guide fcr"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=guide-fcr"
 parent: "https://fptcloud.com/documents/fpt-appsec"

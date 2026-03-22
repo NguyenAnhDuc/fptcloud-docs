@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "1. Total Teams (Tổng số lượng team)"
+sidebar_label: "Guide dashboard overview"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=guide-dashboard-overview"
 parent: "https://fptcloud.com/documents/fpt-appsec"

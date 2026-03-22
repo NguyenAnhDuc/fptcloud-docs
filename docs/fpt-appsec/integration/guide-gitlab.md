@@ -1,5 +1,5 @@
 ---
-sidebar_label: "1. Configure GitLab"
+sidebar_label: "Guide gitlab"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=guide-gitlab"
 parent: "https://fptcloud.com/documents/fpt-appsec"

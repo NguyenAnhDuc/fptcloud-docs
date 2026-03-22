@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "1. Yêu cầu hệ thống"
+sidebar_label: "Set up"
 title: "2. Terraform"
 source: "https://fptcloud.com/documents/terraform/?doc=set-up"
 parent: "https://fptcloud.com/documents/terraform"

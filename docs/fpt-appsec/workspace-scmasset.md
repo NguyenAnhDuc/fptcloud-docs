@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "1. Add Asset"
+sidebar_label: "Workspace scmasset"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=workspace-scmasset"
 parent: "https://fptcloud.com/documents/fpt-appsec"

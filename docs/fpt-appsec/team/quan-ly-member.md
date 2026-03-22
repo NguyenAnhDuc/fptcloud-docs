@@ -1,5 +1,5 @@
 ---
-sidebar_label: "1. Thêm Member"
+sidebar_label: "Quan ly member"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=quan-ly-member"
 parent: "https://fptcloud.com/documents/fpt-appsec"

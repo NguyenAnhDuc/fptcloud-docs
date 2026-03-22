@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "1. Fortigate là gì?"
+sidebar_label: "Faq"
 title: "2. Fortigate – FPT NGFW"
 source: "https://fptcloud.com/documents/fortigate-fpt-ngfw/?doc=FAQ"
 parent: "https://fptcloud.com/documents/fortigate-fpt-ngfw"

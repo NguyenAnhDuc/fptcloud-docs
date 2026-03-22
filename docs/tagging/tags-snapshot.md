@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "1. Gắn tag trong lúc tạo snapshot từ instance"
+sidebar_label: "Tags snapshot"
 title: "2. Tagging"
 source: "https://fptcloud.com/documents/tagging/?doc=tags-snapshot"
 parent: "https://fptcloud.com/documents/tagging"

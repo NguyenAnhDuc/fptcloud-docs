@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "1. Quản lý danh sách Route"
+sidebar_label: "Quan ly route 1 gateway"
 title: "2. Gateway"
 source: "https://fptcloud.com/documents/gateway/?doc=quan-ly-route-1-gateway"
 parent: "https://fptcloud.com/documents/gateway"

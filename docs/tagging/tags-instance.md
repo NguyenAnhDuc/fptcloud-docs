@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "1. Gắn tag vào máy ảo ngay khi người dùng khởi tạo máy ảo"
+sidebar_label: "Tags instance"
 title: "2. Tagging"
 source: "https://fptcloud.com/documents/tagging/?doc=tags-instance"
 parent: "https://fptcloud.com/documents/tagging"

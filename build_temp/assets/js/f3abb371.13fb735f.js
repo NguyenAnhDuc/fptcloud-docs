@@ -1,0 +1,894 @@
+"use strict";
+(globalThis["webpackChunkfptcloud_docs"] = globalThis["webpackChunkfptcloud_docs"] || []).push([[14630],{
+
+/***/ 742319
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+// ESM COMPAT FLAG
+__webpack_require__.r(__webpack_exports__);
+
+// EXPORTS
+__webpack_require__.d(__webpack_exports__, {
+  assets: () => (/* binding */ assets),
+  contentTitle: () => (/* binding */ contentTitle),
+  "default": () => (/* binding */ MDXContent),
+  frontMatter: () => (/* binding */ frontMatter),
+  metadata: () => (/* reexport */ site_docs_cloud_server_network_gateway_md_f3a_namespaceObject),
+  toc: () => (/* binding */ toc)
+});
+
+;// ./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-cloud-server-network-gateway-md-f3a.json
+const site_docs_cloud_server_network_gateway_md_f3a_namespaceObject = /*#__PURE__*/JSON.parse('{"id":"cloud-server/network/gateway","title":"Gateway","description":"*","source":"@site/docs/cloud-server/network/gateway.md","sourceDirName":"cloud-server/network","slug":"/cloud-server/network/gateway","permalink":"/cloud-server/network/gateway","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{"sidebar_label":"Gateway","title":"Gateway","source":"https://fptcloud.com/documents/cloud-server/?doc=gateway","parent":"https://fptcloud.com/documents/cloud-server","lang":"vi","converted":"2026-03-19"},"sidebar":"defaultSidebar","previous":{"title":"Enable Network Interface Card","permalink":"/cloud-server/network/enable-nic-card"},"next":{"title":"NAT Instance","permalink":"/cloud-server/network/nat-instance"}}');
+// EXTERNAL MODULE: ./node_modules/react/jsx-runtime.js
+var jsx_runtime = __webpack_require__(474848);
+// EXTERNAL MODULE: ./node_modules/@mdx-js/react/lib/index.js
+var lib = __webpack_require__(28453);
+;// ./docs/cloud-server/network/gateway.md
+
+
+const frontMatter = {
+	sidebar_label: 'Gateway',
+	title: 'Gateway',
+	source: 'https://fptcloud.com/documents/cloud-server/?doc=gateway',
+	parent: 'https://fptcloud.com/documents/cloud-server',
+	lang: 'vi',
+	converted: '2026-03-19'
+};
+const contentTitle = 'Gateway';
+
+const assets = {
+
+};
+
+
+
+const toc = [{
+  "value": "<strong>1. Quản lý danh sách Route</strong>",
+  "id": "1-quản-lý-danh-sách-route",
+  "level": 2
+}, {
+  "value": "<strong>2. Tạo Route</strong>",
+  "id": "2-tạo-route",
+  "level": 2
+}, {
+  "value": "<strong>3. Chỉnh sửa Route</strong>",
+  "id": "3-chỉnh-sửa-route",
+  "level": 2
+}, {
+  "value": "<strong>4. Xoá Route</strong>",
+  "id": "4-xoá-route",
+  "level": 2
+}, {
+  "value": "<strong>1. Quản lý danh sách NAT Rule</strong>",
+  "id": "1-quản-lý-danh-sách-nat-rule",
+  "level": 2
+}, {
+  "value": "<strong>2. Tạo NAT Rule</strong>",
+  "id": "2-tạo-nat-rule",
+  "level": 2
+}, {
+  "value": "<strong>3. Chỉnh sửa NAT Rule</strong>",
+  "id": "3-chỉnh-sửa-nat-rule",
+  "level": 2
+}, {
+  "value": "<strong>4. Xoá NAT Rule</strong>",
+  "id": "4-xoá-nat-rule",
+  "level": 2
+}, {
+  "value": "<strong>1. Quản lý danh sách NO NAT Rule</strong>",
+  "id": "1-quản-lý-danh-sách-no-nat-rule",
+  "level": 2
+}, {
+  "value": "<strong>2. Tạo NO NAT Rule</strong>",
+  "id": "2-tạo-no-nat-rule",
+  "level": 2
+}, {
+  "value": "<strong>3. Chỉnh sửa NO NAT Rule</strong>",
+  "id": "3-chỉnh-sửa-no-nat-rule",
+  "level": 2
+}, {
+  "value": "<strong>4. Xoá NO NAT Rule</strong>",
+  "id": "4-xoá-no-nat-rule",
+  "level": 2
+}, {
+  "value": "<strong>1. Allocate IP Address</strong>",
+  "id": "1-allocate-ip-address",
+  "level": 2
+}, {
+  "value": "<strong>2. Instance</strong>",
+  "id": "2-instance",
+  "level": 2
+}, {
+  "value": "<strong>3. Subnet</strong>",
+  "id": "3-subnet",
+  "level": 2
+}, {
+  "value": "<strong>4. Security Group</strong>",
+  "id": "4-security-group",
+  "level": 2
+}, {
+  "value": "<strong>5. Load Balancer</strong>",
+  "id": "5-load-balancer",
+  "level": 2
+}, {
+  "value": "<strong>6. VPN Site to Site</strong>",
+  "id": "6-vpn-site-to-site",
+  "level": 2
+}];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h1: "h1",
+    h2: "h2",
+    header: "header",
+    hr: "hr",
+    img: "img",
+    li: "li",
+    p: "p",
+    strong: "strong",
+    table: "table",
+    tbody: "tbody",
+    td: "td",
+    th: "th",
+    thead: "thead",
+    tr: "tr",
+    ul: "ul",
+    ...(0,lib/* useMDXComponents */.R)(),
+    ...props.components
+  };
+  return (0,jsx_runtime.jsxs)(jsx_runtime.Fragment, {
+    children: [(0,jsx_runtime.jsx)(_components.header, {
+      children: (0,jsx_runtime.jsx)(_components.h1, {
+        id: "gateway",
+        children: "Gateway"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.hr, {}), "\n", (0,jsx_runtime.jsx)(_components.h1, {
+      id: "hướng-dẫn-truy-câp",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "Hướng dẫn truy câp:"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Bước 1: Đăng nhập console.fptcloud.com"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Bước 2: Sau khi đăng nhập thành công, chọn VPC cần xem dữ liệu Gateway"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Bước 3: Ở sidebar, chọn và mở rộng menu Network → Chọn Menu Gateway"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Lưu ý: Tính năng này chỉ dành riêng cho một số Tenant có cấu hình đặc biêt, vui lòng liên hệ để được hỗ trợ."
+    }), "\n", (0,jsx_runtime.jsx)(_components.h1, {
+      id: "quản-lý-danh-sách-gateway",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "Quản lý danh sách Gateway"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "file",
+        src: (__webpack_require__(864845)/* ["default"] */ .A) + "",
+        width: "885",
+        height: "374"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Ở màn hình này, người dùng thể quản lý được danh sách Gateway của 1 VPC"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Các thông tin của 1 Gateway bao gồm:"
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["\n", (0,jsx_runtime.jsxs)(_components.p, {
+          children: [(0,jsx_runtime.jsx)(_components.strong, {
+            children: "Gateway name"
+          }), " : Tên của Gateway. Click sẽ vào trang chi tiết thông tin của 1 Gateway"]
+        }), "\n"]
+      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["\n", (0,jsx_runtime.jsxs)(_components.p, {
+          children: [(0,jsx_runtime.jsx)(_components.strong, {
+            children: "Gateway type"
+          }), " : có 2 loại"]
+        }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+          children: ["\n", (0,jsx_runtime.jsxs)(_components.li, {
+            children: ["\n", (0,jsx_runtime.jsxs)(_components.p, {
+              children: [(0,jsx_runtime.jsx)(_components.strong, {
+                children: "Basic"
+              }), " : là loại Gateway được thiết lập tự động với các cấu hình mặc định để sử dụng"]
+            }), "\n"]
+          }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
+            children: ["\n", (0,jsx_runtime.jsxs)(_components.p, {
+              children: [(0,jsx_runtime.jsx)(_components.strong, {
+                children: "Custom"
+              }), " : là loại Gateway cho phép người dùng tự tay cấu hình các thiết lập theo nhu cầu cụ thể"]
+            }), "\n"]
+          }), "\n"]
+        }), "\n"]
+      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["\n", (0,jsx_runtime.jsxs)(_components.p, {
+          children: [(0,jsx_runtime.jsx)(_components.strong, {
+            children: "Number of Route"
+          }), " : Số lượng Route của 1 Gateway"]
+        }), "\n"]
+      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["\n", (0,jsx_runtime.jsxs)(_components.p, {
+          children: [(0,jsx_runtime.jsx)(_components.strong, {
+            children: "Connect to Network"
+          }), " : kết nối của Gateway đến 1 mạng cụ thể"]
+        }), "\n"]
+      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Tab Gateway Type show thông tin loại Gateway"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "file",
+        src: (__webpack_require__(726354)/* ["default"] */ .A) + "",
+        width: "885",
+        height: "364"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h1, {
+      id: "quản-lý-route-của-1-gateway",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "Quản lý Route của 1 Gateway"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "1-quản-lý-danh-sách-route",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "1. Quản lý danh sách Route"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "file",
+        src: (__webpack_require__(287189)/* ["default"] */ .A) + "",
+        width: "872",
+        height: "391"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Các thông tin của 1 Route bao gồm:"
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["\n", (0,jsx_runtime.jsx)(_components.p, {
+          children: "Route name"
+        }), "\n"]
+      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["\n", (0,jsx_runtime.jsx)(_components.p, {
+          children: "CIDR Destination"
+        }), "\n"]
+      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["\n", (0,jsx_runtime.jsx)(_components.p, {
+          children: "IP next hop"
+        }), "\n"]
+      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["\n", (0,jsx_runtime.jsx)(_components.p, {
+          children: "Status"
+        }), "\n"]
+      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["\n", (0,jsx_runtime.jsx)(_components.p, {
+          children: "Created at"
+        }), "\n"]
+      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "2-tạo-route",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "2. Tạo Route"
+      })
+    }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
+      children: ["Người dùng có thể bấm nút ", (0,jsx_runtime.jsx)(_components.strong, {
+        children: "Create route"
+      }), " để tạo mới 1 Route"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "file",
+        src: (__webpack_require__(976048)/* ["default"] */ .A) + "",
+        width: "885",
+        height: "341"
+      })
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "Với gateway loại Basic sẽ không được tạo Route, chỉ được tạo Route khi Gateway loại Custom"
+      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "3-chỉnh-sửa-route",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "3. Chỉnh sửa Route"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Ở cột Actions, người dùng có thể bấm nút Edit để chỉnh sửa thông tin của Route"
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "Với gateway loại Basic sẽ không được chỉnh sửa Route, chỉ được chỉnh sửa Route khi Gateway loại Custom"
+      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "4-xoá-route",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "4. Xoá Route"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Ở cột Actions, người dùng có thể bấm nút Delete để chỉnh sửa thông tin của Route"
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "Với gateway loại Basic sẽ không được xoá Route, chỉ được xoá Route khi Gateway loại Custom"
+      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.h1, {
+      id: "hệ-thống-cho-phép-người-dùng-quản-lý-nat-rule-trong-từng-gateway",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "Hệ thống cho phép người dùng quản lý NAT rule trong từng Gateway"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "1-quản-lý-danh-sách-nat-rule",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "1. Quản lý danh sách NAT Rule"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        src: (__webpack_require__(981155)/* ["default"] */ .A) + "",
+        width: "1024",
+        height: "479"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Người dùng có thể filter NAT rule"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        src: (__webpack_require__(374021)/* ["default"] */ .A) + "",
+        width: "1024",
+        height: "510"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Giải thích các trường thông tin hỗ trợ filter:"
+    }), "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", (0,jsx_runtime.jsxs)(_components.table, {
+      children: [(0,jsx_runtime.jsx)(_components.thead, {
+        children: (0,jsx_runtime.jsxs)(_components.tr, {
+          children: [(0,jsx_runtime.jsx)(_components.th, {
+            children: "Field"
+          }), (0,jsx_runtime.jsx)(_components.th, {
+            children: "Ý nghĩa"
+          })]
+        })
+      }), (0,jsx_runtime.jsxs)(_components.tbody, {
+        children: [(0,jsx_runtime.jsxs)(_components.tr, {
+          children: [(0,jsx_runtime.jsx)(_components.td, {
+            children: "Nat rule name"
+          }), (0,jsx_runtime.jsx)(_components.td, {
+            children: "Nhập tên NAT rule hoặc một phần tên. Hệ thống sẽ lọc theo chuỗi ký tự bạn nhập. Ví dụ: nhập \"web\" để tìm các rule như “web-nat-01”, “web-service-nat”."
+          })]
+        }), (0,jsx_runtime.jsxs)(_components.tr, {
+          children: [(0,jsx_runtime.jsx)(_components.td, {
+            children: "Nat rule status"
+          }), (0,jsx_runtime.jsx)(_components.td, {
+            children: "Dropdown chọn trạng thái NAT rule, bao gồm: Active, Inactive, Pending, Deleting. Dùng để lọc các rule đang hoạt động hoặc đã tắt."
+          })]
+        }), (0,jsx_runtime.jsxs)(_components.tr, {
+          children: [(0,jsx_runtime.jsx)(_components.td, {
+            children: "Nat rule type"
+          }), (0,jsx_runtime.jsx)(_components.td, {
+            children: "Dropdown lọc theo loại NAT rule: Outbound NAT (SNAT), Inbound NAT (DNAT). Ví dụ: chọn Outbound NAT để chỉ hiển thị các rule chuyển IP nội bộ ra IP public."
+          })]
+        }), (0,jsx_runtime.jsxs)(_components.tr, {
+          children: [(0,jsx_runtime.jsx)(_components.td, {
+            children: "External IP"
+          }), (0,jsx_runtime.jsx)(_components.td, {
+            children: "Lọc NAT rule theo IP Public (External IP). Nhập địa chỉ IP ngoài mà rule sử dụng. Hỗ trợ định dạng IPv4. Ví dụ: nhập 203.113.1.15 để tìm tất cả rule sử dụng IP này làm SNAT hoặc DNAT."
+          })]
+        }), (0,jsx_runtime.jsxs)(_components.tr, {
+          children: [(0,jsx_runtime.jsx)(_components.td, {
+            children: "Internal IP"
+          }), (0,jsx_runtime.jsx)(_components.td, {
+            children: "Lọc NAT rule theo IP nội bộ (Internal IP) của instance. Nhập IP private trong VPC. Hỗ trợ IPv4. Ví dụ: nhập 10.10.5.21 để xem rule NAT của Instance này."
+          })]
+        }), (0,jsx_runtime.jsxs)(_components.tr, {
+          children: [(0,jsx_runtime.jsx)(_components.td, {
+            children: "Destination IP"
+          }), (0,jsx_runtime.jsx)(_components.td, {
+            children: "Lọc NAT rule theo IP đích trong rule DNAT hoặc rule forward. Sử dụng nếu muốn tìm rule chuyển tiếp traffic đến 1 IP cụ thể. Hỗ trợ IP riêng hoặc IP public tùy loại rule. Ví dụ: nhập 172.16.100.50 để xem rule chuyển traffic đến địa chỉ đó."
+          })]
+        })]
+      })]
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "2-tạo-nat-rule",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "2. Tạo NAT Rule"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Người dùng có thể bấm nút Create NAT Rule để tạo mới 1 NAT Rule"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "file",
+        src: (__webpack_require__(813621)/* ["default"] */ .A) + "",
+        width: "849",
+        height: "391"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Có 2 loại NAT:"
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["\n", (0,jsx_runtime.jsx)(_components.p, {
+          children: "Inbound NAT: Quản lý dữ liệu đi từ bên ngoài vào mạng nội bộ"
+        }), "\n"]
+      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["\n", (0,jsx_runtime.jsx)(_components.p, {
+          children: "Outbound NAT: Quản lý dữ liệu đi từ mạng nội bộ ra ngoài"
+        }), "\n"]
+      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "3-chỉnh-sửa-nat-rule",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "3. Chỉnh sửa NAT Rule"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Ở cột Actions, người dùng có thể bấm nút Edit để chỉnh sửa thông tin của NAT Rule"
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "Với gateway loại Basic sẽ không được chỉnh sửa NAT Rule, chỉ được chỉnh sửa khi Gateway loại Custom"
+      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "4-xoá-nat-rule",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "4. Xoá NAT Rule"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Ở cột Actions, người dùng có thể bấm nút Delete để chỉnh sửa thông tin của Route"
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "Với gateway loại Basic sẽ không được xoá NAT Rule, chỉ được xoá NAT Rule khi Gateway loại Custom"
+      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.h1, {
+      id: "hệ-thống-cho-phép-người-dùng-quản-lý-no-nat-rule-trong-từng-gateway",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "Hệ thống cho phép người dùng quản lý NO NAT rule trong từng Gateway"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "1-quản-lý-danh-sách-no-nat-rule",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "1. Quản lý danh sách NO NAT Rule"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "file",
+        src: (__webpack_require__(378886)/* ["default"] */ .A) + "",
+        width: "885",
+        height: "316"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "2-tạo-no-nat-rule",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "2. Tạo NO NAT Rule"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "file",
+        src: (__webpack_require__(820463)/* ["default"] */ .A) + "",
+        width: "885",
+        height: "332"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Có 2 loại NO NAT:"
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["\n", (0,jsx_runtime.jsx)(_components.p, {
+          children: "NO Inbound NAT"
+        }), "\n"]
+      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["\n", (0,jsx_runtime.jsx)(_components.p, {
+          children: "NO Outbound NAT"
+        }), "\n"]
+      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "3-chỉnh-sửa-no-nat-rule",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "3. Chỉnh sửa NO NAT Rule"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Ở cột Actions, người dùng có thể bấm nút Edit để chỉnh sửa thông tin của NO NAT Rule"
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "4-xoá-no-nat-rule",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "4. Xoá NO NAT Rule"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Ở cột Actions, người dùng có thể bấm nút Delete để chỉnh sửa thông tin của NO NAT Rule"
+    }), "\n", (0,jsx_runtime.jsx)(_components.h1, {
+      id: "các-tính-năng-khác-liên-quan-đến-gateway",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "Các tính năng khác liên quan đến Gateway"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "1-allocate-ip-address",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "1. Allocate IP Address"
+      })
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["\n", (0,jsx_runtime.jsx)(_components.p, {
+          children: "Ở màn hình Floating IP, hệ thống cho phép người dùng chọn Gateway khi Allocate IP, hover vào tooltip ở thông tin của Gateway để biết được Gateway loại Basic hay Custom"
+        }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+          children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
+            children: "Nếu người dụng chọn Gateway loại Custom, hệ thống chỉ cho phép allocate IP mà gắn vào resource nào (hệ thống ẩn phần Resource, IP Port, Instance Port)"
+          }), "\n"]
+        }), "\n"]
+      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "file",
+        src: (__webpack_require__(885933)/* ["default"] */ .A) + "",
+        width: "733",
+        height: "391"
+      })
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "Nếu người dùng chọn Gateway loại Basic , hệ thống cho phép allocate IP và đồng thời gắn vào resource"
+      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "file",
+        src: (__webpack_require__(819022)/* ["default"] */ .A) + "",
+        width: "735",
+        height: "356"
+      })
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["\n", (0,jsx_runtime.jsx)(_components.p, {
+          children: "Ở màn hình Floating IP (trên cột Actions), với IP thuộc Gateway loại Custom, người dùng sẽ không được gán vào 1 Instance"
+        }), "\n"]
+      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["\n", (0,jsx_runtime.jsx)(_components.p, {
+          children: "Ở màn hình Instance Detail, trường hợp Instance chưa được gán IP mà người dùng bấm allocate IP, nếu Instance thuộc Gateway lại custom, người dùng sẽ không được gán IP. Để gán được IP, người dùng cần tạo NAT Rule"
+        }), "\n"]
+      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "2-instance",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "2. Instance"
+      })
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "Khi tạo Instance, hệ thống auto fill thông tin Gateway dựa trên Subnet đã chọn trước đó (Gateway được gán vào Subnet). Nếu Gateway loại Custom, người dùng sẽ không được chọn Floating IP (hệ thống sẽ disable field này)"
+      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "file",
+        src: (__webpack_require__(885649)/* ["default"] */ .A) + "",
+        width: "722",
+        height: "391"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "3-subnet",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "3. Subnet"
+      })
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "Ở màn hình tạo Subnet, hệ thống cho phép người dùng chọn Gateway. Nếu Gateway loại Custom, hệ thống sẽ thông báo người dùng tự tạo NAT rule"
+      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "file",
+        src: (__webpack_require__(725135)/* ["default"] */ .A) + "",
+        width: "700",
+        height: "391"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "4-security-group",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "4. Security Group"
+      })
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "Ở màn hình tạo Security Group, hệ thống cho phép người dùng chọn Gateway, các Security Rule được tạo ra sẽ được quản lý bởi Gateway đã chọn"
+      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "file",
+        src: (__webpack_require__(664860)/* ["default"] */ .A) + "",
+        width: "759",
+        height: "391"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "5-load-balancer",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "5. Load Balancer"
+      })
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "Hệ thống cho phép user xem thông tin gateway khi sử dụng Load Balancer Classic"
+      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "file",
+        src: (__webpack_require__(1007)/* ["default"] */ .A) + "",
+        width: "810",
+        height: "316"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "6-vpn-site-to-site",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "6. VPN Site to Site"
+      })
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "Hệ thống cho phép user chọn Gateway khi tạo và sử dụng dịch vụ VPN Site to Site"
+      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "file",
+        src: (__webpack_require__(645527)/* ["default"] */ .A) + "",
+        width: "698",
+        height: "391"
+      })
+    }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
+      children: [(0,jsx_runtime.jsx)(_components.a, {
+        href: "./networking-overview",
+        children: " Previous Networking Overview "
+      }), " ", (0,jsx_runtime.jsx)(_components.a, {
+        href: "./quan-ly-floating-ip",
+        children: " Next Quản lý Floating IP "
+      })]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ...(0,lib/* useMDXComponents */.R)(),
+    ...props.components
+  };
+  return MDXLayout ? (0,jsx_runtime.jsx)(MDXLayout, {
+    ...props,
+    children: (0,jsx_runtime.jsx)(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+
+
+
+/***/ },
+
+/***/ 374021
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/0eb92fe2ef94-filter-nat-1024x510-39e79b242bf29eeeff0c7efe6065b1c1.png");
+
+/***/ },
+
+/***/ 885649
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/1768f41de40c-image-1754291630097-59e32e00c1068e363a9543cd77ea4ecf.png");
+
+/***/ },
+
+/***/ 287189
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/2416f962b550-image-1754290897920-76776178f96579007f834675d5f3ebcc.png");
+
+/***/ },
+
+/***/ 819022
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/25711f9bbb4f-image-1754291610069-a8c8530f3e1547ccd528f0ea40c5facd.png");
+
+/***/ },
+
+/***/ 664860
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/309bd36fc6aa-image-1754291651290-30089582a7533c09898c23eba5404cb9.png");
+
+/***/ },
+
+/***/ 1007
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/45935b91fff8-image-1754291661656-c064022687131bd47e55413e7a056b0c.png");
+
+/***/ },
+
+/***/ 885933
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/5ea9341b8ab8-image-1754291575833-50efe6e8420a0e7ad7406d4afe36de1e.png");
+
+/***/ },
+
+/***/ 864845
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/667afacae4d7-image-1754290296265-ea4a8929a3d26c552e10bf512b4d0038.png");
+
+/***/ },
+
+/***/ 726354
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/8614a188b53e-image-1754290881511-1503f02b1f81ec83a67b6cc226edf474.png");
+
+/***/ },
+
+/***/ 378886
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/89c7d41bb0f8-image-1754291539835-8612225c1d011064602d1c18765e76e3.png");
+
+/***/ },
+
+/***/ 725135
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/8ba52a8bb00a-image-1754291640291-25f7abcbc552468e2a8b483d01c0c816.png");
+
+/***/ },
+
+/***/ 820463
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/9e866aa4188c-image-1754291548065-4a5df308c20352be04d1f8030a9ceb42.png");
+
+/***/ },
+
+/***/ 981155
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/b73cc0026e07-list-nat-rule-1024x479-d2e9337ef6e90fb39e6eba56ee30a5ae.png");
+
+/***/ },
+
+/***/ 976048
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/cfae2a04b3bb-image-1754290924141-d16d9f752f5c1f4e2aaec50c29747230.png");
+
+/***/ },
+
+/***/ 645527
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/cfe24f877c20-image-1754291672602-b30b48a2168b3707bcf67d2a2ea419ec.png");
+
+/***/ },
+
+/***/ 813621
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/de8b3348f292-image-1754291008356-0e73cfb427daafdfa66ef505f77618ae.png");
+
+/***/ },
+
+/***/ 28453
+(__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   R: () => (/* binding */ useMDXComponents),
+/* harmony export */   x: () => (/* binding */ MDXProvider)
+/* harmony export */ });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(296540);
+/**
+ * @import {MDXComponents} from 'mdx/types.js'
+ * @import {Component, ReactElement, ReactNode} from 'react'
+ */
+
+/**
+ * @callback MergeComponents
+ *   Custom merge function.
+ * @param {Readonly<MDXComponents>} currentComponents
+ *   Current components from the context.
+ * @returns {MDXComponents}
+ *   Additional components.
+ *
+ * @typedef Props
+ *   Configuration for `MDXProvider`.
+ * @property {ReactNode | null | undefined} [children]
+ *   Children (optional).
+ * @property {Readonly<MDXComponents> | MergeComponents | null | undefined} [components]
+ *   Additional components to use or a function that creates them (optional).
+ * @property {boolean | null | undefined} [disableParentContext=false]
+ *   Turn off outer component context (default: `false`).
+ */
+
+
+
+/** @type {Readonly<MDXComponents>} */
+const emptyComponents = {}
+
+const MDXContext = react__WEBPACK_IMPORTED_MODULE_0__.createContext(emptyComponents)
+
+/**
+ * Get current components from the MDX Context.
+ *
+ * @param {Readonly<MDXComponents> | MergeComponents | null | undefined} [components]
+ *   Additional components to use or a function that creates them (optional).
+ * @returns {MDXComponents}
+ *   Current components.
+ */
+function useMDXComponents(components) {
+  const contextComponents = react__WEBPACK_IMPORTED_MODULE_0__.useContext(MDXContext)
+
+  // Memoize to avoid unnecessary top-level context changes
+  return react__WEBPACK_IMPORTED_MODULE_0__.useMemo(
+    function () {
+      // Custom merge via a function prop
+      if (typeof components === 'function') {
+        return components(contextComponents)
+      }
+
+      return {...contextComponents, ...components}
+    },
+    [contextComponents, components]
+  )
+}
+
+/**
+ * Provider for MDX context.
+ *
+ * @param {Readonly<Props>} properties
+ *   Properties.
+ * @returns {ReactElement}
+ *   Element.
+ * @satisfies {Component}
+ */
+function MDXProvider(properties) {
+  /** @type {Readonly<MDXComponents>} */
+  let allComponents
+
+  if (properties.disableParentContext) {
+    allComponents =
+      typeof properties.components === 'function'
+        ? properties.components(emptyComponents)
+        : properties.components || emptyComponents
+  } else {
+    allComponents = useMDXComponents(properties.components)
+  }
+
+  return react__WEBPACK_IMPORTED_MODULE_0__.createElement(
+    MDXContext.Provider,
+    {value: allComponents},
+    properties.children
+  )
+}
+
+
+/***/ }
+
+}]);

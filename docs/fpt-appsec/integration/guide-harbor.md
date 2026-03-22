@@ -1,5 +1,5 @@
 ---
-sidebar_label: "1. Tạo Robot Account - Harbor"
+sidebar_label: "Guide harbor"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=guide-harbor"
 parent: "https://fptcloud.com/documents/fpt-appsec"

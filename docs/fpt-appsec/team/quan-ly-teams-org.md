@@ -1,5 +1,5 @@
 ---
-sidebar_label: "1. Tạo Team mới"
+sidebar_label: "Quan ly teams org"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=quan-ly-teams-org"
 parent: "https://fptcloud.com/documents/fpt-appsec"

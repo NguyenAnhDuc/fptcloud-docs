@@ -1,5 +1,5 @@
 ---
-sidebar_label: "1. Cấu hình nhận thông báo từ FPT Database Engine"
+sidebar_label: "Notification"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=notification"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

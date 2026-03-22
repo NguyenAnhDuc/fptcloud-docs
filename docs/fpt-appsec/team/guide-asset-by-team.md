@@ -1,5 +1,5 @@
 ---
-sidebar_label: "1. Cấu trúc biểu đồ"
+sidebar_label: "Guide asset by team"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=guide-asset-by-team"
 parent: "https://fptcloud.com/documents/fpt-appsec"

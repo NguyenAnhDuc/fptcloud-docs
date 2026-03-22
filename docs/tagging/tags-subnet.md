@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "1. Gắn tag trong lúc tạo subnet"
+sidebar_label: "Tags subnet"
 title: "2. Tagging"
 source: "https://fptcloud.com/documents/tagging/?doc=tags-subnet"
 parent: "https://fptcloud.com/documents/tagging"

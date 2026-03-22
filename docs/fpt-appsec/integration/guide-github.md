@@ -1,5 +1,5 @@
 ---
-sidebar_label: "1. Configure GitHub"
+sidebar_label: "Guide github"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=guide-github"
 parent: "https://fptcloud.com/documents/fpt-appsec"

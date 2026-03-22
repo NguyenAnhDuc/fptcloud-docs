@@ -1,5 +1,5 @@
 ---
-sidebar_label: "1. Tổng quan sản phẩm Kubenetes tích hợp Firewall"
+sidebar_label: "Dfke advanced firewall"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=dfke-advanced-firewall"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

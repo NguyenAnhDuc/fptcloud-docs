@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "1. Analytics"
+sidebar_label: "Analytics"
 title: "2. FPT API Management"
 source: "https://fptcloud.com/documents/fpt-api-management/?doc=analytics"
 parent: "https://fptcloud.com/documents/fpt-api-management"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "1. Tạo Security Group"
+sidebar_label: "Db connect"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=db-connect"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

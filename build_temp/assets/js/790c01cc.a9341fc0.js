@@ -1,0 +1,270 @@
+"use strict";
+(globalThis["webpackChunkfptcloud_docs"] = globalThis["webpackChunkfptcloud_docs"] || []).push([[95503],{
+
+/***/ 256712
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+// ESM COMPAT FLAG
+__webpack_require__.r(__webpack_exports__);
+
+// EXPORTS
+__webpack_require__.d(__webpack_exports__, {
+  assets: () => (/* binding */ assets),
+  contentTitle: () => (/* binding */ contentTitle),
+  "default": () => (/* binding */ MDXContent),
+  frontMatter: () => (/* binding */ frontMatter),
+  metadata: () => (/* reexport */ site_docs_fpt_cloud_waf_proxy_host_xoa_proxy_host_md_790_namespaceObject),
+  toc: () => (/* binding */ toc)
+});
+
+;// ./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-fpt-cloud-waf-proxy-host-xoa-proxy-host-md-790.json
+const site_docs_fpt_cloud_waf_proxy_host_xoa_proxy_host_md_790_namespaceObject = /*#__PURE__*/JSON.parse('{"id":"fpt-cloud-waf/proxy-host/xoa-proxy-host","title":"2. FPT Cloud WAF","description":"Xóa Proxy Host","source":"@site/docs/fpt-cloud-waf/proxy-host/xoa-proxy-host.md","sourceDirName":"fpt-cloud-waf/proxy-host","slug":"/fpt-cloud-waf/proxy-host/xoa-proxy-host","permalink":"/fpt-cloud-waf/proxy-host/xoa-proxy-host","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{"sidebar_label":"Xoa proxy host","title":"2. FPT Cloud WAF","source":"https://fptcloud.com/documents/fpt-cloud-waf/?doc=xoa-proxy-host","parent":"https://fptcloud.com/documents/fpt-cloud-waf","lang":"vi","converted":"2026-03-19"},"sidebar":"defaultSidebar","previous":{"title":"Them moi stream host","permalink":"/fpt-cloud-waf/proxy-host/them-moi-stream-host"},"next":{"title":"Battat proxy host","permalink":"/fpt-cloud-waf/battat-proxy-host"}}');
+// EXTERNAL MODULE: ./node_modules/react/jsx-runtime.js
+var jsx_runtime = __webpack_require__(474848);
+// EXTERNAL MODULE: ./node_modules/@mdx-js/react/lib/index.js
+var lib = __webpack_require__(28453);
+;// ./docs/fpt-cloud-waf/proxy-host/xoa-proxy-host.md
+
+
+const frontMatter = {
+	sidebar_label: 'Xoa proxy host',
+	title: '2. FPT Cloud WAF',
+	source: 'https://fptcloud.com/documents/fpt-cloud-waf/?doc=xoa-proxy-host',
+	parent: 'https://fptcloud.com/documents/fpt-cloud-waf',
+	lang: 'vi',
+	converted: '2026-03-19'
+};
+const contentTitle = '2. FPT Cloud WAF';
+
+const assets = {
+
+};
+
+
+
+const toc = [];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    h1: "h1",
+    header: "header",
+    hr: "hr",
+    img: "img",
+    p: "p",
+    strong: "strong",
+    ...(0,lib/* useMDXComponents */.R)(),
+    ...props.components
+  };
+  return (0,jsx_runtime.jsxs)(jsx_runtime.Fragment, {
+    children: [(0,jsx_runtime.jsx)(_components.header, {
+      children: (0,jsx_runtime.jsx)(_components.h1, {
+        id: "2-fpt-cloud-waf",
+        children: "2. FPT Cloud WAF"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Xóa Proxy Host"
+    }), "\n", (0,jsx_runtime.jsx)(_components.hr, {}), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Lưu ý: Xóa Proxy Host sẽ khiến máy chủ web của bạn không còn được bảo vệ, hãy cẩn thận khi thực hiện thao tác này."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Để xóa Proxy Host khỏi hệ thống, bạn thao tác như sau:"
+    }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
+      children: [(0,jsx_runtime.jsx)(_components.strong, {
+        children: "Bước 1:"
+      }), " Ở ", (0,jsx_runtime.jsx)(_components.strong, {
+        children: "WAF Dashboard"
+      }), " , chọn ", (0,jsx_runtime.jsx)(_components.strong, {
+        children: "Hosts"
+      }), " > ", (0,jsx_runtime.jsx)(_components.strong, {
+        children: "Proxy"
+      }), "."]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "Userguide FPT WAF 2022 17",
+        src: (__webpack_require__(38492)/* ["default"] */ .A) + "",
+        width: "1024",
+        height: "578"
+      })
+    }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
+      children: [(0,jsx_runtime.jsx)(_components.strong, {
+        children: "Bước 2:"
+      }), " Ở ", (0,jsx_runtime.jsx)(_components.strong, {
+        children: "Proxy"
+      }), " cần xóa chọn icon ", (0,jsx_runtime.jsx)(_components.strong, {
+        children: "Delete"
+      }), "."]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "Userguide FPT WAF 2022 24",
+        src: (__webpack_require__(439044)/* ["default"] */ .A) + "",
+        width: "1024",
+        height: "578"
+      })
+    }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
+      children: [(0,jsx_runtime.jsx)(_components.strong, {
+        children: "Bước 3:"
+      }), " Hộp thoại xác nhận hiện lên. Chọn ", (0,jsx_runtime.jsx)(_components.strong, {
+        children: "Delete"
+      }), " để xóa ", (0,jsx_runtime.jsx)(_components.strong, {
+        children: "Proxy."
+      })]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.img, {
+        alt: "Userguide FPT WAF 2022 25",
+        src: (__webpack_require__(686340)/* ["default"] */ .A) + "",
+        width: "378",
+        height: "173"
+      })
+    }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
+      children: [(0,jsx_runtime.jsx)(_components.a, {
+        href: "./battat-proxy-host",
+        children: " Previous Bật/Tắt Proxy Host "
+      }), " ", (0,jsx_runtime.jsx)(_components.a, {
+        href: "./quan-ly-redirection-host",
+        children: " Next Quản lý Redirection Host "
+      })]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ...(0,lib/* useMDXComponents */.R)(),
+    ...props.components
+  };
+  return MDXLayout ? (0,jsx_runtime.jsx)(MDXLayout, {
+    ...props,
+    children: (0,jsx_runtime.jsx)(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+
+
+
+/***/ },
+
+/***/ 439044
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/0b7b74cac03a-Userguide-FPT-WAF-2022-24-1024x578-b35c7ec17fcb010dcd1d5f9aa0d71b9e.png");
+
+/***/ },
+
+/***/ 686340
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("data:image/png;base64,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");
+
+/***/ },
+
+/***/ 38492
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__webpack_require__.p + "assets/images/72760d67e188-Userguide-FPT-WAF-2022-17-1024x578-648f804d76cad7355423c49486830327.png");
+
+/***/ },
+
+/***/ 28453
+(__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   R: () => (/* binding */ useMDXComponents),
+/* harmony export */   x: () => (/* binding */ MDXProvider)
+/* harmony export */ });
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(296540);
+/**
+ * @import {MDXComponents} from 'mdx/types.js'
+ * @import {Component, ReactElement, ReactNode} from 'react'
+ */
+
+/**
+ * @callback MergeComponents
+ *   Custom merge function.
+ * @param {Readonly<MDXComponents>} currentComponents
+ *   Current components from the context.
+ * @returns {MDXComponents}
+ *   Additional components.
+ *
+ * @typedef Props
+ *   Configuration for `MDXProvider`.
+ * @property {ReactNode | null | undefined} [children]
+ *   Children (optional).
+ * @property {Readonly<MDXComponents> | MergeComponents | null | undefined} [components]
+ *   Additional components to use or a function that creates them (optional).
+ * @property {boolean | null | undefined} [disableParentContext=false]
+ *   Turn off outer component context (default: `false`).
+ */
+
+
+
+/** @type {Readonly<MDXComponents>} */
+const emptyComponents = {}
+
+const MDXContext = react__WEBPACK_IMPORTED_MODULE_0__.createContext(emptyComponents)
+
+/**
+ * Get current components from the MDX Context.
+ *
+ * @param {Readonly<MDXComponents> | MergeComponents | null | undefined} [components]
+ *   Additional components to use or a function that creates them (optional).
+ * @returns {MDXComponents}
+ *   Current components.
+ */
+function useMDXComponents(components) {
+  const contextComponents = react__WEBPACK_IMPORTED_MODULE_0__.useContext(MDXContext)
+
+  // Memoize to avoid unnecessary top-level context changes
+  return react__WEBPACK_IMPORTED_MODULE_0__.useMemo(
+    function () {
+      // Custom merge via a function prop
+      if (typeof components === 'function') {
+        return components(contextComponents)
+      }
+
+      return {...contextComponents, ...components}
+    },
+    [contextComponents, components]
+  )
+}
+
+/**
+ * Provider for MDX context.
+ *
+ * @param {Readonly<Props>} properties
+ *   Properties.
+ * @returns {ReactElement}
+ *   Element.
+ * @satisfies {Component}
+ */
+function MDXProvider(properties) {
+  /** @type {Readonly<MDXComponents>} */
+  let allComponents
+
+  if (properties.disableParentContext) {
+    allComponents =
+      typeof properties.components === 'function'
+        ? properties.components(emptyComponents)
+        : properties.components || emptyComponents
+  } else {
+    allComponents = useMDXComponents(properties.components)
+  }
+
+  return react__WEBPACK_IMPORTED_MODULE_0__.createElement(
+    MDXContext.Provider,
+    {value: allComponents},
+    properties.children
+  )
+}
+
+
+/***/ }
+
+}]);

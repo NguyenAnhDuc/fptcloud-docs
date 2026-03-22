@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "1. Configure GitLab Server"
+sidebar_label: "Guide gitlabserver"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=guide-gitlabserver"
 parent: "https://fptcloud.com/documents/fpt-appsec"
