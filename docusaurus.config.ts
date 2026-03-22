@@ -7,9 +7,9 @@ const config: Config = {
   favicon: "img/favicon.ico",
   url: "https://fptcloud-docs.ducna.xyz",
   baseUrl: "/",
-  onBrokenLinks: "ignore",
+  onBrokenLinks: "warn",
   trailingSlash: true,
-  onBrokenMarkdownLinks: "ignore",
+  onBrokenMarkdownLinks: "warn",
   markdown: { format: "md" },
   i18n: {
     defaultLocale: "vi",

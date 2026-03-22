@@ -25,3 +25,5 @@ yarn-error.log*
 
 # Blog (not used)
 /blog
+/build_temp
+/docsmith-demo
