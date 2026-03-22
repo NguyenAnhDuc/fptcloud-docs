@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Proxy ip"
+sidebar_label: "Proxy IP"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=proxy-ip"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Edit Pipeline"
+sidebar_label: "2. Find the Pipeline you want to edit and click the 3-dot icon in the Actions column"
 title: "Edit Pipeline"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=edit-pipeline"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

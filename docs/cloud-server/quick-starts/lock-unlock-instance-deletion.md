@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Lock & Unlock Instance Deletion"
+sidebar_label: "Người dùng có thể khóa máy ảo lại để ngăn chúng không bị xóa với các thao tác đơn giản sau."
 title: "Lock & Unlock Instance Deletion"
 source: "https://fptcloud.com/documents/cloud-server/?doc=lock-unlock-instance-deletion"
 parent: "https://fptcloud.com/documents/cloud-server"

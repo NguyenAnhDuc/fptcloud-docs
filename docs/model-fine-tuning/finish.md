@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Finish"
+sidebar_label: "Start with a letter or number"
 title: "Finish"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=finish"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

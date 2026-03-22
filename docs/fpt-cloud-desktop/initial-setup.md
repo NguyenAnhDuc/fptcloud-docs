@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Initial setup"
+sidebar_label: "Điều kiện yêu cầu"
 title: "2. FPT Cloud Desktop"
 source: "https://fptcloud.com/documents/fpt-cloud-desktop/?doc=initial-setup"
 parent: "https://fptcloud.com/documents/fpt-cloud-desktop"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Fcmon dashboard template"
+sidebar_label: "7.2. FPT Cloud Monitoring dashboard template (build-in)"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=fcmon-dashboard-template"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

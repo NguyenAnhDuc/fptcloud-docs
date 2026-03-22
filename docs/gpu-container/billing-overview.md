@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Billing Overview"
+sidebar_label: "Currently, we do not support a single balance across multiple regions or tenants."
 title: "Overview"
 source: "https://fptcloud.com/en/documents/gpu-container/?doc=billing-overview"
 parent: "https://fptcloud.com/en/documents/gpu-container"

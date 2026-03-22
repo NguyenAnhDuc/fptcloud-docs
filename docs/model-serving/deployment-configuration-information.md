@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Deployment Configuration Information"
+sidebar_label: "Go to AI Platform --> Model Serving --> Deployment --> Deployment Name --> Deployment Settings"
 title: "Deployment Configuration Information"
 source: "https://fptcloud.com/en/documents/model-serving/?doc=deployment-configuration-information"
 parent: "https://fptcloud.com/en/documents/model-serving"

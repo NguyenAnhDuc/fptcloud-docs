@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Kiem tra thong tin goi dich vu"
+sidebar_label: "Kiểm tra thông tin gói dịch vụ"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=kiem-tra-thong-tin-goi-dich-vu"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quick Start"
+sidebar_label: "Our support team will contact you shortly to verify your information and activate your account."
 title: "Quick Start"
 source: "https://fptcloud.com/en/documents/gpu-virtual-machine-en/?doc=quick-start"
 parent: "https://fptcloud.com/en/documents/gpu-virtual-machine-en"

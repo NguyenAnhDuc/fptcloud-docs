@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Enable disable account"
+sidebar_label: "Enable & Disable account"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=enable-disable-account"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

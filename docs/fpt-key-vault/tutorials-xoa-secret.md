@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tutorials xoa secret"
+sidebar_label: "Xóa Secret"
 title: "2. FPT Key Vault"
 source: "https://fptcloud.com/documents/fpt-key-vault/?doc=tutorials-xoa-secret"
 parent: "https://fptcloud.com/documents/fpt-key-vault"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xoa agent khi khong muon su dung"
+sidebar_label: "Xóa Agent khi không muốn sử dụng"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=xoa-agent-khi-khong-muon-su-dung"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

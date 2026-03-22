@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Truc quan du lieu incident"
+sidebar_label: "Trực quan dữ liệu incident"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=truc-quan-du-lieu-incident"
 parent: "https://fptcloud.com/documents/incident-management"

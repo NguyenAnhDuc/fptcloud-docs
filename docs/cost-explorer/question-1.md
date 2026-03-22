@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Question 1"
+sidebar_label: "Vì sao tôi không xem được phần Cost Explore?"
 title: "2. Cost Explorer"
 source: "https://fptcloud.com/documents/cost-explorer/?doc=question-1"
 parent: "https://fptcloud.com/documents/cost-explorer"

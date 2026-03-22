@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Fine-tune with LoRA"
+sidebar_label: "To fine-tune a model with LoRA, please follow the instructions below:"
 title: "Fine-tune with LoRA"
 source: "https://fptcloud.com/en/documents/ai_marketplace/?doc=fine-tune-with-lora"
 parent: "https://fptcloud.com/en/documents/ai_marketplace"

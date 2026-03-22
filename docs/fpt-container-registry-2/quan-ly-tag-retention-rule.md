@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly tag retention rule"
+sidebar_label: "Quản lý Tag Retention Rule"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=quan-ly-tag-retention-rule"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

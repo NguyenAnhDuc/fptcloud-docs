@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Create a Subnet"
+sidebar_label: "Routed: The subnet is routed to the internet via a NAT gateway."
 title: "Create a Subnet"
 source: "https://fptcloud.com/en/documents/gpu-virtual-machine-en/?doc=create-a-subnet"
 parent: "https://fptcloud.com/en/documents/gpu-virtual-machine-en"

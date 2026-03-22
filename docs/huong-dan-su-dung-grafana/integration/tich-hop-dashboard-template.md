@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tich hop dashboard template"
+sidebar_label: "3.1. Tích hợp Dashboard Template"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=tich-hop-dashboard-template"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"

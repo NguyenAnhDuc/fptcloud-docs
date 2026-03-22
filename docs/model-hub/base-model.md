@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Base model"
+sidebar_label: "Base model (v1.1)"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=base-model"
 parent: "https://fptcloud.com/documents/model-hub"

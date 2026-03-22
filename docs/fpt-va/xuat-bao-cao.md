@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xuat bao cao"
+sidebar_label: "Xuất báo cáo"
 title: "2. FPT Cloud VA"
 source: "https://fptcloud.com/documents/fpt-va/?doc=xuat-bao-cao"
 parent: "https://fptcloud.com/documents/fpt-va"

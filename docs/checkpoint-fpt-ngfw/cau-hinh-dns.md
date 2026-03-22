@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Cau hinh dns"
+sidebar_label: "Cấu hình DNS"
 title: "2. CheckPoint – FPT NGFW"
 source: "https://fptcloud.com/documents/checkpoint-fpt-ngfw/?doc=cau-hinh-dns"
 parent: "https://fptcloud.com/documents/checkpoint-fpt-ngfw"

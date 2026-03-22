@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Access to GPU VM"
+sidebar_label: "The Web Console allows users to control all GPU VMs on FPT Cloud, even those without a Public IP."
 title: "Access to GPU VM"
 source: "https://fptcloud.com/en/documents/gpu-virtual-machine-en/?doc=access-to-servers"
 parent: "https://fptcloud.com/en/documents/gpu-virtual-machine-en"

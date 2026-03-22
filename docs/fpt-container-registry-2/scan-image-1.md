@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Scan image 1"
+sidebar_label: "Scan Image"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=scan-image-1"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tao processing service"
+sidebar_label: "Tạo Processing service"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=tao-processing-service"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

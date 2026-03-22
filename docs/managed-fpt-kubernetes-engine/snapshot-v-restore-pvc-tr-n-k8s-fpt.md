@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Snapshot v restore pvc tr n k8s fpt"
+sidebar_label: "Snapshot và restore persistent volume trong Kubernetes"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=snapshot-và-restore-pvc-trên-k8s-fpt"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

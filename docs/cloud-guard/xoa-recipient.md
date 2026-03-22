@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xoa recipient"
+sidebar_label: "Xóa Recipient"
 title: "2. FPT Cloud Guard"
 source: "https://fptcloud.com/documents/cloud-guard/?doc=xoa-recipient"
 parent: "https://fptcloud.com/documents/cloud-guard"

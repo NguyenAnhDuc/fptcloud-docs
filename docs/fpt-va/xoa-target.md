@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xoa target"
+sidebar_label: "5 Xóa Target"
 title: "2. FPT Cloud VA"
 source: "https://fptcloud.com/documents/fpt-va/?doc=xoa-target"
 parent: "https://fptcloud.com/documents/fpt-va"

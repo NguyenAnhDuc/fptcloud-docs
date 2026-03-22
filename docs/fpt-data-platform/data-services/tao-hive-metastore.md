@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tao hive metastore"
+sidebar_label: "Tạo Hive Metastore"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=tao-hive-metastore"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

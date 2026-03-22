@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Cau hinh oidc config"
+sidebar_label: "Cấu hình OIDC config"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=cau-hinh-oidc-config"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

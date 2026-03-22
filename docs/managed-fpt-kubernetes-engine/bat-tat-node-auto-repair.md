@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Bat tat node auto repair"
+sidebar_label: "Bật/Tắt Node Auto-repair"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=bat-tat-node-auto-repair"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

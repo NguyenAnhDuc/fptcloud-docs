@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tinh nang dat lich hibernate wake up"
+sidebar_label: "Tính năng Đặt lịch Hibernate & Wake-up"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=tinh-nang-dat-lich-hibernate-wake-up"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

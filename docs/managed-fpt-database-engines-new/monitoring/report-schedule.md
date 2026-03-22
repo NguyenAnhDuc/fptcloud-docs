@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Report schedule"
+sidebar_label: "Lập lịch báo cáo tự động (Report Schedule)"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=report-schedule"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

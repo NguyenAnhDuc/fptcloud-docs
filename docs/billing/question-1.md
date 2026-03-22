@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Question 1"
+sidebar_label: "Vì sao tôi không xem được Bill?"
 title: "2. Bills"
 source: "https://fptcloud.com/documents/billing/?doc=question-1"
 parent: "https://fptcloud.com/documents/billing"

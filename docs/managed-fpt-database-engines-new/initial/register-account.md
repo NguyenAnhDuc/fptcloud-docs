@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Register account"
+sidebar_label: "Đăng ký tài khoản FPT Console Portal"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=register-account"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

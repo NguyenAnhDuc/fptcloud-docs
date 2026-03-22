@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Initial setup"
+sidebar_label: "Initial Setup"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=initial-setup"
 parent: "https://fptcloud.com/documents/fpt-appsec"

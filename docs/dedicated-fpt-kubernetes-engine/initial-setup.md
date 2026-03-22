@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Initial setup"
+sidebar_label: "Initial Setup"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=Initial-Setup"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

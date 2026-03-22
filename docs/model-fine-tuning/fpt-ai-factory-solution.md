@@ -1,5 +1,5 @@
 ---
-sidebar_label: "FPT AI Factory Solution"
+sidebar_label: "Data Discovery"
 title: "FPT AI Factory Solution"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=fpt-ai-factory-solution"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

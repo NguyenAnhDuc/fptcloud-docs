@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Overview"
+sidebar_label: "We currently offer two types of virtual machines (VMs), each with a different storage option."
 title: "Overview"
 source: "https://fptcloud.com/en/documents/gpu-virtual-machine-en/?doc=overview"
 parent: "https://fptcloud.com/en/documents/gpu-virtual-machine-en"

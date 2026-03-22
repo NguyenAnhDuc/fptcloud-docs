@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How to connect Notebook to a new/existing Kernel?"
+sidebar_label: "In the Notebook IDE, open the kernel configuration menu (top right)."
 title: "How to connect Notebook to a new/existing Kernel?"
 source: "https://fptcloud.com/en/documents/ai-notebook/?doc=connect-switch-kernel"
 parent: "https://fptcloud.com/en/documents/ai-notebook"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Report"
+sidebar_label: "Để Export Report, bạn thao tác như sau:"
 title: "Report"
 source: "https://fptcloud.com/documents/backup/?doc=backup-report"
 parent: "https://fptcloud.com/documents/backup"

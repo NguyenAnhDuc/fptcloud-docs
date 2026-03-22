@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Retry ip"
+sidebar_label: "Retry IP/dải IP đã thêm/xóa thất bại"
 title: "2. FPT Monitoring – IP Access Control"
 source: "https://fptcloud.com/documents/fpt-monitoring-ip-access-control/?doc=retry-ip"
 parent: "https://fptcloud.com/documents/fpt-monitoring-ip-access-control"

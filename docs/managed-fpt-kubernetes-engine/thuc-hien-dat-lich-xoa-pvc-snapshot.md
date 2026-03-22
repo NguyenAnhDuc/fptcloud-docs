@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Thuc hien dat lich xoa pvc snapshot"
+sidebar_label: "Thực hiện đặt lịch xóa Snapshot PVC trên Kubernetes"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=thuc-hien-dat-lich-xoa-pvc-snapshot"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

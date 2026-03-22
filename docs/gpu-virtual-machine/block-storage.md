@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Block Storage"
+sidebar_label: "There are two types of Block Storage disks:"
 title: "Block Storage"
 source: "https://fptcloud.com/en/documents/gpu-virtual-machine-en/?doc=block-storage"
 parent: "https://fptcloud.com/en/documents/gpu-virtual-machine-en"

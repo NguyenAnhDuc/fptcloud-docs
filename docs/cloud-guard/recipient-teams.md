@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Recipient teams"
+sidebar_label: "Tạo mới người nhận qua MSTeams"
 title: "2. FPT Cloud Guard"
 source: "https://fptcloud.com/documents/cloud-guard/?doc=recipient-teams"
 parent: "https://fptcloud.com/documents/cloud-guard"

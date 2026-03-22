@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Templates"
+sidebar_label: "These templates are maintained by FPT AI Factory. We now offer built-in templates:"
 title: "Templates"
 source: "https://fptcloud.com/en/documents/gpu-container/?doc=templates"
 parent: "https://fptcloud.com/en/documents/gpu-container"

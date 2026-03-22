@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Cap nhat robot account"
+sidebar_label: "Cập nhật Robot Account"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=cap-nhat-robot-account"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

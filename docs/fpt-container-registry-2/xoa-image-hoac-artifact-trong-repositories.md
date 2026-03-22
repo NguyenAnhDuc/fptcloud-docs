@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xoa image hoac artifact trong repositories"
+sidebar_label: "Xóa Image hoặc Artifact trong Repositories"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=xoa-image-hoac-artifact-trong-repositories"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

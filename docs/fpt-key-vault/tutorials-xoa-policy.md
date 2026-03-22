@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tutorials xoa policy"
+sidebar_label: "Xóa Policy"
 title: "2. FPT Key Vault"
 source: "https://fptcloud.com/documents/fpt-key-vault/?doc=tutorials-xoa-policy"
 parent: "https://fptcloud.com/documents/fpt-key-vault"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tao event gateway"
+sidebar_label: "Tạo Event Gateway"
 title: "2. FPT Event Gateway"
 source: "https://fptcloud.com/documents/fpt-event-gateway/?doc=tao-event-gateway"
 parent: "https://fptcloud.com/documents/fpt-event-gateway"

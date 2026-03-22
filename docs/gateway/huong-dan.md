@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Huong dan"
+sidebar_label: "Hướng dẫn truy cập"
 title: "2. Gateway"
 source: "https://fptcloud.com/documents/gateway/?doc=huong-dan"
 parent: "https://fptcloud.com/documents/gateway"

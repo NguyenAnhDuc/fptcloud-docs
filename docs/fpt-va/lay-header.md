@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Lay header"
+sidebar_label: "6 Hướng dẫn lấy Header trang web khi tạo mục tiêu quét"
 title: "2. FPT Cloud VA"
 source: "https://fptcloud.com/documents/fpt-va/?doc=lay-header"
 parent: "https://fptcloud.com/documents/fpt-va"

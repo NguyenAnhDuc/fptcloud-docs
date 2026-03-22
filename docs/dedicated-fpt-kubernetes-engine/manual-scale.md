@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Manual scale"
+sidebar_label: "Manual Scaling"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=manual-scale"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

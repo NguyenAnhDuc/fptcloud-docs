@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xoa managed gpu cluster"
+sidebar_label: "Xóa Managed GPU Cluster"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=xoa-managed-gpu-cluster"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

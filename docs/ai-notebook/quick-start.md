@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quick Start"
+sidebar_label: "1. Go to <https://ai.fptcloud.com/>, sign up using FPT ID or continue with Google."
 title: "Quick Start"
 source: "https://fptcloud.com/en/documents/ai-notebook/?doc=quick-start"
 parent: "https://fptcloud.com/en/documents/ai-notebook"

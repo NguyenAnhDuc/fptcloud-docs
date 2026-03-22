@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tutorials Su Dung Object Storage Tren S3 Client"
+sidebar_label: "Sử dụng Object Storage trên S3 Browser"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/?doc=tutorials-su-dung-object-storage-tren-s3-client"
 parent: "https://fptcloud.com/documents/object-storage"

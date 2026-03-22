@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quan ly ssl certificates"
+sidebar_label: "Quản lý SSL Certificates"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=quan-ly-ssl-certificates"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

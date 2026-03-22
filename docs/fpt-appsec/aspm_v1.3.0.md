@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "25-11-07"
+sidebar_label: "Create schedule: Cho phép người dùng tạo mới schedule với các thông tin chính:"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=aspm_v1.3.0"
 parent: "https://fptcloud.com/documents/fpt-appsec"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Enable disable chuc nang cau hinh oidc"
+sidebar_label: "Enable/disable chức năng cấu hình OIDC"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=enable-disable-chuc-nang-cau-hinh-oidc"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

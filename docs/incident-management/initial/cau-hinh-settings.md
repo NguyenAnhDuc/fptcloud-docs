@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Cau hinh settings"
+sidebar_label: "Cấu hình Settings"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=cau-hinh-settings"
 parent: "https://fptcloud.com/documents/incident-management"

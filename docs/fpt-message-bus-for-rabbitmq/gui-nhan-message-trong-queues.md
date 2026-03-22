@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Gui nhan message trong queues"
+sidebar_label: "Gửi - nhận messages trong queues"
 title: "2. FPT Message Bus for RabbitMQ"
 source: "https://fptcloud.com/documents/fpt-message-bus-for-rabbitmq/?doc=gui-nhan-message-trong-queues"
 parent: "https://fptcloud.com/documents/fpt-message-bus-for-rabbitmq"

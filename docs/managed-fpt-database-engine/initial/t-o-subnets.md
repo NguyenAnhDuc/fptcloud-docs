@@ -1,5 +1,5 @@
 ---
-sidebar_label: "T o subnets"
+sidebar_label: "Tạo Subnets"
 title: "2. Managed – FPT Database Engine"
 source: "https://fptcloud.com/documents/managed-fpt-database-engine/?doc=tạo-subnets"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engine"

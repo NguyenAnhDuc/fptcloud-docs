@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tich hop dich vu"
+sidebar_label: "Tích hợp dịch vụ"
 title: "2. FPT Reporting"
 source: "https://fptcloud.com/documents/reporting/?doc=tich-hop-dich-vu"
 parent: "https://fptcloud.com/documents/reporting"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Dang nhap waf dashboard"
+sidebar_label: "Đăng nhập WAF Dashboard"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=dang-nhap-waf-dashboard"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

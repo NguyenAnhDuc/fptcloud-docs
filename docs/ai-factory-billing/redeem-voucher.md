@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How to redeem voucher?"
+sidebar_label: "To start using AI Factory services, you may use Top-up Credits or Voucher Credits."
 title: "How to redeem voucher?"
 source: "https://fptcloud.com/en/documents/ai-factory-billing/?doc=redeem-voucher"
 parent: "https://fptcloud.com/en/documents/ai-factory-billing"

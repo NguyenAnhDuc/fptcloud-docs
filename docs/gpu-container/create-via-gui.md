@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Using GUI"
+sidebar_label: "Both HTTP and TCP ports are supported, with a maximum of 10 ports per type for each container."
 title: "Using GUI"
 source: "https://fptcloud.com/en/documents/gpu-container/?doc=create-via-gui"
 parent: "https://fptcloud.com/en/documents/gpu-container"

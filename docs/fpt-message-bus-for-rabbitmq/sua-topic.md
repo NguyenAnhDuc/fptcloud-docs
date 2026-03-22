@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Sua topic"
+sidebar_label: "Sửa topics"
 title: "2. FPT Message Bus for RabbitMQ"
 source: "https://fptcloud.com/documents/fpt-message-bus-for-rabbitmq/?doc=sua-topic"
 parent: "https://fptcloud.com/documents/fpt-message-bus-for-rabbitmq"

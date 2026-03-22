@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Dang ky dich vu api management tren fpt portal"
+sidebar_label: "Đăng ký dịch vụ API MANAGEMENT trên FPT Portal"
 title: "2. FPT API Management"
 source: "https://fptcloud.com/documents/fpt-api-management/?doc=dang-ky-dich-vu-api-management-tren-fpt-portal"
 parent: "https://fptcloud.com/documents/fpt-api-management"

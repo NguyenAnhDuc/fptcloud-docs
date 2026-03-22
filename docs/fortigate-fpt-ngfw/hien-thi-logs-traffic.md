@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Hien thi logs traffic"
+sidebar_label: "Hiển thị Logs Traffic"
 title: "2. Fortigate – FPT NGFW"
 source: "https://fptcloud.com/documents/fortigate-fpt-ngfw/?doc=hien-thi-logs-traffic"
 parent: "https://fptcloud.com/documents/fortigate-fpt-ngfw"

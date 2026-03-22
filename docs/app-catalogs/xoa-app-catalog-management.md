@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xoa app catalog management"
+sidebar_label: "Xoá App Catalog Management"
 title: "2. FPT App Catalogs"
 source: "https://fptcloud.com/documents/app-catalogs/?doc=xoa-app-catalog-management"
 parent: "https://fptcloud.com/documents/app-catalogs"

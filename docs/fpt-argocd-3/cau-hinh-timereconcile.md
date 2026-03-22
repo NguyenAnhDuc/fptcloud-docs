@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Cau hinh timereconcile"
+sidebar_label: "Cấu hình TimeReconcile"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=cau-hinh-timereconcile"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "(Standard) Test Criteria"
+sidebar_label: "Text similarity: Measures similarity metrics between model outputs and reference texts."
 title: "(Standard) Test Criteria"
 source: "https://fptcloud.com/en/documents/model-testing-test-jobs/?doc=standard-test-criteria"
 parent: "https://fptcloud.com/en/documents/model-testing-test-jobs"

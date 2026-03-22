@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Create vpc"
+sidebar_label: "Khởi tạo VPC"
 title: "2. Create VPC"
 source: "https://fptcloud.com/documents/create_vpc/?doc=create-vpc"
 parent: "https://fptcloud.com/documents/create_vpc"

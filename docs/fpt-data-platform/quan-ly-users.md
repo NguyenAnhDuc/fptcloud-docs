@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly users"
+sidebar_label: "Quản lý Users"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=quan-ly-users"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Guide issue by team"
+sidebar_label: "Hướng dẫn đọc biểu đồ Issue by team"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=guide-issue-by-team"
 parent: "https://fptcloud.com/documents/fpt-appsec"

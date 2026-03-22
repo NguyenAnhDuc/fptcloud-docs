@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Kiem tra thong tin goi dich vu"
+sidebar_label: "Kiểm tra thông tin gói dịch vụ"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=kiem-tra-thong-tin-goi-dich-vu"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

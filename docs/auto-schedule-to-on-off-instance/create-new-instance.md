@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Create new instance"
+sidebar_label: "Tạo một instance schedule mới"
 title: "2. Auto Schedule To On-Off Instance"
 source: "https://fptcloud.com/documents/auto-schedule-to-on-off-instance/?doc=create-new-instance"
 parent: "https://fptcloud.com/documents/auto-schedule-to-on-off-instance"

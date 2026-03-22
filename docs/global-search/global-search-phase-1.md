@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Global search phase 1"
+sidebar_label: "Global Search"
 title: "2. Global Search"
 source: "https://fptcloud.com/documents/global-search/?doc=global-search-phase-1"
 parent: "https://fptcloud.com/documents/global-search"

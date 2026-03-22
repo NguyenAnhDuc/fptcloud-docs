@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Initial Setup"
+sidebar_label: "Trước khi tạo các job sao lưu, bạn cần đảm bảo một vài điều kiện cơ bản:"
 title: "Initial Setup"
 source: "https://fptcloud.com/documents/backup/?doc=Backup-Initial-Setup"
 parent: "https://fptcloud.com/documents/backup"

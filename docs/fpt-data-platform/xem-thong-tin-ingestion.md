@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xem thong tin ingestion"
+sidebar_label: "Xem thông tin Ingestion"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xem-thong-tin-ingestion"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tutorials Bucket Config"
+sidebar_label: "Bucket Config"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/?doc=tutorials-bucket-config"
 parent: "https://fptcloud.com/documents/object-storage"

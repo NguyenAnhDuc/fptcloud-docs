@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Chinh sua recipient"
+sidebar_label: "Chỉnh sửa Recipient"
 title: "2. FPT Cloud Guard"
 source: "https://fptcloud.com/documents/cloud-guard/?doc=chinh-sua-recipient"
 parent: "https://fptcloud.com/documents/cloud-guard"

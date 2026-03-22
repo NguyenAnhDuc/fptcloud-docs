@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How to Integrate Model?"
+sidebar_label: "We offer:"
 title: "How to Integrate Model?"
 source: "https://fptcloud.com/en/documents/model-testing-interactive-sessions/?doc=how-to-integrate-model"
 parent: "https://fptcloud.com/en/documents/model-testing-interactive-sessions"

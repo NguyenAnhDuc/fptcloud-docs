@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Gateway"
+sidebar_label: "Bước 1: Đăng nhập console.fptcloud.com"
 title: "Gateway"
 source: "https://fptcloud.com/documents/cloud-server/?doc=gateway"
 parent: "https://fptcloud.com/documents/cloud-server"

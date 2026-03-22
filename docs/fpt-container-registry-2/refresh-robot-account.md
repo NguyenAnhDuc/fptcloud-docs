@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Refresh robot account"
+sidebar_label: "Refresh Robot Account"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=refresh-robot-account"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

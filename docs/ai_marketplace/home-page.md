@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Home page"
+sidebar_label: "Click on each model card to visit Product detail screen."
 title: "Home page"
 source: "https://fptcloud.com/en/documents/ai_marketplace/?doc=home-page"
 parent: "https://fptcloud.com/en/documents/ai_marketplace"

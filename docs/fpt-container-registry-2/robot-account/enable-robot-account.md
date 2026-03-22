@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Enable robot account"
+sidebar_label: "Enable Robot Account"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=enable-robot-account"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

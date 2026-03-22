@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Guide asset by team"
+sidebar_label: "Hướng dẫn đọc biểu đồ Asset by team"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=guide-asset-by-team"
 parent: "https://fptcloud.com/documents/fpt-appsec"

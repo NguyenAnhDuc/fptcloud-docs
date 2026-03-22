@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xem thong tin chi tiet jenkins ci instance"
+sidebar_label: "Xem thông tin chi tiết Jenkins CI instance"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=xem-thong-tin-chi-tiet-jenkins-CI-instance"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

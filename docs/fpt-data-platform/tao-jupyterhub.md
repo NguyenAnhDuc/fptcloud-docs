@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tao jupyterhub"
+sidebar_label: "Tạo Jupyterhub"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=tao-Jupyterhub"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Add moi webhook secret"
+sidebar_label: "Add mới một Webhook Secret"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=add-moi-webhook-secret"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

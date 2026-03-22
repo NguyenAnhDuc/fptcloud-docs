@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Resize cho Load Balancer"
+sidebar_label: "Để thay đổi gói cho Load Balancer , người dùng thao tác theo các bước sau:"
 title: "Resize cho Load Balancer"
 source: "https://fptcloud.com/documents/load-balancer/?doc=resize-load-balancer"
 parent: "https://fptcloud.com/documents/load-balancer"

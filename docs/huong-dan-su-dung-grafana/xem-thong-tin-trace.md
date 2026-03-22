@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xem thong tin trace"
+sidebar_label: "4.4. Xem thông tin trace"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=xem-thong-tin-trace"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"

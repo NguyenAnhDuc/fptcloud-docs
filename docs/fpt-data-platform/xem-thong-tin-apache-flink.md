@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xem thong tin apache flink"
+sidebar_label: "Xem thông tin Apache Flink"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xem-thong-tin-apache-flink"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

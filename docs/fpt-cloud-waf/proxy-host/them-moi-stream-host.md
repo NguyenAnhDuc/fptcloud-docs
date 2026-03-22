@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Them moi stream host"
+sidebar_label: "Thêm mới Stream Host"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=them-moi-stream-host"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

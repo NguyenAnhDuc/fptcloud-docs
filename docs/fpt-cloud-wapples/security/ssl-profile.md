@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Ssl profile"
+sidebar_label: "SSL Profile"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=ssl-profile"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

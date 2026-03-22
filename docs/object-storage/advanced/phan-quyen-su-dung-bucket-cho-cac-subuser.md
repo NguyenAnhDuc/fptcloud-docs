@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Phan Quyen Su Dung Bucket Cho Cac Subuser"
+sidebar_label: "Phân quyền sử dụng bucket cho các subuser"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/?doc=phan-quyen-su-dung-bucket-cho-cac-subuser"
 parent: "https://fptcloud.com/documents/object-storage"

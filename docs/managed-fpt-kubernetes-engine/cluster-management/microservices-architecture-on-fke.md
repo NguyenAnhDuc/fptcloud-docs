@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Microservices architecture on fke"
+sidebar_label: "Microservices Architecture on FKE"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=microservices-architecture-on-fke"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

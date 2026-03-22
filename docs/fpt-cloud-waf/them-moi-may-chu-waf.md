@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Them moi may chu waf"
+sidebar_label: "Thêm mới máy chủ WAF"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=them-moi-may-chu-waf"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Initial setup"
+sidebar_label: "Initial Setup"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=Initial-setup"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

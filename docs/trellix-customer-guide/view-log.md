@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "View log"
+sidebar_label: "Xem nhật ký (Log)"
 title: "2. Trellix Customer Guide"
 source: "https://fptcloud.com/documents/trellix-customer-guide/?doc=view-log"
 parent: "https://fptcloud.com/documents/trellix-customer-guide"

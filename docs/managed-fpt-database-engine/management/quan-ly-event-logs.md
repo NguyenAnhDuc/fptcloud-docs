@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quan ly event logs"
+sidebar_label: "Quản lý Event Logs"
 title: "2. Managed – FPT Database Engine"
 source: "https://fptcloud.com/documents/managed-fpt-database-engine/?doc=Quan-ly-Event-Logs"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engine"

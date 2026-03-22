@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Huong dan cau hinh notifications de nhan thong bao"
+sidebar_label: "Hướng dẫn cấu hình notifications để nhận thông báo khi ứng dụng thay đổi"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=huong-dan-cau-hinh-notifications-de-nhan-thong-bao"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

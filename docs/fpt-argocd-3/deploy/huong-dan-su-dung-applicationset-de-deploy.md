@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Huong dan su dung applicationset de deploy"
+sidebar_label: "Hướng dẫn sử dụng applicationset để deploy"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=huong-dan-su-dung-applicationset-de-deploy"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

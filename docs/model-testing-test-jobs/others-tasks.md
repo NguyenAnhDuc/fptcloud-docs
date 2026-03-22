@@ -1,5 +1,5 @@
 ---
-sidebar_label: "(Others) Tasks"
+sidebar_label: "We offer the following tasks depend on the selected test suite:"
 title: "(Others) Tasks"
 source: "https://fptcloud.com/en/documents/model-testing-test-jobs/?doc=others-tasks"
 parent: "https://fptcloud.com/en/documents/model-testing-test-jobs"

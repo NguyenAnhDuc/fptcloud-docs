@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Model deployment"
+sidebar_label: "Model deployment (v1.1)"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=model-deployment"
 parent: "https://fptcloud.com/documents/model-hub"

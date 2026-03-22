@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Cai dat team"
+sidebar_label: "Cài đặt Team"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=cai-dat-team"
 parent: "https://fptcloud.com/documents/fpt-appsec"

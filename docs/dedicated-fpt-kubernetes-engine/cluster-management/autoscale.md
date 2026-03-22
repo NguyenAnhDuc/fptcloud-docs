@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Autoscale"
+sidebar_label: "Automatic Scaling"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=AutoScale"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

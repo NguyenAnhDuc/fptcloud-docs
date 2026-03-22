@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xoa query engine"
+sidebar_label: "Xóa Query Engine"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xoa-query-engine"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

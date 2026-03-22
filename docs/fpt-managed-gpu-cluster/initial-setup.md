@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Initial setup"
+sidebar_label: "Initial Setup"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=Initial-setup"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

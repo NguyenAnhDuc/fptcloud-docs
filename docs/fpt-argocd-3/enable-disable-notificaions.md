@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Enable disable notificaions"
+sidebar_label: "Enable/disable Notificaions"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=enable-disable-notificaions"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

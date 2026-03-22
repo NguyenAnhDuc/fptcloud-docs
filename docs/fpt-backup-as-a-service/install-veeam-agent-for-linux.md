@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Install veeam agent for linux"
+sidebar_label: "Install Veeam Agent for Linux"
 title: "2. FPT Backup As a Service"
 source: "https://fptcloud.com/documents/fpt-backup-as-a-service/?doc=install-veeam-agent-for-linux"
 parent: "https://fptcloud.com/documents/fpt-backup-as-a-service"

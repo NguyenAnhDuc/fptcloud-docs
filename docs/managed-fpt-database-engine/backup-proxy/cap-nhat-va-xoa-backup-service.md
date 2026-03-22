@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Cap nhat va xoa backup service"
+sidebar_label: "Cập nhật và xóa Backup Service"
 title: "2. Managed – FPT Database Engine"
 source: "https://fptcloud.com/documents/managed-fpt-database-engine/?doc=Cap-nhat-va-xoa-Backup-Service"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engine"

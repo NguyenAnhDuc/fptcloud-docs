@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Cancel Pipeline"
+sidebar_label: "2. Find the Pipeline you want to cancel and click the 3-dot icon in the Actions column"
 title: "Cancel Pipeline"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=cancel-pipeline"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Driver installation self install"
+sidebar_label: "Hướng dẫn cài đặt GPU Driver trên Kubernetes"
 title: "2. FPT Kubernetes Engine with GPU"
 source: "https://fptcloud.com/documents/fpt-kubernetes-engine-with-gpu/?doc=driver-installation-self-install"
 parent: "https://fptcloud.com/documents/fpt-kubernetes-engine-with-gpu"

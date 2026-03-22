@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Them moi tag retention rule"
+sidebar_label: "Thêm mới Tag Retention Rule"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=them-moi-tag-retention-rule"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

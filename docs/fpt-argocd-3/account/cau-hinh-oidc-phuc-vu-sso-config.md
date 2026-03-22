@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Cau hinh oidc phuc vu sso config"
+sidebar_label: "Cấu hình OIDC phục vụ SSO config"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=cau-hinh-oidc-phuc-vu-sso-config"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly teams org"
+sidebar_label: "Quản lý Teams"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=quan-ly-teams-org"
 parent: "https://fptcloud.com/documents/fpt-appsec"

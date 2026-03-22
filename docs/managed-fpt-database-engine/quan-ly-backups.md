@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly backups"
+sidebar_label: "Quản lý Backups"
 title: "2. Managed – FPT Database Engine"
 source: "https://fptcloud.com/documents/managed-fpt-database-engine/?doc=Quan-ly-Backups"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engine"

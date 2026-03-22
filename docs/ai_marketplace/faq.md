@@ -1,5 +1,5 @@
 ---
-sidebar_label: "FAQ"
+sidebar_label: "You can create an API Key under My Account → My API Keys."
 title: "FAQ"
 source: "https://fptcloud.com/en/documents/ai_marketplace/?doc=FAQ"
 parent: "https://fptcloud.com/en/documents/ai_marketplace"

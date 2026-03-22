@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xem ket qua quet cu"
+sidebar_label: "Xem Ket Qua Quet Cu"
 title: "2. FPT Cloud VA"
 source: "https://fptcloud.com/documents/fpt-va/?doc=xem-ket-qua-quet-cu"
 parent: "https://fptcloud.com/documents/fpt-va"

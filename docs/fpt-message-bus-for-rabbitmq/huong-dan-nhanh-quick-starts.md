@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Huong dan nhanh quick starts"
+sidebar_label: "Hướng dẫn nhanh (Quick Starts)"
 title: "2. FPT Message Bus for RabbitMQ"
 source: "https://fptcloud.com/documents/fpt-message-bus-for-rabbitmq/?doc=huong-dan-nhanh-quick-starts"
 parent: "https://fptcloud.com/documents/fpt-message-bus-for-rabbitmq"

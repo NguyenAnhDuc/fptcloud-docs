@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tutorials tao role"
+sidebar_label: "Tạo Role"
 title: "2. FPT Key Vault"
 source: "https://fptcloud.com/documents/fpt-key-vault/?doc=tutorials-tao-role"
 parent: "https://fptcloud.com/documents/fpt-key-vault"

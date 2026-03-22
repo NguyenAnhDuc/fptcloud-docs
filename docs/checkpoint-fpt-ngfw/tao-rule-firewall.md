@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tao rule firewall"
+sidebar_label: "Tạo rule Firewall"
 title: "2. CheckPoint – FPT NGFW"
 source: "https://fptcloud.com/documents/checkpoint-fpt-ngfw/?doc=tao-rule-firewall"
 parent: "https://fptcloud.com/documents/checkpoint-fpt-ngfw"

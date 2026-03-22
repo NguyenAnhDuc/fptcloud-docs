@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Pull docker image tu fpt container registry ve local"
+sidebar_label: "Pull docker image từ FPT Container Registry về local"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=pull-docker-image-tu-fpt-container-registry-ve-local"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

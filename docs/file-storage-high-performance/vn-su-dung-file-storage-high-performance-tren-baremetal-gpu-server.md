@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Vn Su Dung File Storage High Performance Tren Baremetal Gpu Server"
+sidebar_label: "Sử dụng File Storage - High Performance trên Baremetal (GPU Server)"
 title: "2. File Storage – High Performance"
 source: "https://fptcloud.com/documents/file-storage-high-performance/?doc=vn-su-dung-file-storage-high-performance-tren-baremetal-gpu-server"
 parent: "https://fptcloud.com/documents/file-storage-high-performance"

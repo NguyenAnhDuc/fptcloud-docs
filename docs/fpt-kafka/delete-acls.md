@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Delete ACLs"
+sidebar_label: "To delete ACLs, follow these instructions:"
 title: "Delete ACLs"
 source: "https://fptcloud.com/en/documents/fpt-kafka/?doc=delete-acls"
 parent: "https://fptcloud.com/en/documents/fpt-kafka"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Create ACLs"
+sidebar_label: "To create ACLs, follow these instructions:"
 title: "Create ACLs"
 source: "https://fptcloud.com/en/documents/fpt-kafka/?doc=create-acls"
 parent: "https://fptcloud.com/en/documents/fpt-kafka"

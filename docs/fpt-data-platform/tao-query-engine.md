@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tao query engine"
+sidebar_label: "Tạo Query engine"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=tao-query-engine"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Telegram"
+sidebar_label: "F. Telegram"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=telegram"
 parent: "https://fptcloud.com/documents/incident-management"

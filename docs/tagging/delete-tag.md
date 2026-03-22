@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Delete tag"
+sidebar_label: "Xóa tag đã tạo"
 title: "2. Tagging"
 source: "https://fptcloud.com/documents/tagging/?doc=delete-tag"
 parent: "https://fptcloud.com/documents/tagging"

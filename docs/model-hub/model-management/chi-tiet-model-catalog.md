@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Chi tiet model catalog"
+sidebar_label: "Chi tiết Model catalog"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=chi-tiet-model-catalog"
 parent: "https://fptcloud.com/documents/model-hub"

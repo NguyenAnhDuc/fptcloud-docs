@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Stop Session"
+sidebar_label: "2. Find the Session you want to cancel and click the 3-dot icon in the Actions column"
 title: "Stop Session"
 source: "https://fptcloud.com/en/documents/model-testing-interactive-sessions/?doc=stop-session"
 parent: "https://fptcloud.com/en/documents/model-testing-interactive-sessions"

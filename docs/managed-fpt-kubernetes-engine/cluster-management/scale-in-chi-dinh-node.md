@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Scale in chi dinh node"
+sidebar_label: "Tính năng scale in chỉ định node trong cluster"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=scale-in-chi-dinh-node"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

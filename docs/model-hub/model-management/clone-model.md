@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Clone model"
+sidebar_label: "Clone model (v1.1)"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=clone-model"
 parent: "https://fptcloud.com/documents/model-hub"

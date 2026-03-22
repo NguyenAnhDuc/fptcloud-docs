@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Set up Hyperparameters"
+sidebar_label: "The core settings of your training process."
 title: "Set up Hyperparameters"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=set-up-hyperparameters"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tao moi app catalogs"
+sidebar_label: "Tạo mới một FPT App Catalogs"
 title: "2. FPT App Catalogs"
 source: "https://fptcloud.com/documents/app-catalogs/?doc=tao-moi-app-catalogs"
 parent: "https://fptcloud.com/documents/app-catalogs"

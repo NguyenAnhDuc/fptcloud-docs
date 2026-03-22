@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xem thong tin cdc service"
+sidebar_label: "Xem Thong Tin Cdc Service"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xem-thong-tin-cdc-service"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

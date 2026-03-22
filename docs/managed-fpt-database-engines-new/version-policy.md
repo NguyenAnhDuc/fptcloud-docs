@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Version policy"
+sidebar_label: "Chính sách version"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=Version-policy"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

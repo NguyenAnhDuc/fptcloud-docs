@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Network connectivity"
+sidebar_label: "Kết nối mạng và khả năng truy cập"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=network-connectivity"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

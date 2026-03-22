@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Kiem tra trang thai target"
+sidebar_label: "2 Kiểm tra trạng thái scan của Target"
 title: "2. FPT Cloud VA"
 source: "https://fptcloud.com/documents/fpt-va/?doc=kiem-tra-trang-thai-target"
 parent: "https://fptcloud.com/documents/fpt-va"

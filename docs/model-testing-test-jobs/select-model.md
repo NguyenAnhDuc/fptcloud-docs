@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Select Model"
+sidebar_label: "You select model from the Model Hub in two ways:"
 title: "Select Model"
 source: "https://fptcloud.com/en/documents/model-testing-test-jobs/?doc=select-model"
 parent: "https://fptcloud.com/en/documents/model-testing-test-jobs"

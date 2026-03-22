@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Policy settings"
+sidebar_label: "Policy Settings"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=policy-settings"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

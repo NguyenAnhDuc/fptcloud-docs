@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Initial setup"
+sidebar_label: "Initial Setup"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=initial-setup"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"

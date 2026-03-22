@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Enable VPN-Site-to-Site"
+sidebar_label: "Enable: Cho phép VPN hoạt động (nếu VPN đang Inactive)."
 title: "Enable VPN-Site-to-Site"
 source: "https://fptcloud.com/documents/vpn-site-to-site-0/?doc=enable-VPN-S2S-connection"
 parent: "https://fptcloud.com/documents/vpn-site-to-site-0"

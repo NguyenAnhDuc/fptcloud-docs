@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Audit logs"
+sidebar_label: "Audit Logs"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=audit-logs"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

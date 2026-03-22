@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Managing alarms"
+sidebar_label: "Managing Alarms"
 title: "2. FPT Backup As a Service"
 source: "https://fptcloud.com/documents/fpt-backup-as-a-service/?doc=managing-alarms"
 parent: "https://fptcloud.com/documents/fpt-backup-as-a-service"

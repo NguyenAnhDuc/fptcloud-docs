@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Dfke advanced firewall"
+sidebar_label: "Advanced Firewall"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=dfke-advanced-firewall"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Edit Topics"
+sidebar_label: "First, to add partitions to a topic, follow these instructions:"
 title: "Edit Topics"
 source: "https://fptcloud.com/en/documents/fpt-kafka/?doc=edit-topics"
 parent: "https://fptcloud.com/en/documents/fpt-kafka"

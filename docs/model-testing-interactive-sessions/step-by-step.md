@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Step-by-Step"
+sidebar_label: "1. Select Model Testing in the Sidemenu, and navigate to Interactive Sessions."
 title: "Step-by-Step"
 source: "https://fptcloud.com/en/documents/model-testing-interactive-sessions/?doc=step-by-step"
 parent: "https://fptcloud.com/en/documents/model-testing-interactive-sessions"

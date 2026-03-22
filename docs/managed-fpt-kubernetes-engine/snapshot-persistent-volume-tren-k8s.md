@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Snapshot persistent volume tren k8s"
+sidebar_label: "Tính năng snapshot Persistent Volume trên kubernetes"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=snapshot-persistent-volume-tren-k8s"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

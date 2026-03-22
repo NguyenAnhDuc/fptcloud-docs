@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Create Topics"
+sidebar_label: "To create a topic, follow these steps:"
 title: "Create Topics"
 source: "https://fptcloud.com/en/documents/fpt-kafka/?doc=create-topics"
 parent: "https://fptcloud.com/en/documents/fpt-kafka"

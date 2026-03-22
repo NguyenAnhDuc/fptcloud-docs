@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Recipient la gi"
+sidebar_label: "Recipient là gì?"
 title: "2. FPT Cloud Guard"
 source: "https://fptcloud.com/documents/cloud-guard/?doc=Recipient-la-gi"
 parent: "https://fptcloud.com/documents/cloud-guard"

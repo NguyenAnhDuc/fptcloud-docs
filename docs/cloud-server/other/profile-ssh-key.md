@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Profile SSH Key"
+sidebar_label: "Name: Tên SSH Key."
 title: "Profile SSH Key"
 source: "https://fptcloud.com/documents/cloud-server/?doc=profile-ssh-key"
 parent: "https://fptcloud.com/documents/cloud-server"

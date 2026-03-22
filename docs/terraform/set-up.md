@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Set up"
+sidebar_label: "Setup"
 title: "2. Terraform"
 source: "https://fptcloud.com/documents/terraform/?doc=set-up"
 parent: "https://fptcloud.com/documents/terraform"

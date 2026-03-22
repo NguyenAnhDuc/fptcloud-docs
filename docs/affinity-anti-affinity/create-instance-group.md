@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Create instance group"
+sidebar_label: "Khởi tạo một Instance Group mới"
 title: "2. Quản lý Instance Group với chính sách Affinity & Anti-Affinity"
 source: "https://fptcloud.com/documents/affinity-anti-affinity/?doc=create-instance-group"
 parent: "https://fptcloud.com/documents/affinity-anti-affinity"

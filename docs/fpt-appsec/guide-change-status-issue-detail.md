@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Guide change status issue detail"
+sidebar_label: "Hướng dẫn quản lý trạng thái issue tại màn Issue detail"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=guide-change-status-issue-detail"
 parent: "https://fptcloud.com/documents/fpt-appsec"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tagg lb"
+sidebar_label: "Manage tag to classic load balancer"
 title: "2. Tagging"
 source: "https://fptcloud.com/documents/tagging/?doc=tagg-lb"
 parent: "https://fptcloud.com/documents/tagging"

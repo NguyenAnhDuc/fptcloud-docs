@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Overview nat instance"
+sidebar_label: "Giới thiệu"
 title: "2. NAT Instance"
 source: "https://fptcloud.com/documents/nat_instance/?doc=overview-nat-instance"
 parent: "https://fptcloud.com/documents/nat_instance"

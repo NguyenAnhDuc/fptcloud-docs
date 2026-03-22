@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Jupyter Notebook Use Cases"
+sidebar_label: "pip install ultralytics"
 title: "Jupyter Notebook Use Cases"
 source: "https://fptcloud.com/en/documents/gpu-container/?doc=jupyter-notebook-tutorials"
 parent: "https://fptcloud.com/en/documents/gpu-container"

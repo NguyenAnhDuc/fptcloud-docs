@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xem thong tin logs"
+sidebar_label: "4.3. Xem thông tin logs"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=xem-thong-tin-logs"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"

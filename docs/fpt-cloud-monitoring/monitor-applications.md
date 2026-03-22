@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Monitor applications"
+sidebar_label: "Monitor Applications"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=monitor-applications"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

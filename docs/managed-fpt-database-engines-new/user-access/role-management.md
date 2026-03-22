@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Role management"
+sidebar_label: "Quản lý Role"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=role-management"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

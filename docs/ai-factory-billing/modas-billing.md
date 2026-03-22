@@ -1,5 +1,5 @@
 ---
-sidebar_label: "MODAS Billing"
+sidebar_label: "Based on usage volume (number of tokens/characters) | 1 token | Every 5 minutes"
 title: "MODAS Billing"
 source: "https://fptcloud.com/en/documents/ai-factory-billing/?doc=modas-billing"
 parent: "https://fptcloud.com/en/documents/ai-factory-billing"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Export list"
+sidebar_label: "Export List"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=export-list"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

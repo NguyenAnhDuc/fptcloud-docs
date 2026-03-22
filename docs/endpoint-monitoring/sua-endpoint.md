@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Sua endpoint"
+sidebar_label: "Sửa endpoint"
 title: "2. Endpoint monitoring"
 source: "https://fptcloud.com/documents/endpoint-monitoring/?doc=sua-endpoint"
 parent: "https://fptcloud.com/documents/endpoint-monitoring"

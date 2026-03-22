@@ -1,5 +1,5 @@
 ---
-sidebar_label: "System Metrics"
+sidebar_label: "Metric | What it evaluates"
 title: "System Metrics"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=system-metrics"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

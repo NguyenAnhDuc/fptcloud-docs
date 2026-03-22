@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Gpu time sharing"
+sidebar_label: "GPU time sharing"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=gpu-time-sharing"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

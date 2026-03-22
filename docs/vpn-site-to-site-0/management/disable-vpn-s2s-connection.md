@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Disable VPN-Site-to-Site"
+sidebar_label: "Vô hiệu hóa VPN đang hoạt động (nếu VPN đang Active)."
 title: "Disable VPN-Site-to-Site"
 source: "https://fptcloud.com/documents/vpn-site-to-site-0/?doc=disable-VPN-S2S-connection"
 parent: "https://fptcloud.com/documents/vpn-site-to-site-0"

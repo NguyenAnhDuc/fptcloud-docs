@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Migration cho sqlserver"
+sidebar_label: "Migration cho SQL Server"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=Migration-cho-SQLServer"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

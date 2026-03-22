@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Redirect prefix"
+sidebar_label: "Nhập các thông tin:"
 title: "Redirect prefix"
 source: "https://fptcloud.com/documents/load-balancer/?doc=redirect-prefix"
 parent: "https://fptcloud.com/documents/load-balancer"

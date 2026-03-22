@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tao cdc service"
+sidebar_label: "Tao Cdc Service"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=tao-cdc-service"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tao verison"
+sidebar_label: "Tạo version"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=tao-verison"
 parent: "https://fptcloud.com/documents/model-hub"

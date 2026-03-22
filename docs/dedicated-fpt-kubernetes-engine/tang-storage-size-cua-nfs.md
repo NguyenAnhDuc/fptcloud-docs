@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tang storage size cua nfs"
+sidebar_label: "Tăng Storage size của NFS Server"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=tang-storage-size-cua-nfs"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

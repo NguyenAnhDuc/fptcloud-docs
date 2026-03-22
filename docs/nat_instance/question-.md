@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Question "
+sidebar_label: "Nat Instance có thể được sử dụng như 1 instance thông thường không?"
 title: "2. NAT Instance"
 source: "https://fptcloud.com/documents/nat_instance/?doc=question-"
 parent: "https://fptcloud.com/documents/nat_instance"

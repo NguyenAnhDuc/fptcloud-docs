@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Set up Parameters"
+sidebar_label: "Name | Description | Type | Supported value"
 title: "Set up Parameters"
 source: "https://fptcloud.com/en/documents/model-testing-test-jobs/?doc=set-up-parameters"
 parent: "https://fptcloud.com/en/documents/model-testing-test-jobs"

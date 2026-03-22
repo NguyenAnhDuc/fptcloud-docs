@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How to Manage Job?"
+sidebar_label: "It includes:"
 title: "How to Manage Job?"
 source: "https://fptcloud.com/en/documents/model-testing-test-jobs/?doc=how-to-manage-job"
 parent: "https://fptcloud.com/en/documents/model-testing-test-jobs"

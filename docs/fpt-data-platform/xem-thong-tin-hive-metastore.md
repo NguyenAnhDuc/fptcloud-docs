@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xem thong tin hive metastore"
+sidebar_label: "Xem thông tin Hive Metastore"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xem-thong-tin-hive-metastore"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

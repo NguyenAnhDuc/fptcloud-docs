@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How to monitor container"
+sidebar_label: "There are 4 metric groups:"
 title: "How to monitor container"
 source: "https://fptcloud.com/en/documents/gpu-container/?doc=logs-and-monitoring"
 parent: "https://fptcloud.com/en/documents/gpu-container"

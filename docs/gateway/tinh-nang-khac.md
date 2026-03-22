@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tinh nang khac"
+sidebar_label: "Các tính năng khác liên quan đến Gateway"
 title: "2. Gateway"
 source: "https://fptcloud.com/documents/gateway/?doc=tinh-nang-khac"
 parent: "https://fptcloud.com/documents/gateway"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Delete Session"
+sidebar_label: "2. Find the Session you want to delete and click 3-dot icon in the Actions column"
 title: "Delete Session"
 source: "https://fptcloud.com/en/documents/model-testing-interactive-sessions/?doc=delete-session"
 parent: "https://fptcloud.com/en/documents/model-testing-interactive-sessions"

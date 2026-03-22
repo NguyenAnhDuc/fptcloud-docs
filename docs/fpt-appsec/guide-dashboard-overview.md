@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Guide dashboard overview"
+sidebar_label: "Hướng dẫn đọc các số liệu Dashboard - Organization overview"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=guide-dashboard-overview"
 parent: "https://fptcloud.com/documents/fpt-appsec"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Huong dan nhanh quick starts"
+sidebar_label: "Hướng dẫn nhanh (Quick Starts)"
 title: "2. FPT API Management"
 source: "https://fptcloud.com/documents/fpt-api-management/?doc=huong-dan-nhanh-quick-starts"
 parent: "https://fptcloud.com/documents/fpt-api-management"

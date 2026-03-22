@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Cloud advisor dashboard"
+sidebar_label: "Cloud Advisor Dashboard"
 title: "2. Cloud Advisor"
 source: "https://fptcloud.com/documents/cloud-advisor/?doc=cloud-advisor-dashboard"
 parent: "https://fptcloud.com/documents/cloud-advisor"

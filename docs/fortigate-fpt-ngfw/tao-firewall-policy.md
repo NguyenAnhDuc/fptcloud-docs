@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tao firewall policy"
+sidebar_label: "Tạo Firewall Policy"
 title: "2. Fortigate – FPT NGFW"
 source: "https://fptcloud.com/documents/fortigate-fpt-ngfw/?doc=tao-firewall-policy"
 parent: "https://fptcloud.com/documents/fortigate-fpt-ngfw"

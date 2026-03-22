@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Create a GPU VM"
+sidebar_label: "In the side menu, go to Compute Engine > Instance Management , then click Create Instance."
 title: "Create a GPU VM"
 source: "https://fptcloud.com/en/documents/gpu-virtual-machine-en/?doc=create-a-gpu-vm"
 parent: "https://fptcloud.com/en/documents/gpu-virtual-machine-en"

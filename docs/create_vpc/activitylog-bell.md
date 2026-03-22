@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Activitylog bell"
+sidebar_label: "Ghi nhận Activity log và Recent task status"
 title: "2. Create VPC"
 source: "https://fptcloud.com/documents/create_vpc/?doc=activitylog-bell"
 parent: "https://fptcloud.com/documents/create_vpc"

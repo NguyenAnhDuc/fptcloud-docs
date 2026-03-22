@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How to get my invoices?"
+sidebar_label: "> Note: _Only apply for the Vietnam region._"
 title: "How to get my invoices?"
 source: "https://fptcloud.com/en/documents/ai-factory-billing/?doc=payment-invoice"
 parent: "https://fptcloud.com/en/documents/ai-factory-billing"

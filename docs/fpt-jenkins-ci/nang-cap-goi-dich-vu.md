@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Nang cap goi dich vu"
+sidebar_label: "Nâng cấp gói dịch vụ"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=nang-cap-goi-dich-vu"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

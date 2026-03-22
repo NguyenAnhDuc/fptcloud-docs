@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Fqas 3"
+sidebar_label: "Vì sao tôi có nhiều đối soát trong cùng 1 kỳ hóa đơn?"
 title: "2. Bills"
 source: "https://fptcloud.com/documents/billing/?doc=fqas-3"
 parent: "https://fptcloud.com/documents/billing"

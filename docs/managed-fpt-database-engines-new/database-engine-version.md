@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Database engine version"
+sidebar_label: "Version database engine"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=database-engine-version"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

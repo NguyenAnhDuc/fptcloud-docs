@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Guide workspace"
+sidebar_label: "Workspace Management - Quản lý Asset và Issue"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=guide-workspace"
 parent: "https://fptcloud.com/documents/fpt-appsec"

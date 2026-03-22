@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Stop scan"
+sidebar_label: "Stop Scan"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=stop-scan"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

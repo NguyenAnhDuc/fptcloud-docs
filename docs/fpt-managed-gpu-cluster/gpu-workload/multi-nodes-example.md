@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Background"
+sidebar_label: "Serve open models trên nhiều node với vLLM"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=multi-nodes-example"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

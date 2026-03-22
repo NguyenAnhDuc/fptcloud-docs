@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Chinh sua label taint cho worker group"
+sidebar_label: "Chỉnh sửa label/taint cho worker group"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=chinh-sua-label-taint-cho-worker-group"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tinh nang benchmark cluster"
+sidebar_label: "Tính năng Benchmark Managed Kubernetes Cluster"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=tinh-nang-benchmark-cluster"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

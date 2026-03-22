@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tags custom image"
+sidebar_label: "Manage tag to Custom image"
 title: "2. Tagging"
 source: "https://fptcloud.com/documents/tagging/?doc=tags-custom-image"
 parent: "https://fptcloud.com/documents/tagging"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Export Container Configuration"
+sidebar_label: "A YAML file will be automatically downloaded with the name format: container-name.yaml"
 title: "Export Container Configuration"
 source: "https://fptcloud.com/en/documents/gpu-container/?doc=export-config"
 parent: "https://fptcloud.com/en/documents/gpu-container"

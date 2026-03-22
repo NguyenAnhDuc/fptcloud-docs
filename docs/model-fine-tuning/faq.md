@@ -1,5 +1,5 @@
 ---
-sidebar_label: "FAQ"
+sidebar_label: "Small models (<=1B parameters) --> for testing or light workloads"
 title: "FAQ"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=faq"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tao workspace"
+sidebar_label: "Tạo workspace"
 title: "2. Endpoint monitoring"
 source: "https://fptcloud.com/documents/endpoint-monitoring/?doc=tao-workspace"
 parent: "https://fptcloud.com/documents/endpoint-monitoring"

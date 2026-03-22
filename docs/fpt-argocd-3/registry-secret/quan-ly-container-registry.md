@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quan ly container registry"
+sidebar_label: "Quản lý Container Registry"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=quan-ly-container-registry"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

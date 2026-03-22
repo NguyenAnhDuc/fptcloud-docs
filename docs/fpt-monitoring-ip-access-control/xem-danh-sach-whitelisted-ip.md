@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xem danh sach whitelisted ip"
+sidebar_label: "Xem danh sách whitelisted IP/dải IP"
 title: "2. FPT Monitoring – IP Access Control"
 source: "https://fptcloud.com/documents/fpt-monitoring-ip-access-control/?doc=xem-danh-sach-whitelisted-ip"
 parent: "https://fptcloud.com/documents/fpt-monitoring-ip-access-control"

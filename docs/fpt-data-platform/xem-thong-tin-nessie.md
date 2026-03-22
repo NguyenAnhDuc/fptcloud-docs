@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xem thong tin nessie"
+sidebar_label: "Xem thông tin Nessie"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xem-thong-tin-nessie"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Create organization"
+sidebar_label: "Create organization (v1.1)"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=create-organization"
 parent: "https://fptcloud.com/documents/model-hub"

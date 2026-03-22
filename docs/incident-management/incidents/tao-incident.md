@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tao incident"
+sidebar_label: "Tạo incident"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=tao-incident"
 parent: "https://fptcloud.com/documents/incident-management"

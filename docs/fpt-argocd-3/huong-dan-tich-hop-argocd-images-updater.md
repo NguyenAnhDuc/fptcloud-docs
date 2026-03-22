@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Huong dan tich hop argocd images updater"
+sidebar_label: "Hướng dẫn tích hợp Argo CD Images Updater"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=huong-dan-tich-hop-argocd-images-updater"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

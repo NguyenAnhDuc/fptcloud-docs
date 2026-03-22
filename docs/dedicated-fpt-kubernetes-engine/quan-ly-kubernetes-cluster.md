@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly kubernetes cluster"
+sidebar_label: "Quản lý Kubernetes cluster"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=quan-ly-kubernetes-cluster"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

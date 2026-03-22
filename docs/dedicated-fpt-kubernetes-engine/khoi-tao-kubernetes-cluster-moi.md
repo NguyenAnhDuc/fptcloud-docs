@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Khoi tao kubernetes cluster moi"
+sidebar_label: "Khởi tạo Kubernetes Cluster mới"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=khoi-tao-kubernetes-cluster-moi"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

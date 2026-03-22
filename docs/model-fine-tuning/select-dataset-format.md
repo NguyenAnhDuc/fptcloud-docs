@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Select Dataset Format"
+sidebar_label: "The dataset format depends on the selected trainer."
 title: "Select Dataset Format"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=select-dataset-format"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

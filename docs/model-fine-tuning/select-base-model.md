@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Select Base Model"
+sidebar_label: "Retrieve base models from the Model Hub in two ways:"
 title: "Select Base Model"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=select-base-model"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

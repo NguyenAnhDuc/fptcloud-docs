@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Db operation"
+sidebar_label: "Vận hành cơ sở dữ liệu"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=db-operation"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

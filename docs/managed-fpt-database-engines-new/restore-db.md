@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Restore db"
+sidebar_label: "Khôi phục cơ sở dữ liệu"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=restore-db"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

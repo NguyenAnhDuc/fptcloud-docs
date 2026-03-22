@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Backup mgmt"
+sidebar_label: "Quản lý dịch vụ Backup"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=backup-mgmt"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

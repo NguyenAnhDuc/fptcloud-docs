@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Contact point"
+sidebar_label: "6.2. Cấu hình contact point"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=contact-point"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"

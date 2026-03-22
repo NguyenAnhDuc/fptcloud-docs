@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Cau hinh sonarqube servers"
+sidebar_label: "Cấu hình SonarQube servers"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=cau-hinh-sonarqube-servers"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

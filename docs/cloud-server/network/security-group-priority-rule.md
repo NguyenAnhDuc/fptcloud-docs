@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Manage Priority Rule of Security Group"
+sidebar_label: "Tính năng 'Quản lý độ ưu tiên' giúp bạn:"
 title: "Manage Priority Rule of Security Group"
 source: "https://fptcloud.com/documents/cloud-server/?doc=security-group-priority-rule"
 parent: "https://fptcloud.com/documents/cloud-server"

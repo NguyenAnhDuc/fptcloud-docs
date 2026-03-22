@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Filter Security Group"
+sidebar_label: "Field | Ý nghĩa"
 title: "Filter Security Group"
 source: "https://fptcloud.com/documents/cloud-server/?doc=security-group-filter"
 parent: "https://fptcloud.com/documents/cloud-server"

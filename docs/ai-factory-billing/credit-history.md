@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Credit History"
+sidebar_label: "Field | Description"
 title: "Credit History"
 source: "https://fptcloud.com/en/documents/ai-factory-billing/?doc=credit-history"
 parent: "https://fptcloud.com/en/documents/ai-factory-billing"

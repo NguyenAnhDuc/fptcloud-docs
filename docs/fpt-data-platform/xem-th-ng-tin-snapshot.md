@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xem th ng tin snapshot"
+sidebar_label: "2.25. Xem thông tin snapshot"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xem-thông-tin-snapshot"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

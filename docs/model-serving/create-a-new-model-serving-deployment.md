@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Create a New Model Serving Deployment"
+sidebar_label: "Model Information : AI deployment information. Select Model Type:"
 title: "Create a New Model Serving Deployment"
 source: "https://fptcloud.com/en/documents/model-serving/?doc=create-a-new-model-serving-deployment"
 parent: "https://fptcloud.com/en/documents/model-serving"

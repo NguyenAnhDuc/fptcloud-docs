@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How to create a Notebook?"
+sidebar_label: "Click + button (1)"
 title: "How to create a Notebook?"
 source: "https://fptcloud.com/en/documents/ai-notebook/?doc=create-notebook"
 parent: "https://fptcloud.com/en/documents/ai-notebook"

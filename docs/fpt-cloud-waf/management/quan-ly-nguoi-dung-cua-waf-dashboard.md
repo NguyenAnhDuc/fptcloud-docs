@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quan ly nguoi dung cua waf dashboard"
+sidebar_label: "Quản lý người dùng của WAF Dashboard"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=quan-ly-nguoi-dung-cua-waf-dashboard"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

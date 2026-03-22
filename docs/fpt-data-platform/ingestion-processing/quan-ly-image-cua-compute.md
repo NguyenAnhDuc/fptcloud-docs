@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quan ly image cua compute"
+sidebar_label: "Quản lý Image của Compute"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=quan-ly-image-cua-compute"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

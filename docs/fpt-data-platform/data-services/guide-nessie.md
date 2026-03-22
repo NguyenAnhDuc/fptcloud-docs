@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Guide nessie"
+sidebar_label: "Nessie"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=guide-nessie"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

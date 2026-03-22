@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Edit VPN Information"
+sidebar_label: "Edit VPN Information: thay đổi thông tin VPN sau khi đã khởi tạo."
 title: "Edit VPN Information"
 source: "https://fptcloud.com/documents/vpn-site-to-site-0/?doc=edit-VPN-S2S-information"
 parent: "https://fptcloud.com/documents/vpn-site-to-site-0"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Create by incoming webhook"
+sidebar_label: "Incoming webhook"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=create-by-incoming-webhook"
 parent: "https://fptcloud.com/documents/incident-management"

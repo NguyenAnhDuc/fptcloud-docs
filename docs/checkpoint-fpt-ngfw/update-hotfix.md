@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Update hotfix"
+sidebar_label: "Update Hotfix"
 title: "2. CheckPoint – FPT NGFW"
 source: "https://fptcloud.com/documents/checkpoint-fpt-ngfw/?doc=update-hotfix"
 parent: "https://fptcloud.com/documents/checkpoint-fpt-ngfw"

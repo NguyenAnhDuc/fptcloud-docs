@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quick start"
+sidebar_label: "Follow these steps to get started with AI Marketplace :"
 title: "Quick start"
 source: "https://fptcloud.com/en/documents/ai_marketplace/?doc=quick-start"
 parent: "https://fptcloud.com/en/documents/ai_marketplace"

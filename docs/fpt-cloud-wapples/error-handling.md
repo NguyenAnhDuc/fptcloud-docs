@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Error handling"
+sidebar_label: "Error Handling"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=error-handling"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

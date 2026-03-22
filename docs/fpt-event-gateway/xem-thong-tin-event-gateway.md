@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xem thong tin event gateway"
+sidebar_label: "Xem thông tin Event Gateway"
 title: "2. FPT Event Gateway"
 source: "https://fptcloud.com/documents/fpt-event-gateway/?doc=xem-thong-tin-event-gateway"
 parent: "https://fptcloud.com/documents/fpt-event-gateway"

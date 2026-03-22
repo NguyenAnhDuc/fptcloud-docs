@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tao ingestion"
+sidebar_label: "Tạo Ingestion"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=tao-ingestion"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

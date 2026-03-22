@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Guide gitlabserver"
+sidebar_label: "GitLab Server"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=guide-gitlabserver"
 parent: "https://fptcloud.com/documents/fpt-appsec"

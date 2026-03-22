@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Edit IP Address"
+sidebar_label: "_Tính năng chỉ áp dụng cho khách hàng mua dich vụ loại Speicific_"
 title: "Edit IP Address"
 source: "https://fptcloud.com/documents/cloud-server/?doc=edit-ip-address"
 parent: "https://fptcloud.com/documents/cloud-server"

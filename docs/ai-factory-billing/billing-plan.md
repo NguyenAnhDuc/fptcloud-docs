@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How to use billing plans?"
+sidebar_label: "Each Billing Plan includes the following key elements:"
 title: "How to use billing plans?"
 source: "https://fptcloud.com/en/documents/ai-factory-billing/?doc=billing-plan"
 parent: "https://fptcloud.com/en/documents/ai-factory-billing"

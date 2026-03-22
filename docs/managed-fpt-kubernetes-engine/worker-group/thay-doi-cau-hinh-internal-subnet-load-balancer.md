@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Thay doi cau hinh internal subnet load balancer"
+sidebar_label: "Thay đổi cấu hình Internal subnet Load Balancer (CIDR)"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=thay-doi-cau-hinh-internal-subnet-load-balancer"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

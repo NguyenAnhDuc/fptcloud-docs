@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Cau hinh lap lich chay retention rule"
+sidebar_label: "Cấu hình lập lịch chạy Retention Rule"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=cau-hinh-lap-lich-chay-retention-rule"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

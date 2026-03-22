@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Huong dan tao jenkins pipeline ci cd tich hop cac tinh nang tren portal"
+sidebar_label: "Hướng dẫn tạo Jenkins pipline CI/CD tích hợp các tính năng trên Portal"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=huong-dan-tao-jenkins-pipeline-ci-cd-tich-hop-cac-tinh-nang-tren-portal"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

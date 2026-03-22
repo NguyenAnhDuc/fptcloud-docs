@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Backup restore"
+sidebar_label: "Backup & Restore"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=backup-restore"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

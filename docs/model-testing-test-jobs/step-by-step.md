@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Step-by-Step"
+sidebar_label: "2. In the Actions column, you can start , cancel and delete jobs to manage effectively."
 title: "Step-by-Step"
 source: "https://fptcloud.com/en/documents/model-testing-test-jobs/?doc=step-by-step"
 parent: "https://fptcloud.com/en/documents/model-testing-test-jobs"

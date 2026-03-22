@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Rename vpc"
+sidebar_label: "Rename VPC"
 title: "2. Create VPC"
 source: "https://fptcloud.com/documents/create_vpc/?doc=rename-vpc"
 parent: "https://fptcloud.com/documents/create_vpc"

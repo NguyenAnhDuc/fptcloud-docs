@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Balance"
+sidebar_label: "Currently, we do not support a single balance across multiple regions or tenants."
 title: "Balance"
 source: "https://fptcloud.com/en/documents/ai-factory-billing/?doc=balance"
 parent: "https://fptcloud.com/en/documents/ai-factory-billing"

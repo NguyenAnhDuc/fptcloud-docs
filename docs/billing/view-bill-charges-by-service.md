@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "View bill charges by service"
+sidebar_label: "Xem đối soát theo tên dịch vụ (Charges by service)"
 title: "2. Bills"
 source: "https://fptcloud.com/documents/billing/?doc=view-bill-charges-by-service"
 parent: "https://fptcloud.com/documents/billing"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How to launch AI Notebook?"
+sidebar_label: "File Browser"
 title: "How to launch AI Notebook?"
 source: "https://fptcloud.com/en/documents/ai-notebook/?doc=launch-ai-notebook"
 parent: "https://fptcloud.com/en/documents/ai-notebook"

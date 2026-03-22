@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tao api gateway"
+sidebar_label: "Tạo API Gateway"
 title: "2. FPT API Gateway"
 source: "https://fptcloud.com/documents/fpt-api-gateway/?doc=tao-api-gateway"
 parent: "https://fptcloud.com/documents/fpt-api-gateway"

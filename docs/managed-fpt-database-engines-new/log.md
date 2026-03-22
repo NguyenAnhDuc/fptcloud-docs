@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Log"
+sidebar_label: "Event Logs"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=log"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

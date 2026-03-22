@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xem thong tin orchestration"
+sidebar_label: "Xem thông tin Orchestration"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xem-thong-tin-orchestration"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

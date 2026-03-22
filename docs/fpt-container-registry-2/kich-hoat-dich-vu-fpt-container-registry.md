@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Kich hoat dich vu fpt container registry"
+sidebar_label: "Kích hoạt dịch vụ FPT Container Registry"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=kich-hoat-dich-vu-fpt-container-registry"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

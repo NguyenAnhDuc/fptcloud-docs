@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Db manage operate"
+sidebar_label: "Khởi tạo và vận hành cơ sở dữ liệu"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=db-manage-operate"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

@@ -1,6 +1,6 @@
 ---
 title: "GPU Virtual Machine"
-sidebar_label: "GPU Virtual Machine"
+sidebar_label: "Tham khảo tài liệu tiếng Anh để biết hướng dẫn chi tiết."
 source: "https://fptcloud.com/en/documents/gpu-virtual-machine-en/"
 lang: vi
 converted: "2026-03-22"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Smtp"
+sidebar_label: "SMTP"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=smtp"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

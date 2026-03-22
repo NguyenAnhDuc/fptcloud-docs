@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Cost explorer dimension resource type"
+sidebar_label: "Cost explorer theo loại tài nguyên"
 title: "2. Cost Explorer"
 source: "https://fptcloud.com/documents/cost-explorer/?doc=cost-explorer-dimension-resource-type"
 parent: "https://fptcloud.com/documents/cost-explorer"

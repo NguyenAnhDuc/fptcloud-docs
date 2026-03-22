@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Ubuntu Use Cases"
+sidebar_label: "Choose Ubuntu template"
 title: "Ubuntu Use Cases"
 source: "https://fptcloud.com/en/documents/gpu-container/?doc=ubuntu-use-cases"
 parent: "https://fptcloud.com/en/documents/gpu-container"

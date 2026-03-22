@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Cdc service"
+sidebar_label: "CDC Service"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=cdc-service"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

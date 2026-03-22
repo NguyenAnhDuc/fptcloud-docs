@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Cau hinh integrations"
+sidebar_label: "Cấu hình Integrations"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=cau-hinh-integrations"
 parent: "https://fptcloud.com/documents/incident-management"

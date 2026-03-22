@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Chinh sua may chu waf"
+sidebar_label: "Chỉnh sửa máy chủ WAF"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=chinh-sua-may-chu-waf"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

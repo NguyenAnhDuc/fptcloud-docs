@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Restore linux vm from cloud repository"
+sidebar_label: "Restore Linux VM from Cloud Repository"
 title: "2. FPT Backup As a Service"
 source: "https://fptcloud.com/documents/fpt-backup-as-a-service/?doc=restore-linux-vm-from-cloud-repository"
 parent: "https://fptcloud.com/documents/fpt-backup-as-a-service"

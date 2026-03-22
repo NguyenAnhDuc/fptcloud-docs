@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Mps gpu sharing"
+sidebar_label: "MPS GPU sharing"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=mps-gpu-sharing"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Them moi mot credential"
+sidebar_label: "Thêm mới một Credential"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=them-moi-mot-credential"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

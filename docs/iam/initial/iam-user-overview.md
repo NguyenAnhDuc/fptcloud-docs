@@ -1,5 +1,5 @@
 ---
-sidebar_label: "IAM User - Overview"
+sidebar_label: "Ví dụ User A nằm trong User Group đang được gán role Reviewer, có quyền truy cập vào Tenant B."
 title: "IAM User - Overview"
 source: "https://fptcloud.com/documents/iam/?doc=IAM-User-Overview"
 parent: "https://fptcloud.com/documents/iam"

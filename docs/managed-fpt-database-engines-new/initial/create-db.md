@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Create db"
+sidebar_label: "Khởi tạo cơ sở dữ liệu"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=create-db"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

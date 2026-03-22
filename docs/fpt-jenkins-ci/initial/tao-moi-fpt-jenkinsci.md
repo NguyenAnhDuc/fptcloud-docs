@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tao moi fpt jenkinsci"
+sidebar_label: "Tạo mới một FPT Jenkins CI"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=tao-moi-fpt-jenkinsCI"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

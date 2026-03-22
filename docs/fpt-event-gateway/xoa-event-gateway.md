@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xoa event gateway"
+sidebar_label: "Xóa Event Gateway"
 title: "2. FPT Event Gateway"
 source: "https://fptcloud.com/documents/fpt-event-gateway/?doc=xoa-event-gateway"
 parent: "https://fptcloud.com/documents/fpt-event-gateway"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Manage GPU VMs"
+sidebar_label: "To delete a virtual machine, users must first unlock it."
 title: "Manage GPU VMs"
 source: "https://fptcloud.com/en/documents/gpu-virtual-machine-en/?doc=manage-gpu-vms"
 parent: "https://fptcloud.com/en/documents/gpu-virtual-machine-en"

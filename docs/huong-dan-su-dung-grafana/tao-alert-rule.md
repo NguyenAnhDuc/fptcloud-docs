@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tao alert rule"
+sidebar_label: "6.1. Tạo alert rule"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=tao-alert-rule"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"

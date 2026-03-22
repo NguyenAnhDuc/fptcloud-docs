@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Overview policy"
+sidebar_label: "Giới thiệu"
 title: "2. Policy Management"
 source: "https://fptcloud.com/documents/policy-management/?doc=overview-policy"
 parent: "https://fptcloud.com/documents/policy-management"

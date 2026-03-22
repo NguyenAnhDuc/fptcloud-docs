@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Disable Network Interface Card"
+sidebar_label: "_Tính năng chỉ áp dụng cho khách hàng mua dich vụ loại Speicific_"
 title: "Disable Network Interface Card"
 source: "https://fptcloud.com/documents/cloud-server/?doc=disable-NIC-card"
 parent: "https://fptcloud.com/documents/cloud-server"

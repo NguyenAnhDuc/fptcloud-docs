@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Sua model"
+sidebar_label: "Sửa model"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=sua-model"
 parent: "https://fptcloud.com/documents/model-hub"

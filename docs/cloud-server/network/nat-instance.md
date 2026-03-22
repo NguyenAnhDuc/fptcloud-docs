@@ -1,5 +1,5 @@
 ---
-sidebar_label: "NAT Instance"
+sidebar_label: "Cài đặt Nat instance như sau:"
 title: "NAT Instance"
 source: "https://fptcloud.com/documents/cloud-server/?doc=nat-instance"
 parent: "https://fptcloud.com/documents/cloud-server"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Overview"
+sidebar_label: "Easily integrate with existing applications via API."
 title: "Overview"
 source: "https://fptcloud.com/en/documents/ai_marketplace/?doc=overview"
 parent: "https://fptcloud.com/en/documents/ai_marketplace"

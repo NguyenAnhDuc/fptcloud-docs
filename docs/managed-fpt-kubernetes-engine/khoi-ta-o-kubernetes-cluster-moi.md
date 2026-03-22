@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Khoi ta o kubernetes cluster moi"
+sidebar_label: "Khởi tạo Kubernetes Cluster mới"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=khoi-tạo-kubernetes-cluster-moi"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

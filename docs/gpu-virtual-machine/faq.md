@@ -1,5 +1,5 @@
 ---
-sidebar_label: "FAQ"
+sidebar_label: "With Block Storage – Ephemeral Disk (NVMe):"
 title: "FAQ"
 source: "https://fptcloud.com/en/documents/gpu-virtual-machine-en/?doc=faq"
 parent: "https://fptcloud.com/en/documents/gpu-virtual-machine-en"

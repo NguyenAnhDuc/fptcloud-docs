@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How to Evaluate Model?"
+sidebar_label: "It includes:"
 title: "How to Evaluate Model?"
 source: "https://fptcloud.com/en/documents/model-testing-interactive-sessions/?doc=how-to-evaluate-model"
 parent: "https://fptcloud.com/en/documents/model-testing-interactive-sessions"

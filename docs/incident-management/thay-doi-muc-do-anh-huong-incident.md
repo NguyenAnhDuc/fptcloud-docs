@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Thay doi muc do anh huong incident"
+sidebar_label: "Thay đổi mức độ ảnh hưởng (serverity) incident"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=thay-doi-muc-do-anh-huong-incident"
 parent: "https://fptcloud.com/documents/incident-management"

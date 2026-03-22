@@ -1,5 +1,5 @@
 ---
-sidebar_label: "IAM"
+sidebar_label: "Một số khái niệm cơ bản trong FPT IAM:"
 title: "IAM"
 source: "https://fptcloud.com/documents/iam/"
 lang: vi

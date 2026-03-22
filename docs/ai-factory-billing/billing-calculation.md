@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How do we calculate billing?"
+sidebar_label: "We now support using credits for these services:"
 title: "How do we calculate billing?"
 source: "https://fptcloud.com/en/documents/ai-factory-billing/?doc=billing-calculation"
 parent: "https://fptcloud.com/en/documents/ai-factory-billing"

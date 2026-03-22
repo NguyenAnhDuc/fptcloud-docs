@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Fine-tune the Gemma-3-27B-Instruct model for FINANCIAL tasks"
+sidebar_label: "Fine-tuning it on financial datasets allows it to:"
 title: "Fine-tune the Gemma-3-27B-Instruct model for FINANCIAL tasks"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=fine-tune-the-gemma-3-27B-instruct-model-for-financial-tasks"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

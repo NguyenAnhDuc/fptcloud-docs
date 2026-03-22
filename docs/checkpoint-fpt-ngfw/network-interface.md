@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Network interface"
+sidebar_label: "Network Interface"
 title: "2. CheckPoint – FPT NGFW"
 source: "https://fptcloud.com/documents/checkpoint-fpt-ngfw/?doc=network-interface"
 parent: "https://fptcloud.com/documents/checkpoint-fpt-ngfw"

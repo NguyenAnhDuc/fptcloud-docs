@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Balance"
+sidebar_label: "To top up, please click on Add credit and refer to this guide."
 title: "Balance"
 source: "https://fptcloud.com/en/documents/ai_marketplace/?doc=balance"
 parent: "https://fptcloud.com/en/documents/ai_marketplace"

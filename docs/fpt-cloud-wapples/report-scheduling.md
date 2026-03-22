@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Report scheduling"
+sidebar_label: "Report Scheduling"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=report-scheduling"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

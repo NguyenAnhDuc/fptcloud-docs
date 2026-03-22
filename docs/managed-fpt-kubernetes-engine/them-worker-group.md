@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Them worker group"
+sidebar_label: "Thêm Worker Group"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=them-worker-group"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

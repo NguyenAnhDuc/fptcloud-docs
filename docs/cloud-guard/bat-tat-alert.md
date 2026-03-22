@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Bat tat alert"
+sidebar_label: "Bật/Tắt Alert"
 title: "2. FPT Cloud Guard"
 source: "https://fptcloud.com/documents/cloud-guard/?doc=bat-tat-alert"
 parent: "https://fptcloud.com/documents/cloud-guard"

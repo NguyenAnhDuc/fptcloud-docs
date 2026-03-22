@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quan ly redirection host"
+sidebar_label: "Quản lý Redirection Host"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=quan-ly-redirection-host"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

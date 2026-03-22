@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly credential"
+sidebar_label: "Quản lý Credential"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=quan-ly-credential"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

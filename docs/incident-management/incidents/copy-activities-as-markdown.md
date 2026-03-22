@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Copy activities as markdown"
+sidebar_label: "Copy activites as markdown"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=copy-activities-as-markdown"
 parent: "https://fptcloud.com/documents/incident-management"

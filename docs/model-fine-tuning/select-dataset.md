@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Select Dataset"
+sidebar_label: "Here’s what good dataset quality enables:"
 title: "Select Dataset"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=select-dataset"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

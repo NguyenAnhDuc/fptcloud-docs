@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly consumers"
+sidebar_label: "Quản lý Consumers"
 title: "2. FPT API Management"
 source: "https://fptcloud.com/documents/fpt-api-management/?doc=quan-ly-consumers"
 parent: "https://fptcloud.com/documents/fpt-api-management"

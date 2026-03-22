@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Khai bao thong tin tren apimanager application"
+sidebar_label: "Khai báo thông tin trên ApiManager Application"
 title: "2. FPT API Management"
 source: "https://fptcloud.com/documents/fpt-api-management/?doc=khai-bao-thong-tin-tren-apimanager-application"
 parent: "https://fptcloud.com/documents/fpt-api-management"

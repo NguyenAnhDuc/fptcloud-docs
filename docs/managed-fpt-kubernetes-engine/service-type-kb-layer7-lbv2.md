@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Service type kb layer7 lbv2"
+sidebar_label: "Sử dụng service type Loadbalancer Layer 7 (LBv2)"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=service-type-kb-layer7-lbv2"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

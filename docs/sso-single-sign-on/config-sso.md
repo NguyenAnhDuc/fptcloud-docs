@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Config sso"
+sidebar_label: "Cấu hình SSO"
 title: "2. SSO – Single sign-on"
 source: "https://fptcloud.com/documents/sso-single-sign-on/?doc=config-sso"
 parent: "https://fptcloud.com/documents/sso-single-sign-on"

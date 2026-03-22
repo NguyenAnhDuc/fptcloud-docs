@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Lien he ho tro"
+sidebar_label: "Liên hệ hỗ trợ"
 title: "2. FPT Monitoring – IP Access Control"
 source: "https://fptcloud.com/documents/fpt-monitoring-ip-access-control/?doc=lien-he-ho-tro"
 parent: "https://fptcloud.com/documents/fpt-monitoring-ip-access-control"

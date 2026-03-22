@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Initial Setup"
+sidebar_label: "Setting"
 title: "Initial Setup"
 source: "https://fptcloud.com/en/documents/49036/?doc=initial-setup"
 parent: "https://fptcloud.com/en/documents/49036"

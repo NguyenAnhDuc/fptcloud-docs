@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xoa kubernetes cluster"
+sidebar_label: "Xóa Kubernetes Cluster"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=xoa-kubernetes-cluster"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

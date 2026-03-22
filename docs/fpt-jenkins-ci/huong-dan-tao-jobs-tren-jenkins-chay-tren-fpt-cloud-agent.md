@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Huong dan tao jobs tren jenkins chay tren fpt cloud agent"
+sidebar_label: "Hướng dẫn tạo jobs trên Jenkins chạy trên FPT Cloud Agent"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=huong-dan-tao-jobs-tren-jenkins-chay-tren-fpt-cloud-agent"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

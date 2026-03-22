@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Enable HSTS to HTTPS Listener"
+sidebar_label: "Người dùng Enable HSTS để sử dụng tính năng:"
 title: "Enable HSTS to HTTPS Listener"
 source: "https://fptcloud.com/documents/load-balancer/?doc=enable-hsts-to-http-listener"
 parent: "https://fptcloud.com/documents/load-balancer"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How to add credits?"
+sidebar_label: "To start using the AI Factory services with the PAYG billing plan, you need to buy credits first."
 title: "How to add credits?"
 source: "https://fptcloud.com/en/documents/ai-factory-billing/?doc=add-credits"
 parent: "https://fptcloud.com/en/documents/ai-factory-billing"

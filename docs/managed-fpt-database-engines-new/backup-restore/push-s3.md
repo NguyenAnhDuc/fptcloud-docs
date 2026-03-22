@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Push s3"
+sidebar_label: "Đẩy dữ liệu backup lên S3"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=push-s3"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

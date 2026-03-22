@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Detection logs"
+sidebar_label: "Detection Logs"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=detection-logs"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

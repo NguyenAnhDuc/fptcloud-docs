@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tao report"
+sidebar_label: "Tạo report"
 title: "2. FPT Reporting"
 source: "https://fptcloud.com/documents/reporting/?doc=tao-report"
 parent: "https://fptcloud.com/documents/reporting"

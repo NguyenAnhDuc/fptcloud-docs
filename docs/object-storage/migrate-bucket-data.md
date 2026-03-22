@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Migrate Bucket Data"
+sidebar_label: "Migrate bucket data"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/?doc=migrate-bucket-data"
 parent: "https://fptcloud.com/documents/object-storage"

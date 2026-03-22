@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Overview"
+sidebar_label: "To estimate the amount of credits you may need, please refer to the pricing pages:"
 title: "Overview"
 source: "https://fptcloud.com/en/documents/ai-factory-billing/?doc=overview"
 parent: "https://fptcloud.com/en/documents/ai-factory-billing"

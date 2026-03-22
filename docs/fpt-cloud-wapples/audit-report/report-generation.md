@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Report generation"
+sidebar_label: "Report Generation"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=report-generation"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

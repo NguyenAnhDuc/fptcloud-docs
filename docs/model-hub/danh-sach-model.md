@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Danh sach model"
+sidebar_label: "Danh sách model"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=danh-sach-model"
 parent: "https://fptcloud.com/documents/model-hub"

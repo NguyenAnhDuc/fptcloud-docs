@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Create Connection"
+sidebar_label: "Name : Enter connection name"
 title: "Create Connection"
 source: "https://fptcloud.com/en/documents/data-hub/?doc=create-connection"
 parent: "https://fptcloud.com/en/documents/data-hub"

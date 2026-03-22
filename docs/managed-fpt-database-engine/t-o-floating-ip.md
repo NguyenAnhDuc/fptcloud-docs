@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "T o floating ip"
+sidebar_label: "Tạo Floating IP"
 title: "2. Managed – FPT Database Engine"
 source: "https://fptcloud.com/documents/managed-fpt-database-engine/?doc=tạo-floating-IP"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engine"

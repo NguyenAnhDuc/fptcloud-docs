@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xem danh sach kubernetes cluster da tao"
+sidebar_label: "Xem danh sách Kubernetes Cluster đã tạo"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=xem-danh-sach-kubernetes-cluster-da-tao"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

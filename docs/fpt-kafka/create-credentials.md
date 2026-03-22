@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Create Credentials"
+sidebar_label: "Username (required)"
 title: "Create Credentials"
 source: "https://fptcloud.com/en/documents/fpt-kafka/?doc=create-credentials"
 parent: "https://fptcloud.com/en/documents/fpt-kafka"

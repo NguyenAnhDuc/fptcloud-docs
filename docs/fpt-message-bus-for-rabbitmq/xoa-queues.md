@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xoa queues"
+sidebar_label: "Xóa queues"
 title: "2. FPT Message Bus for RabbitMQ"
 source: "https://fptcloud.com/documents/fpt-message-bus-for-rabbitmq/?doc=xoa-queues"
 parent: "https://fptcloud.com/documents/fpt-message-bus-for-rabbitmq"

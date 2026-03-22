@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Mfke faqs"
+sidebar_label: "FAQs"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=mfke-faqs"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

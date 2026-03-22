@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Danh sach model catalog"
+sidebar_label: "Danh sách Model catalog"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=danh-sach-model-catalog"
 parent: "https://fptcloud.com/documents/model-hub"

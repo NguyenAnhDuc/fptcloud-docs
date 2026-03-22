@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Terms & Definitions"
+sidebar_label: "Model | Model or AI model is a computer program designed to simulate human intelligence"
 title: "Terms & Definitions"
 source: "https://fptcloud.com/en/documents/model-serving/?doc=terms-definitions"
 parent: "https://fptcloud.com/en/documents/model-serving"

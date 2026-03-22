@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "User management tab"
+sidebar_label: "3.4. User Management Tab"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=user-management-tab"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

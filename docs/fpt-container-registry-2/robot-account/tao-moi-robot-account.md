@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tao moi robot account"
+sidebar_label: "Tạo mới Robot Account"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=tao-moi-robot-account"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

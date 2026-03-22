@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Backup list"
+sidebar_label: "Backup List"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=backup-list"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

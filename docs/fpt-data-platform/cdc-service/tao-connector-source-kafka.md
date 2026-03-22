@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tao connector source kafka"
+sidebar_label: "2.20 Tạo connector source Kafka"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=tao-connector-source-kafka"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Docker login"
+sidebar_label: "Docker Login"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=docker-login"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

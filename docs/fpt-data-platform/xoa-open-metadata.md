@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xoa open metadata"
+sidebar_label: "Xóa Open Metadata"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xoa-open-metadata"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

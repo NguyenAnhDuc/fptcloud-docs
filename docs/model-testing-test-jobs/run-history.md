@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Run History"
+sidebar_label: "Run history provides a detailed log of all testing runs for a selected model."
 title: "Run History"
 source: "https://fptcloud.com/en/documents/model-testing-test-jobs/?doc=run-history"
 parent: "https://fptcloud.com/en/documents/model-testing-test-jobs"

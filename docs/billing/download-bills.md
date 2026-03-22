@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Download bills"
+sidebar_label: "Tải file đối soát chi tiết"
 title: "2. Bills"
 source: "https://fptcloud.com/documents/billing/?doc=download-bills"
 parent: "https://fptcloud.com/documents/billing"

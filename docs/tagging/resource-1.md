@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Resource 1"
+sidebar_label: "Manage tag to Resource"
 title: "2. Tagging"
 source: "https://fptcloud.com/documents/tagging/?doc=resource-1"
 parent: "https://fptcloud.com/documents/tagging"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Clickhouse use ha"
+sidebar_label: "ClickHouse - High Availability (HA)"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=clickhouse-use-ha"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

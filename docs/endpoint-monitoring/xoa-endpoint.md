@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xoa endpoint"
+sidebar_label: "Xóa endpoint"
 title: "2. Endpoint monitoring"
 source: "https://fptcloud.com/documents/endpoint-monitoring/?doc=xoa-endpoint"
 parent: "https://fptcloud.com/documents/endpoint-monitoring"

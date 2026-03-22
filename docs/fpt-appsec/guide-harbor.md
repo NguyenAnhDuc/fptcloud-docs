@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Guide harbor"
+sidebar_label: "Harbor"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=guide-harbor"
 parent: "https://fptcloud.com/documents/fpt-appsec"

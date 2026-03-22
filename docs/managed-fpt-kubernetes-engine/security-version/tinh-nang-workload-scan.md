@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tinh nang workload scan"
+sidebar_label: "Tính năng Workload Managed Kubernetes Cluster"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=tinh-nang-workload-scan"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

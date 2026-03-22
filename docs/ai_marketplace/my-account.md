@@ -1,5 +1,5 @@
 ---
-sidebar_label: "My Account"
+sidebar_label: "To check your API keys, please follow the instruction below:"
 title: "My Account"
 source: "https://fptcloud.com/en/documents/ai_marketplace/?doc=my-account"
 parent: "https://fptcloud.com/en/documents/ai_marketplace"

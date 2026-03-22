@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Run Job"
+sidebar_label: "2. Find the Job you want to start and click the 3-dot icon in the Actions column"
 title: "Run Job"
 source: "https://fptcloud.com/en/documents/model-testing-test-jobs/?doc=run-job"
 parent: "https://fptcloud.com/en/documents/model-testing-test-jobs"

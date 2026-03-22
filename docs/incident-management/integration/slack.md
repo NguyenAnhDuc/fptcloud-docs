@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Slack"
+sidebar_label: "E. Slack"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=slack"
 parent: "https://fptcloud.com/documents/incident-management"

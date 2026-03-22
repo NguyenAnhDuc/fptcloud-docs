@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Update cau hinh oidc"
+sidebar_label: "Update cấu hình OIDC"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=update-cau-hinh-oidc"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

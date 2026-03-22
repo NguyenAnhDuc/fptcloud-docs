@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Sdk Api Reference"
+sidebar_label: "SDK API Reference"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/?doc=SDK-API-Reference"
 parent: "https://fptcloud.com/documents/object-storage"

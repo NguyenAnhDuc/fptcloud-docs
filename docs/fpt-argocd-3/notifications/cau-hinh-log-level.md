@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Cau hinh log level"
+sidebar_label: "Cấu hình Log Level"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=cau-hinh-log-level"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

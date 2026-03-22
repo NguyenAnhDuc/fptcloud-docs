@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Enable disable argocd images updater"
+sidebar_label: "Enable/disable ArgoCD images updater"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=enable-disable-argocd-images-updater"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

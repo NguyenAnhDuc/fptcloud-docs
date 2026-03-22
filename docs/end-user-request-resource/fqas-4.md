@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Fqas 4"
+sidebar_label: "Vì sao tôi không tìm thấy phần Request Resource ở thành menu?"
 title: "2. Request Resource"
 source: "https://fptcloud.com/documents/end-user-request-resource/?doc=fqas-4"
 parent: "https://fptcloud.com/documents/end-user-request-resource"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Best practice upgrade fke cluster version"
+sidebar_label: "Best Practice Upgrade FKE Cluster Version"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=best-practice-upgrade-fke-cluster-version"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

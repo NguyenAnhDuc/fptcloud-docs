@@ -1,5 +1,5 @@
 ---
-sidebar_label: "pfSense Network Gateway"
+sidebar_label: "Go to the official pfSense website: <https://www.pfsense.org/download/>"
 title: "pfSense Network Gateway"
 source: "https://fptcloud.com/en/documents/gpu-virtual-machine-en/?doc=pfsense-network-gateway"
 parent: "https://fptcloud.com/en/documents/gpu-virtual-machine-en"

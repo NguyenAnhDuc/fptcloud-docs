@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tutorials Permissions"
+sidebar_label: "Permissions"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/?doc=tutorials-permissions"
 parent: "https://fptcloud.com/documents/object-storage"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quan ly security rule sets"
+sidebar_label: "Quản lý Security Rule Sets"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=quan-ly-security-rule-sets"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

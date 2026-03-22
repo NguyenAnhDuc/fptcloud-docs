@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Delete Credentials"
+sidebar_label: "In order to delete a credential, follow the steps:"
 title: "Delete Credentials"
 source: "https://fptcloud.com/en/documents/fpt-kafka/?doc=delete-credentials"
 parent: "https://fptcloud.com/en/documents/fpt-kafka"

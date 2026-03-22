@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Attach schedule to instance"
+sidebar_label: "Gắn một hoặc nhiều máy ảo vào instance schedule"
 title: "2. Auto Schedule To On-Off Instance"
 source: "https://fptcloud.com/documents/auto-schedule-to-on-off-instance/?doc=attach-schedule-to-instance"
 parent: "https://fptcloud.com/documents/auto-schedule-to-on-off-instance"

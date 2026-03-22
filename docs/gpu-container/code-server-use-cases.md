@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Code Server Use Cases"
+sidebar_label: "sudo apt update && sudo apt install -y python3 python3-pip python3-venv git"
 title: "Code Server Use Cases"
 source: "https://fptcloud.com/en/documents/gpu-container/?doc=code-server-use-cases"
 parent: "https://fptcloud.com/en/documents/gpu-container"

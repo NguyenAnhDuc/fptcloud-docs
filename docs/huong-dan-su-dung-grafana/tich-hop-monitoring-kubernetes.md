@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tich hop monitoring kubernetes"
+sidebar_label: "Tich Hop Monitoring Kubernetes"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=tich-hop-monitoring-kubernetes"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"

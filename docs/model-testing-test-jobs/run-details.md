@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Run Details"
+sidebar_label: "You can see:"
 title: "Run Details"
 source: "https://fptcloud.com/en/documents/model-testing-test-jobs/?doc=run-details"
 parent: "https://fptcloud.com/en/documents/model-testing-test-jobs"

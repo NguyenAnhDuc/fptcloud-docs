@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Maintenance"
+sidebar_label: "Bảo trì dịch vụ"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=maintenance"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

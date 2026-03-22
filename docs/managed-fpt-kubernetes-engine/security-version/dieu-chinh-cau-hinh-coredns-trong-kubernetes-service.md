@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Dieu chinh cau hinh coredns trong kubernetes service"
+sidebar_label: "Điều chỉnh cấu hình CoreDNS trong Kubernetes Service"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=dieu-chinh-cau-hinh-coredns-trong-kubernetes-service"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

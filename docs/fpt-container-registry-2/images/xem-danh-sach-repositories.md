@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xem danh sach repositories"
+sidebar_label: "Xem danh sách Repositories"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=xem-danh-sach-repositories"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

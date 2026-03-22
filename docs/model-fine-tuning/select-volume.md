@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Select Volume"
+sidebar_label: "We offer two volume types:"
 title: "Select Volume"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=select-volume"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

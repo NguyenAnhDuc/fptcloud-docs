@@ -1,5 +1,5 @@
 ---
-sidebar_label: "(Standard) Select Data Format"
+sidebar_label: "Only select data format when you choose test suite = standard"
 title: "(Standard) Select Data Format"
 source: "https://fptcloud.com/en/documents/model-testing-test-jobs/?doc=standard-select-data-format"
 parent: "https://fptcloud.com/en/documents/model-testing-test-jobs"

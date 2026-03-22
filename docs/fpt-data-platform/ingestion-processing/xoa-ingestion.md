@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xoa ingestion"
+sidebar_label: "Xóa Ingestion"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xoa-ingestion"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quick Start"
+sidebar_label: "Sign up for an account at:"
 title: "Quick Start"
 source: "https://fptcloud.com/en/documents/ai-factory-billing/?doc=quick-start"
 parent: "https://fptcloud.com/en/documents/ai-factory-billing"

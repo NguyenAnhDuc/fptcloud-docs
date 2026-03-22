@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Role Overview"
+sidebar_label: "Role: Vai trò của người dùng trong tổ chức, quy định các quyền mà user có khả năng thực hiện."
 title: "Role Overview"
 source: "https://fptcloud.com/documents/iam/?doc=Role-Overview"
 parent: "https://fptcloud.com/documents/iam"

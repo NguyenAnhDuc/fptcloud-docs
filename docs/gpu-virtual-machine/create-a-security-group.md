@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Create a Security Group"
+sidebar_label: "The total number of rules across all Security Groups is limited to 100."
 title: "Create a Security Group"
 source: "https://fptcloud.com/en/documents/gpu-virtual-machine-en/?doc=create-a-security-group"
 parent: "https://fptcloud.com/en/documents/gpu-virtual-machine-en"

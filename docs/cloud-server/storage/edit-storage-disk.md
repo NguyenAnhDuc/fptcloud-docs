@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Edit Storage Disk"
+sidebar_label: "Chỉnh sửa thông tin storage disk"
 title: "Edit Storage Disk"
 source: "https://fptcloud.com/documents/cloud-server/?doc=edit-storage-disk"
 parent: "https://fptcloud.com/documents/cloud-server"

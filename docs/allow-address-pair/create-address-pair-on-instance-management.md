@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Create address pair on instance management"
+sidebar_label: "Khởi tạo Address pair trong quản lý Instance"
 title: "2. Allow Address Pair"
 source: "https://fptcloud.com/documents/allow-address-pair/?doc=create-address-pair-on-instance-management"
 parent: "https://fptcloud.com/documents/allow-address-pair"

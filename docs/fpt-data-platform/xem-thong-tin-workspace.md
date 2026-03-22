@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xem thong tin workspace"
+sidebar_label: "Xem thông tin workspace"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xem-thong-tin-workspace"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Report export"
+sidebar_label: "Xuất báo cáo thủ công (Report Export)"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=report-export"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

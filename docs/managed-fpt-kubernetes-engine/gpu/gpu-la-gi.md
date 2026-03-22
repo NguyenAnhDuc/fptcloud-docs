@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Gpu la gi"
+sidebar_label: "GPU là gì?"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=gpu-la-gi"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

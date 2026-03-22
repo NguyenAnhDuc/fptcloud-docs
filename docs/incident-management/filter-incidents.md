@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Filter incidents"
+sidebar_label: "Search/Filter incidents"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=filter-incidents"
 parent: "https://fptcloud.com/documents/incident-management"

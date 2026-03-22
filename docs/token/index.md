@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Overviews"
+sidebar_label: "Token"
 title: "2. Token"
 source: "https://fptcloud.com/documents/token/"
 lang: vi

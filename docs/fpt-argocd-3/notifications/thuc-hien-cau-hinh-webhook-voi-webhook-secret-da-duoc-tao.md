@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Thuc hien cau hinh webhook voi webhook secret da duoc tao"
+sidebar_label: "Thực hiện cấu hình Webhook với webhook secret đã được tạo"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=thuc-hien-cau-hinh-webhook-voi-webhook-secret-da-duoc-tao"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

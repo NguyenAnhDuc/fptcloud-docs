@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Initial setup"
+sidebar_label: "Initial Setup"
 title: "2. Request Resource"
 source: "https://fptcloud.com/documents/end-user-request-resource/?doc=initial-setup"
 parent: "https://fptcloud.com/documents/end-user-request-resource"

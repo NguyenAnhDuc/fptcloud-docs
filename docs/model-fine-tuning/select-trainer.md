@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Select Trainer"
+sidebar_label: "Select the appropriate trainer - which guides the model you select for training."
 title: "Select Trainer"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=select-trainer"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

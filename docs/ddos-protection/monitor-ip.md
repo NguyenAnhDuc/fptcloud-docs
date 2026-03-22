@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Monitor ip"
+sidebar_label: "Monitor các IP đang được bảo vệ"
 title: "2. DdoS Protection"
 source: "https://fptcloud.com/documents/ddos-protection/?doc=monitor-ip"
 parent: "https://fptcloud.com/documents/ddos-protection"

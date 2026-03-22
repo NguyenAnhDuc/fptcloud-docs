@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Thay doi cau hinh k8s cluster"
+sidebar_label: "Thay đổi cấu hình K8s Cluster"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=thay-doi-cau-hinh-k8s-cluster"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

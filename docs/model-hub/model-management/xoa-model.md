@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xoa model"
+sidebar_label: "Xóa model"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=xoa-model"
 parent: "https://fptcloud.com/documents/model-hub"

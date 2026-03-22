@@ -1,5 +1,5 @@
 ---
-sidebar_label: "FAQ"
+sidebar_label: "GPU Flavor: Startup typically takes 45 seconds to 1 minute."
 title: "FAQ"
 source: "https://fptcloud.com/en/documents/ai-notebook/?doc=faq"
 parent: "https://fptcloud.com/en/documents/ai-notebook"

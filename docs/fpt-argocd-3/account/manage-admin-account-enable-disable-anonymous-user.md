@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Manage admin account enable disable anonymous user"
+sidebar_label: "Manage Admin account, Enable/disable Anonymous User"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=manage-admin-account-enable-disable-anonymous-user"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

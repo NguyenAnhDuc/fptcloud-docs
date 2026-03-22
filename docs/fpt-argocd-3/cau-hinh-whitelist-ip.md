@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Cau hinh whitelist ip"
+sidebar_label: "Cấu hình Whitelist IP"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=cau-hinh-whitelist-ip"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

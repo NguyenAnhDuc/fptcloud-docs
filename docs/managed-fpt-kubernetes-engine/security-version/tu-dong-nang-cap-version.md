@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tu dong nang cap version"
+sidebar_label: "Tính năng tự động nâng cấp phiên bản (Automatic Upgrade Version)"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=tu-dong-nang-cap-version"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

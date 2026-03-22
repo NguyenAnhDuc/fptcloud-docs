@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Persistent storage"
+sidebar_label: "Persistent Storage"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=persistent-storage"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

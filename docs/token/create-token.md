@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Create token"
+sidebar_label: "Create Token"
 title: "2. Token"
 source: "https://fptcloud.com/documents/token/?doc=create-token"
 parent: "https://fptcloud.com/documents/token"

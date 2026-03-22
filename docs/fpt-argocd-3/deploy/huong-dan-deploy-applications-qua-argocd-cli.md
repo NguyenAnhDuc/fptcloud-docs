@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Huong dan deploy applications qua argocd cli"
+sidebar_label: "Hướng dẫn deploy applications qua argocd cli"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=huong-dan-deploy-applications-qua-argocd-cli"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

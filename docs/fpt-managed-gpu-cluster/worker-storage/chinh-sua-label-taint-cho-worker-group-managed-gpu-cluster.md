@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Chinh sua label taint cho worker group managed gpu cluster"
+sidebar_label: "Chỉnh sửa label/taint cho Worker Group"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=chinh-sua-label-taint-cho-worker-group-managed-gpu-cluster"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

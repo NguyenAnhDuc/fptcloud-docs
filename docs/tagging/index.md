@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Initial Setup"
+sidebar_label: "Tagging"
 title: "2. Tagging"
 source: "https://fptcloud.com/documents/tagging/"
 lang: vi

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Initial Setup"
+sidebar_label: "To begin using FPT Model Serving, you need to log in to FPT Portal."
 title: "Initial Setup"
 source: "https://fptcloud.com/en/documents/model-serving/?doc=initial-set-up"
 parent: "https://fptcloud.com/en/documents/model-serving"

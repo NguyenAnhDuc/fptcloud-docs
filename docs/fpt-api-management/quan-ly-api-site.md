@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly api site"
+sidebar_label: "Quản lý API site"
 title: "2. FPT API Management"
 source: "https://fptcloud.com/documents/fpt-api-management/?doc=quan-ly-api-site"
 parent: "https://fptcloud.com/documents/fpt-api-management"

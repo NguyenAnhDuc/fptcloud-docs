@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xem thong tin open metadata service"
+sidebar_label: "Xem thông tin Open Metadata service"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xem-thong-tin-open-metadata-service"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

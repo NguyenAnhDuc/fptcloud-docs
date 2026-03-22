@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "File storage high performance"
+sidebar_label: "Hướng dẫn tích hợp File Storage – High Performance"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=file-storage-high-performance"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

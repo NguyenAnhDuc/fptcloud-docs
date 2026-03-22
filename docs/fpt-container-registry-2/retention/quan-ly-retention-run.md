@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quan ly retention run"
+sidebar_label: "Quản lý Retention Run"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=quan-ly-retention-run"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

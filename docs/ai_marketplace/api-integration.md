@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How to integrate API into your system?"
+sidebar_label: "Please find the guide for:"
 title: "How to integrate API into your system?"
 source: "https://fptcloud.com/en/documents/ai_marketplace/?doc=api-integration"
 parent: "https://fptcloud.com/en/documents/ai_marketplace"

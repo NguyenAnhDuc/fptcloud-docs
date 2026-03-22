@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tutorials Bucket"
+sidebar_label: "Bucket"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/?doc=tutorials-bucket"
 parent: "https://fptcloud.com/documents/object-storage"

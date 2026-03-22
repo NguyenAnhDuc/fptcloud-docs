@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quan ly configuration"
+sidebar_label: "Quản lý Configuration"
 title: "2. Managed – FPT Database Engine"
 source: "https://fptcloud.com/documents/managed-fpt-database-engine/?doc=Quan-ly-Configuration"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engine"

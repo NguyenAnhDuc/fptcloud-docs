@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xoa superset"
+sidebar_label: "Xóa superset"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xoa-superset"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

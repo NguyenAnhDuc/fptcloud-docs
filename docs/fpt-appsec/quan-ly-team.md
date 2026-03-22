@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly team"
+sidebar_label: "Team Management - Quản lý Team"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=quan-ly-team"
 parent: "https://fptcloud.com/documents/fpt-appsec"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Microsoft teams"
+sidebar_label: "G. Microsoft Teams"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=microsoft-teams"
 parent: "https://fptcloud.com/documents/incident-management"

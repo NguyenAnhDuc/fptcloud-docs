@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xay Dung Mot Website Tinh Bang Fpt Object Storage"
+sidebar_label: "Xây dựng một website tĩnh bằng FPT Object Storage"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/?doc=xay-dung-mot-website-tinh-bang-fpt-object-storage"
 parent: "https://fptcloud.com/documents/object-storage"

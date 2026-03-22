@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Them moi mot agent"
+sidebar_label: "Thêm mới một Agent"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=them-moi-mot-agent"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

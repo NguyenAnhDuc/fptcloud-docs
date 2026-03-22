@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Low Balance Threshold Alert"
+sidebar_label: "By default, this feature is disabled."
 title: "Low Balance Threshold Alert"
 source: "https://fptcloud.com/en/documents/ai-factory-billing/?doc=low-balance-threshold-alert"
 parent: "https://fptcloud.com/en/documents/ai-factory-billing"

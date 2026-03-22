@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Billing permission"
+sidebar_label: "Phân quyền xem billing"
 title: "2. Bills"
 source: "https://fptcloud.com/documents/billing/?doc=billing-permission"
 parent: "https://fptcloud.com/documents/billing"

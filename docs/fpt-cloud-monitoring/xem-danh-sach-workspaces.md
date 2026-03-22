@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xem danh sach workspaces"
+sidebar_label: "Xem Danh Sach Workspaces"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=xem-danh-sach-workspaces"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

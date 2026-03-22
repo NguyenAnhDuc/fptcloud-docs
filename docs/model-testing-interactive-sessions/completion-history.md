@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Completion History"
+sidebar_label: "2. You can browse through the list or use the search bar to find specific completions using:"
 title: "Completion History"
 source: "https://fptcloud.com/en/documents/model-testing-interactive-sessions/?doc=completion-history"
 parent: "https://fptcloud.com/en/documents/model-testing-interactive-sessions"

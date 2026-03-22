@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Cap nhat thong tin security"
+sidebar_label: "Cập nhật thông tin Security"
 title: "2. FPT Event Gateway"
 source: "https://fptcloud.com/documents/fpt-event-gateway/?doc=cap-nhat-thong-tin-security"
 parent: "https://fptcloud.com/documents/fpt-event-gateway"

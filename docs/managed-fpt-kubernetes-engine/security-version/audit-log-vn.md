@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Audit log vn"
+sidebar_label: "Audit Logs - Managed Kubernetes Cluster"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=audit-log-vn"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

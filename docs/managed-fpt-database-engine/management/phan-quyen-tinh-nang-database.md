@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Phan quyen tinh nang database"
+sidebar_label: "Phân quyền tính năng Database"
 title: "2. Managed – FPT Database Engine"
 source: "https://fptcloud.com/documents/managed-fpt-database-engine/?doc=Phan-quyen-tinh-nang-Database"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engine"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tinh nang rotate kubeconfig"
+sidebar_label: "Tính năng Rotate Kubeconfig"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=tinh-nang-rotate-kubeconfig"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

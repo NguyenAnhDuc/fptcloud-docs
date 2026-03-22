@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Dieu tra log"
+sidebar_label: "Điều tra Log"
 title: "2. CheckPoint – FPT NGFW"
 source: "https://fptcloud.com/documents/checkpoint-fpt-ngfw/?doc=dieu-tra-log"
 parent: "https://fptcloud.com/documents/checkpoint-fpt-ngfw"

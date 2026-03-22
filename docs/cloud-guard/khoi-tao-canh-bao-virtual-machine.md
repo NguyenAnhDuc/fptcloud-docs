@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Khoi tao canh bao virtual machine"
+sidebar_label: "Khởi tạo cảnh báo cho Virtual Machine (VM)"
 title: "2. FPT Cloud Guard"
 source: "https://fptcloud.com/documents/cloud-guard/?doc=khoi-tao-canh-bao-virtual-machine"
 parent: "https://fptcloud.com/documents/cloud-guard"

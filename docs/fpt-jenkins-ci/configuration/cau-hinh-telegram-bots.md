@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Cau hinh telegram bots"
+sidebar_label: "Cấu hình Telegram Bots"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=cau-hinh-telegram-bots"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

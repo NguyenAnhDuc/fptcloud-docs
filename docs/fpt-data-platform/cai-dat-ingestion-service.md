@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Cai dat ingestion service"
+sidebar_label: "Ingestion service"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=cai-dat-ingestion-service"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

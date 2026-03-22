@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Client task"
+sidebar_label: "Quản lý các tác vụ chạy trên máy chủ (Client Tasks)"
 title: "2. Trellix Customer Guide"
 source: "https://fptcloud.com/documents/trellix-customer-guide/?doc=client-task"
 parent: "https://fptcloud.com/documents/trellix-customer-guide"

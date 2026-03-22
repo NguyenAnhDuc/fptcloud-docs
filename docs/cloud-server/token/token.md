@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Token"
+sidebar_label: "Tính năng Token giúp khách hàng có thể sử dụng các tính năng như Terraform, API thông qua token."
 title: "Token"
 source: "https://fptcloud.com/documents/cloud-server/?doc=token"
 parent: "https://fptcloud.com/documents/cloud-server"

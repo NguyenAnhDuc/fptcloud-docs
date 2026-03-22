@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Grafana webhook"
+sidebar_label: "B. Grafana webhook"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=grafana-webhook"
 parent: "https://fptcloud.com/documents/incident-management"

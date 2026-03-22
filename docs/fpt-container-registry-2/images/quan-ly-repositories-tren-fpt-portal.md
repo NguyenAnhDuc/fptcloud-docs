@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quan ly repositories tren fpt portal"
+sidebar_label: "Quản lý Repositories trên FPT Portal"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=quan-ly-repositories-tren-fpt-portal"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

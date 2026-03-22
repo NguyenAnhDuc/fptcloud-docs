@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Service status"
+sidebar_label: "Service Status"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=service-status"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

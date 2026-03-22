@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Kafka user"
+sidebar_label: "Apache Kafka - Quản lý Kafka ACL"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=kafka-user"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

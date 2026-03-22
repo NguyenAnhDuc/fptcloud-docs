@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Initial setup"
+sidebar_label: "Initial Setup"
 title: "2. Managed – FPT Database Engine"
 source: "https://fptcloud.com/documents/managed-fpt-database-engine/?doc=Initial-setup"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engine"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "(Standard) Select Test Data"
+sidebar_label: "You have two ways to transfer the Test data :"
 title: "(Standard) Select Test Data"
 source: "https://fptcloud.com/en/documents/model-testing-test-jobs/?doc=standard-select-test-data"
 parent: "https://fptcloud.com/en/documents/model-testing-test-jobs"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "FPT Cloud WAPPLES"
+sidebar_label: "Overview"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=overview"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

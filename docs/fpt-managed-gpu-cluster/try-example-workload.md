@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Try example workload"
+sidebar_label: "Triển khai workload GPU mẫu lên Managed GPU Cluster"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=try-example-workload"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

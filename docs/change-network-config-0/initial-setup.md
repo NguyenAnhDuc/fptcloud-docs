@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Initial setup"
+sidebar_label: "Initial Setup"
 title: "2. Change Network Config"
 source: "https://fptcloud.com/documents/change-network-config-0/?doc=initial-setup"
 parent: "https://fptcloud.com/documents/change-network-config-0"

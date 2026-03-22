@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xoa hive metastore"
+sidebar_label: "Xóa Hive Metastore"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xoa-hive-metastore"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

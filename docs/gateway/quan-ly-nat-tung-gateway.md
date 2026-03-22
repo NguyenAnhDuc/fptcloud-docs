@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly nat tung gateway"
+sidebar_label: "Hệ thống cho phép người dùng quản lý NAT rule trong từng Gateway"
 title: "2. Gateway"
 source: "https://fptcloud.com/documents/gateway/?doc=quan-ly-nat-tung-gateway"
 parent: "https://fptcloud.com/documents/gateway"

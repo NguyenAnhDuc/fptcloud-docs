@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Clone instance"
+sidebar_label: "Tính năng Clone instance giúp tạo ra instance mới giống với instance gốc."
 title: "Clone instance"
 source: "https://fptcloud.com/documents/cloud-server/?doc=clone-instance"
 parent: "https://fptcloud.com/documents/cloud-server"

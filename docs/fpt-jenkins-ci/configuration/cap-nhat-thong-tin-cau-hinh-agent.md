@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Cap nhat thong tin cau hinh agent"
+sidebar_label: "Cập nhật thông tin cấu hình Agent"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=cap-nhat-thong-tin-cau-hinh-agent"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

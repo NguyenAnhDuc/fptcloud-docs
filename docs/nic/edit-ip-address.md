@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Edit ip address"
+sidebar_label: "Edit IP Address"
 title: "2. Network Interface Card (NIC)"
 source: "https://fptcloud.com/documents/nic/?doc=edit-ip-address"
 parent: "https://fptcloud.com/documents/nic"

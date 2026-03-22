@@ -1,5 +1,5 @@
 ---
-sidebar_label: "About Gpu Container"
+sidebar_label: "3. Quick Deployment : Spin up container with powerful GPU in 1-click using our built-in templates."
 title: "Overview"
 source: "https://fptcloud.com/en/documents/gpu-container/?doc=about-gpu-container"
 parent: "https://fptcloud.com/en/documents/gpu-container"

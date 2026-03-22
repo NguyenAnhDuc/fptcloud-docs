@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly account"
+sidebar_label: "Quản lý Account"
 title: "2. CheckPoint – FPT NGFW"
 source: "https://fptcloud.com/documents/checkpoint-fpt-ngfw/?doc=quan-ly-account"
 parent: "https://fptcloud.com/documents/checkpoint-fpt-ngfw"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "View detail instance"
+sidebar_label: "Xem chi tiết một instance schedule"
 title: "2. Auto Schedule To On-Off Instance"
 source: "https://fptcloud.com/documents/auto-schedule-to-on-off-instance/?doc=view-detail-instance"
 parent: "https://fptcloud.com/documents/auto-schedule-to-on-off-instance"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Create schedule"
+sidebar_label: "Hướng dẫn tạo schedule"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=create-schedule"
 parent: "https://fptcloud.com/documents/fpt-appsec"

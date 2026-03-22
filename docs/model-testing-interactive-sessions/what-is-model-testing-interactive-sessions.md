@@ -1,5 +1,5 @@
 ---
-sidebar_label: "What is Model Testing - Interactive Sessions?"
+sidebar_label: "Chat with the model using natural language inputs."
 title: "What is Model Testing - Interactive Sessions?"
 source: "https://fptcloud.com/en/documents/model-testing-interactive-sessions/?doc=what-is-model-testing-interactive-sessions"
 parent: "https://fptcloud.com/en/documents/model-testing-interactive-sessions"

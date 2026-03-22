@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How to Manage Pipeline?"
+sidebar_label: "It includes:"
 title: "How to Manage Pipeline?"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=how-to-manage-pipeline"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

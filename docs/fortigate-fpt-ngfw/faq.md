@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Faq"
+sidebar_label: "Login vào hệ thống, chọn System configuration."
 title: "2. Fortigate – FPT NGFW"
 source: "https://fptcloud.com/documents/fortigate-fpt-ngfw/?doc=FAQ"
 parent: "https://fptcloud.com/documents/fortigate-fpt-ngfw"

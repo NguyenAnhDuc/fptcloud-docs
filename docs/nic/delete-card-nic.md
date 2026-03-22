@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Delete card nic"
+sidebar_label: "Xóa Network Interface Card"
 title: "2. Network Interface Card (NIC)"
 source: "https://fptcloud.com/documents/nic/?doc=delete-card-NIC"
 parent: "https://fptcloud.com/documents/nic"

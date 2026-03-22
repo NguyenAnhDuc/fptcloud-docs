@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Access logs cho Load balancer"
+sidebar_label: "Để sử dụng tính năng Access Log , người dùng thao tác theo các bước sau:"
 title: "Access logs cho Load balancer"
 source: "https://fptcloud.com/documents/load-balancer/?doc=access-logs"
 parent: "https://fptcloud.com/documents/load-balancer"

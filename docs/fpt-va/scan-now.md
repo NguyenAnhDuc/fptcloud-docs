@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Scan now"
+sidebar_label: "4 Scan Now"
 title: "2. FPT Cloud VA"
 source: "https://fptcloud.com/documents/fpt-va/?doc=scan-now"
 parent: "https://fptcloud.com/documents/fpt-va"

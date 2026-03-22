@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Add instance instance group"
+sidebar_label: "Gắn máy ảo vào Instance Group"
 title: "2. Quản lý Instance Group với chính sách Affinity & Anti-Affinity"
 source: "https://fptcloud.com/documents/affinity-anti-affinity/?doc=add-instance-instance-group"
 parent: "https://fptcloud.com/documents/affinity-anti-affinity"

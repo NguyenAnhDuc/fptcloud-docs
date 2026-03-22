@@ -1,5 +1,5 @@
 ---
-sidebar_label: "User defined pattern"
+sidebar_label: "User Defined Pattern"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=user-defined-pattern"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

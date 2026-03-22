@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Question 1"
+sidebar_label: "Tôi có thể hiệu chỉnh các address pair đã khởi tạo không?"
 title: "2. Allow Address Pair"
 source: "https://fptcloud.com/documents/allow-address-pair/?doc=question-1"
 parent: "https://fptcloud.com/documents/allow-address-pair"

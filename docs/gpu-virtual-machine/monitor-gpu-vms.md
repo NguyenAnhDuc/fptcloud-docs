@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Monitor GPU VMs"
+sidebar_label: "Note: Metric data is retained for 30 days."
 title: "Monitor GPU VMs"
 source: "https://fptcloud.com/en/documents/gpu-virtual-machine-en/?doc=monitor-gpu-vms"
 parent: "https://fptcloud.com/en/documents/gpu-virtual-machine-en"

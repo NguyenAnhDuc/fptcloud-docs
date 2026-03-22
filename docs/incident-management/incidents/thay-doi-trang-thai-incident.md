@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Thay doi trang thai incident"
+sidebar_label: "Thay đổi trạng thái incident"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=thay-doi-trang-thai-incident"
 parent: "https://fptcloud.com/documents/incident-management"

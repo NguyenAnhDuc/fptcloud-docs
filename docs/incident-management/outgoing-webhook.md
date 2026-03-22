@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Outgoing webhook"
+sidebar_label: "C. Outgoing webhook"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=outgoing-webhook"
 parent: "https://fptcloud.com/documents/incident-management"

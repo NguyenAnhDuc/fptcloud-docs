@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How to connect to a container"
+sidebar_label: "Template | Jupyter, Code Server | Ollama WebUI | Ollama | vLLM"
 title: "How to connect to a container"
 source: "https://fptcloud.com/en/documents/gpu-container/?doc=connect-container"
 parent: "https://fptcloud.com/en/documents/gpu-container"

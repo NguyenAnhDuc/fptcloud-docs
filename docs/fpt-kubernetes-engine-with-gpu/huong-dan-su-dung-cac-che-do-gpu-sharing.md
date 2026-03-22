@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Huong dan su dung cac che do gpu sharing"
+sidebar_label: "Hướng dẫn sử dụng các chế độ GPU sharing"
 title: "2. FPT Kubernetes Engine with GPU"
 source: "https://fptcloud.com/documents/fpt-kubernetes-engine-with-gpu/?doc=huong-dan-su-dung-cac-che-do-gpu-sharing"
 parent: "https://fptcloud.com/documents/fpt-kubernetes-engine-with-gpu"

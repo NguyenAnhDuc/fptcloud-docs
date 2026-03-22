@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Dich vu gpu tren k8s"
+sidebar_label: "Dịch vụ GPU trên K8s FPT Cloud"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=dich-vu-gpu-tren-k8s"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

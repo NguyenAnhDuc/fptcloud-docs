@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Change static ip in ubuntu server"
+sidebar_label: "Sửa static IP trên Ubuntu server"
 title: "2. Change Network Config"
 source: "https://fptcloud.com/documents/change-network-config-0/?doc=change-static-IP-in-Ubuntu-server"
 parent: "https://fptcloud.com/documents/change-network-config-0"

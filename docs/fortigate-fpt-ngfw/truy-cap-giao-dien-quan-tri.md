@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Truy cap giao dien quan tri"
+sidebar_label: "Truy cập giao diện quản trị"
 title: "2. Fortigate – FPT NGFW"
 source: "https://fptcloud.com/documents/fortigate-fpt-ngfw/?doc=truy-cap-giao-dien-quan-tri"
 parent: "https://fptcloud.com/documents/fortigate-fpt-ngfw"

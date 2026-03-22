@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tao open metadata service"
+sidebar_label: "Tạo Open Metadata service"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=tao-open-metadata-service"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

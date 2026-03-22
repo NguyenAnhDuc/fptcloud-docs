@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Cau hoi thuong gap"
+sidebar_label: "Cau Hoi Thuong Gap"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=cau-hoi-thuong-gap"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"

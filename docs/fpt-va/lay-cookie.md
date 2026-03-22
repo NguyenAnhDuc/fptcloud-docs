@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Lay cookie"
+sidebar_label: "7 Hướng dẫn lấy Cookie trang web khi tạo mục tiêu quét"
 title: "2. FPT Cloud VA"
 source: "https://fptcloud.com/documents/fpt-va/?doc=lay-cookie"
 parent: "https://fptcloud.com/documents/fpt-va"

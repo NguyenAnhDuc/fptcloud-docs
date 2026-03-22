@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Deployment model"
+sidebar_label: "Mô hình triển khai"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=deployment-model"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

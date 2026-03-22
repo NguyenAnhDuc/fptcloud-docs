@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tutorials tao policy"
+sidebar_label: "Tạo Policy"
 title: "2. FPT Key Vault"
 source: "https://fptcloud.com/documents/fpt-key-vault/?doc=tutorials-tao-policy"
 parent: "https://fptcloud.com/documents/fpt-key-vault"

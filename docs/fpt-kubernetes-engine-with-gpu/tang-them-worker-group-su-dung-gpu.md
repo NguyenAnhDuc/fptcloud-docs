@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tang them worker group su dung gpu"
+sidebar_label: "Tăng thêm Worker Group sử dụng GPU"
 title: "2. FPT Kubernetes Engine with GPU"
 source: "https://fptcloud.com/documents/fpt-kubernetes-engine-with-gpu/?doc=tang-them-worker-group-su-dung-gpu"
 parent: "https://fptcloud.com/documents/fpt-kubernetes-engine-with-gpu"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Set up Infrastructure"
+sidebar_label: "We support both single-node and multi-node configurations, with a maximum of 16 nodes:"
 title: "Set up Infrastructure"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=set-up-infrastructure"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

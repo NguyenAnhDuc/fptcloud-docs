@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tags security group"
+sidebar_label: "Manage tag to Security group"
 title: "2. Tagging"
 source: "https://fptcloud.com/documents/tagging/?doc=tags-security-group"
 parent: "https://fptcloud.com/documents/tagging"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Web access management"
+sidebar_label: "Web Access Management"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=web-access-management"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How to Create Pipeline?"
+sidebar_label: "Select Base Model:"
 title: "How to Create Pipeline?"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=how-to-create-pipeline"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

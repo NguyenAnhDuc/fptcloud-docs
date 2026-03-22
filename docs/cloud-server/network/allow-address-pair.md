@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Allow address pair"
+sidebar_label: "Chọn Instance"
 title: "Allow address pair"
 source: "https://fptcloud.com/documents/cloud-server/?doc=allow-address-pair"
 parent: "https://fptcloud.com/documents/cloud-server"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Status Session"
+sidebar_label: "After you submit a session, it goes through different status:"
 title: "Status Session"
 source: "https://fptcloud.com/en/documents/model-testing-interactive-sessions/?doc=status-session"
 parent: "https://fptcloud.com/en/documents/model-testing-interactive-sessions"

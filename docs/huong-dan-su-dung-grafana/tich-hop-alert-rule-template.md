@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tich hop alert rule template"
+sidebar_label: "3.2. Tích hợp Alert rule template"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=tich-hop-alert-rule-template"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"

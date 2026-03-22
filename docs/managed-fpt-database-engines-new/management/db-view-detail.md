@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Db view detail"
+sidebar_label: "Xem thông tin cơ sở dữ liệu"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=db-view-detail"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

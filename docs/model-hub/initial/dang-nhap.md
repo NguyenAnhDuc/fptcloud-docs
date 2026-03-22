@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Dang nhap"
+sidebar_label: "Đăng nhập vào trang Portal"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=dang-nhap"
 parent: "https://fptcloud.com/documents/model-hub"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xoa proxy host"
+sidebar_label: "Xóa Proxy Host"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=xoa-proxy-host"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

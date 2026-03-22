@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Security patch"
+sidebar_label: "Security Patch"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=security-patch"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

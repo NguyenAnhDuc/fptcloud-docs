@@ -1,5 +1,5 @@
 ---
-sidebar_label: "About FPT Smart Cloud"
+sidebar_label: "Infrastructure-as-a-Service"
 title: "About FPT Smart Cloud"
 source: "https://fptcloud.com/en/documents/model-serving/?doc=about-fci"
 parent: "https://fptcloud.com/en/documents/model-serving"

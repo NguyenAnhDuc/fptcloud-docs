@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tao object"
+sidebar_label: "Tạo Object"
 title: "2. CheckPoint – FPT NGFW"
 source: "https://fptcloud.com/documents/checkpoint-fpt-ngfw/?doc=tao-object"
 parent: "https://fptcloud.com/documents/checkpoint-fpt-ngfw"

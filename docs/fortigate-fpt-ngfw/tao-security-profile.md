@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tao security profile"
+sidebar_label: "Tạo Security Profile"
 title: "2. Fortigate – FPT NGFW"
 source: "https://fptcloud.com/documents/fortigate-fpt-ngfw/?doc=tao-security-profile"
 parent: "https://fptcloud.com/documents/fortigate-fpt-ngfw"

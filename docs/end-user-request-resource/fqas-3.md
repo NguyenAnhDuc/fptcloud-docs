@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Fqas 3"
+sidebar_label: "Tôi có thể lựa chọn VPC hoặc tạo mới VPC khi yêu cầu dịch vụ không?"
 title: "2. Request Resource"
 source: "https://fptcloud.com/documents/end-user-request-resource/?doc=fqas-3"
 parent: "https://fptcloud.com/documents/end-user-request-resource"

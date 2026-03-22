@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Billing FAQ"
+sidebar_label: "Take a look at which cards are accepted by each payment partner: VNPay, PayPal, and Stripe."
 title: "Billing FAQ"
 source: "https://fptcloud.com/en/documents/ai-factory-billing/?doc=billing-faq"
 parent: "https://fptcloud.com/en/documents/ai-factory-billing"

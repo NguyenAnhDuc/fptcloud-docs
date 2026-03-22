@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quick Start"
+sidebar_label: "After logging in to the FPT AI Factory portal at ai.fptcloud.com, follow the instructions below:"
 title: "Quick Start"
 source: "https://fptcloud.com/en/documents/gpu-container/?doc=quick-start"
 parent: "https://fptcloud.com/en/documents/gpu-container"

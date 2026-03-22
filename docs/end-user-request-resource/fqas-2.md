@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Fqas 2"
+sidebar_label: "Làm thế nào để biết FCI đã nhận được yêu cầu của tôi?"
 title: "2. Request Resource"
 source: "https://fptcloud.com/documents/end-user-request-resource/?doc=fqas-2"
 parent: "https://fptcloud.com/documents/end-user-request-resource"

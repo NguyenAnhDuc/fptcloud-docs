@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xem thong tin api gateway"
+sidebar_label: "Xem thông tin API Gateway"
 title: "2. FPT API Gateway"
 source: "https://fptcloud.com/documents/fpt-api-gateway/?doc=xem-thong-tin-api-gateway"
 parent: "https://fptcloud.com/documents/fpt-api-gateway"

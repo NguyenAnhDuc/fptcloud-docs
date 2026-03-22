@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Trien khai ung dung tren worker managed gpu cluster"
+sidebar_label: "Triển khai mô hình DeepSeek-R1 sử dụng Ollama và Open WebUI"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=trien-khai-ung-dung-tren-worker-managed-gpu-cluster"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "A. Block Persistent Storage:"
+sidebar_label: "Persistent Storage"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=persistent-storage"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

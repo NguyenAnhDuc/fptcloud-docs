@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tao topics"
+sidebar_label: "Tạo topics"
 title: "2. FPT Message Bus for RabbitMQ"
 source: "https://fptcloud.com/documents/fpt-message-bus-for-rabbitmq/?doc=tao-topics"
 parent: "https://fptcloud.com/documents/fpt-message-bus-for-rabbitmq"

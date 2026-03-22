@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xoa ranger"
+sidebar_label: "Xóa Ranger"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xoa-ranger"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

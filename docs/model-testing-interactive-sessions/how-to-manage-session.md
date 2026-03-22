@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How to Manage Session?"
+sidebar_label: "It includes:"
 title: "How to Manage Session?"
 source: "https://fptcloud.com/en/documents/model-testing-interactive-sessions/?doc=how-to-manage-session"
 parent: "https://fptcloud.com/en/documents/model-testing-interactive-sessions"

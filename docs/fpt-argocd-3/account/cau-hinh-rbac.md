@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Cau hinh rbac"
+sidebar_label: "Cấu hình RBAC policy"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=cau-hinh-rbac"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

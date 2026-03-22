@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Mua Public IP"
+sidebar_label: "Người dùng đã nạp tiền trên hệ thống có thể mua thêm IP để sử dụng."
 title: "Mua Public IP"
 source: "https://fptcloud.com/documents/fpt-cloud-portal-pay-as-you-gofpt-cloud-portal-pay-as-you-go/?doc=buy-Public-IP"
 parent: "https://fptcloud.com/documents/fpt-cloud-portal-pay-as-you-gofpt-cloud-portal-pay-as-you-go"

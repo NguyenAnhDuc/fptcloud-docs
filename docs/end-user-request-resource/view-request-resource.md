@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "View request resource"
+sidebar_label: "Xem các yêu cầu đã tạo"
 title: "2. Request Resource"
 source: "https://fptcloud.com/documents/end-user-request-resource/?doc=view-request-resource"
 parent: "https://fptcloud.com/documents/end-user-request-resource"

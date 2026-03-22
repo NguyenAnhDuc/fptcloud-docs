@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Schedule edit"
+sidebar_label: "Hướng dẫn chỉnh sửa schedule"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=schedule-edit"
 parent: "https://fptcloud.com/documents/fpt-appsec"

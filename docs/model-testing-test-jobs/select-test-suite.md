@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Select Test Suite"
+sidebar_label: "Select the appropriate test suite - which tests the model."
 title: "Select Test Suite"
 source: "https://fptcloud.com/en/documents/model-testing-test-jobs/?doc=select-test-suite"
 parent: "https://fptcloud.com/en/documents/model-testing-test-jobs"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xoa jenkins instance khi khong muon su dung"
+sidebar_label: "Xóa Jenkins instance khi không muốn sử dụng"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=xoa-jenkins-instance-khi-khong-muon-su-dung"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

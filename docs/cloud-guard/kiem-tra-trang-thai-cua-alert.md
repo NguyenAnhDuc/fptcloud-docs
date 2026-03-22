@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Kiem tra trang thai cua alert"
+sidebar_label: "Kiểm tra trạng thái của Alert"
 title: "2. FPT Cloud Guard"
 source: "https://fptcloud.com/documents/cloud-guard/?doc=kiem-tra-trang-thai-cua-alert"
 parent: "https://fptcloud.com/documents/cloud-guard"

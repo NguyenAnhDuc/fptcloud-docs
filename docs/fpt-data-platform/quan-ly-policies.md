@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly policies"
+sidebar_label: "Quản lý Policies"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=quan-ly-Policies"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

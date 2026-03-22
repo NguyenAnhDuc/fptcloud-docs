@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Stop kubernetes cluster"
+sidebar_label: "Stop Kubernetes Cluster"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=stop-kubernetes-cluster"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

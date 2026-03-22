@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Initial setup"
+sidebar_label: "Initial Setup"
 title: "2. NAT Instance"
 source: "https://fptcloud.com/documents/nat_instance/?doc=Initial-Setup"
 parent: "https://fptcloud.com/documents/nat_instance"

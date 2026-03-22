@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xoa apache flink"
+sidebar_label: "Xóa Apache Flink"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xoa-apache-flink"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

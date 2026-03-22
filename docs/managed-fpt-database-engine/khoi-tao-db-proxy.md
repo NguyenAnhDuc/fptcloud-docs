@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Khoi tao db proxy"
+sidebar_label: "Khởi tạo DB Proxy"
 title: "2. Managed – FPT Database Engine"
 source: "https://fptcloud.com/documents/managed-fpt-database-engine/?doc=Khoi-tao-DB-Proxy"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engine"

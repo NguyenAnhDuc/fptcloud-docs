@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Sign up for an Account"
+sidebar_label: "After signing in successfully, you will be directed to the AI Factory Portal."
 title: "Sign up for an Account"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=sign-up-for-an-account"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

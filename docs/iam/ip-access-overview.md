@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "IP Access Overview"
+sidebar_label: "Cần xác định chính xác danh sách người dùng tương ứng với các IP được truy cập."
 title: "IP Access Overview"
 source: "https://fptcloud.com/documents/iam/?doc=ip-access-overview"
 parent: "https://fptcloud.com/documents/iam"

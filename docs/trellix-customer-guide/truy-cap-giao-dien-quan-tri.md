@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Truy cap giao dien quan tri"
+sidebar_label: "Truy cập giao diện quản trị"
 title: "2. Trellix Customer Guide"
 source: "https://fptcloud.com/documents/trellix-customer-guide/?doc=truy-cap-giao-dien-quan-tri"
 parent: "https://fptcloud.com/documents/trellix-customer-guide"

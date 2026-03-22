@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly no nat rule theo gateway"
+sidebar_label: "Hệ thống cho phép người dùng quản lý NO NAT rule trong từng Gateway"
 title: "2. Gateway"
 source: "https://fptcloud.com/documents/gateway/?doc=quan-ly-no-nat-rule-theo-gateway"
 parent: "https://fptcloud.com/documents/gateway"

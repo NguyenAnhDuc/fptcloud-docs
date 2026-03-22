@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tags instance"
+sidebar_label: "Manage tag to Instance Management"
 title: "2. Tagging"
 source: "https://fptcloud.com/documents/tagging/?doc=tags-instance"
 parent: "https://fptcloud.com/documents/tagging"

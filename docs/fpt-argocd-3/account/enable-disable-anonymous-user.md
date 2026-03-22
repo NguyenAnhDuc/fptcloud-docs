@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Enable disable anonymous user"
+sidebar_label: "Enable/disable anonymous user"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=enable-disable-anonymous-user"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

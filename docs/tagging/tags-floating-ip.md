@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tags floating ip"
+sidebar_label: "Manage tag to Floating IP"
 title: "2. Tagging"
 source: "https://fptcloud.com/documents/tagging/?doc=tags-floating-ip"
 parent: "https://fptcloud.com/documents/tagging"

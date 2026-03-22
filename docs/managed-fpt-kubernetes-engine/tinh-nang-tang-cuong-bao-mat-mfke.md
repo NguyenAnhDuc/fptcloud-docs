@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tinh nang tang cuong bao mat mfke"
+sidebar_label: "Tính năng tăng cường bảo mật cho dịch vụ MFKE"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=tinh-nang-tang-cuong-bao-mat-mfke"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

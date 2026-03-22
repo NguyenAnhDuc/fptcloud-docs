@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Guide ranger"
+sidebar_label: "Ranger"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=guide-ranger"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

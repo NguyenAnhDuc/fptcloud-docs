@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xem danh sach managed gpu cluster"
+sidebar_label: "Xem danh sách Managed GPU Cluster đã tạo"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=xem-danh-sach-managed-gpu-cluster"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Playground"
+sidebar_label: "On the homepage, click “Playground” in the top navigation bar (between Pricing and Support Center)."
 title: "Playground"
 source: "https://fptcloud.com/en/documents/ai_marketplace/?doc=playground"
 parent: "https://fptcloud.com/en/documents/ai_marketplace"

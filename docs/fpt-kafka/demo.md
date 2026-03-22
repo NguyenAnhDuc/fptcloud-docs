@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Demo"
+sidebar_label: "To connect to Kafka, you can refer to the detailed steps in the Document section from the menu."
 title: "Demo"
 source: "https://fptcloud.com/en/documents/fpt-kafka/?doc=demo"
 parent: "https://fptcloud.com/en/documents/fpt-kafka"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xem thong tin connector"
+sidebar_label: "2.22 Xem thông tin connector"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xem-thong-tin-connector"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xoa api gateway"
+sidebar_label: "Xóa API Gateway"
 title: "2. FPT API Gateway"
 source: "https://fptcloud.com/documents/fpt-api-gateway/?doc=xoa-api-gateway"
 parent: "https://fptcloud.com/documents/fpt-api-gateway"

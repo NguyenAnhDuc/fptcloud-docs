@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tao profile"
+sidebar_label: "Tạo Profile"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=tao-profile"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

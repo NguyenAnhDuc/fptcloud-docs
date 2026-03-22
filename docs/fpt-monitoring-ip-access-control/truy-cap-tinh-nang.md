@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Truy cap tinh nang"
+sidebar_label: "Truy cập tính năng và kiểm tra trạng thái bật/tắt"
 title: "2. FPT Monitoring – IP Access Control"
 source: "https://fptcloud.com/documents/fpt-monitoring-ip-access-control/?doc=truy-cap-tinh-nang"
 parent: "https://fptcloud.com/documents/fpt-monitoring-ip-access-control"

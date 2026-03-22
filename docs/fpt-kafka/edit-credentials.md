@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Edit Credentials"
+sidebar_label: "The system allows you to change the password of a credential. To edit, follow these steps:"
 title: "Edit Credentials"
 source: "https://fptcloud.com/en/documents/fpt-kafka/?doc=edit-credentials"
 parent: "https://fptcloud.com/en/documents/fpt-kafka"

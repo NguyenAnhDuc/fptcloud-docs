@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Fqas 2"
+sidebar_label: "Với bill ở kỳ hóa đơn hiện tại, dữ liệu được cập nhật lần gần nhất là lúc nào?"
 title: "2. Bills"
 source: "https://fptcloud.com/documents/billing/?doc=fqas-2"
 parent: "https://fptcloud.com/documents/billing"

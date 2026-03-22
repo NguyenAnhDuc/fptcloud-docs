@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Cancel Job"
+sidebar_label: "2. Find the Job you want to cancel and click the 3-dot icon in the Actions column"
 title: "Cancel Job"
 source: "https://fptcloud.com/en/documents/model-testing-test-jobs/?doc=cancel-job"
 parent: "https://fptcloud.com/en/documents/model-testing-test-jobs"

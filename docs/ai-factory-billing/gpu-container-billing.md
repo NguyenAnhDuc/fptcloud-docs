@@ -1,5 +1,5 @@
 ---
-sidebar_label: "GPU Container Billing"
+sidebar_label: "- GPU Instance:"
 title: "GPU Container Billing"
 source: "https://fptcloud.com/en/documents/ai-factory-billing/?doc=gpu-container-billing"
 parent: "https://fptcloud.com/en/documents/ai-factory-billing"

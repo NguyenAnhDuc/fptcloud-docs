@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Cap nhat thong tin cho proxy host"
+sidebar_label: "Cập nhật thông tin cho Proxy Host"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=cap-nhat-thong-tin-cho-proxy-host"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

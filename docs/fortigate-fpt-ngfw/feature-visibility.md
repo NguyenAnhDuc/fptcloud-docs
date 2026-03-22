@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Feature visibility"
+sidebar_label: "Feature Visibility"
 title: "2. Fortigate – FPT NGFW"
 source: "https://fptcloud.com/documents/fortigate-fpt-ngfw/?doc=feature-visibility"
 parent: "https://fptcloud.com/documents/fortigate-fpt-ngfw"

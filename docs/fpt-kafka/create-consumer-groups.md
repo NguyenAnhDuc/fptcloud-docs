@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Create Consumer Groups"
+sidebar_label: "To create a consumer group, do the following:"
 title: "Create Consumer Groups"
 source: "https://fptcloud.com/en/documents/fpt-kafka/?doc=create-consumer-groups"
 parent: "https://fptcloud.com/en/documents/fpt-kafka"

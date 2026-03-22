@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Detinations sever"
+sidebar_label: "Destination Server"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=detinations-sever"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

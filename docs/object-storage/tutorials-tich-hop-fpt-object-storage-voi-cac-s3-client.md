@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tutorials Tich Hop Fpt Object Storage Voi Cac S3 Client"
+sidebar_label: "Tích hợp FPT Object Storage với các S3-Client"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/?doc=tutorials-tich-hop-fpt-object-storage-voi-cac-s3-client"
 parent: "https://fptcloud.com/documents/object-storage"

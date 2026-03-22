@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Update target"
+sidebar_label: "3 Chỉnh sửa cấu hình scan Target"
 title: "2. FPT Cloud VA"
 source: "https://fptcloud.com/documents/fpt-va/?doc=update-target"
 parent: "https://fptcloud.com/documents/fpt-va"

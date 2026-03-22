@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Apply policy"
+sidebar_label: "Áp dụng policy"
 title: "2. Policy Management"
 source: "https://fptcloud.com/documents/policy-management/?doc=apply-policy"
 parent: "https://fptcloud.com/documents/policy-management"

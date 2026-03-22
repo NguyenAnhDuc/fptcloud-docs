@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tutorials xem va cap nhat gia tri secret"
+sidebar_label: "Xem và cập nhật giá trị Secret"
 title: "2. FPT Key Vault"
 source: "https://fptcloud.com/documents/fpt-key-vault/?doc=tutorials-xem-va-cap-nhat-gia-tri-secret"
 parent: "https://fptcloud.com/documents/fpt-key-vault"

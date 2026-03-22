@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Deprecated Models"
+sidebar_label: "Model | Off time"
 title: "Deprecated Models"
 source: "https://fptcloud.com/en/documents/ai_marketplace/?doc=deprecated-models"
 parent: "https://fptcloud.com/en/documents/ai_marketplace"

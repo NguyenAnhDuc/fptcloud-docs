@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Uninstall applications neu muon xoa bo"
+sidebar_label: "Thực hiện uninstall applications nếu muốn xoá bỏ"
 title: "2. FPT App Catalogs"
 source: "https://fptcloud.com/documents/app-catalogs/?doc=uninstall-applications-neu-muon-xoa-bo"
 parent: "https://fptcloud.com/documents/app-catalogs"

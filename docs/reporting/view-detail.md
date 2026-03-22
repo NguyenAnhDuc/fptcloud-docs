@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "View detail"
+sidebar_label: "Xem chi tiết report"
 title: "2. FPT Reporting"
 source: "https://fptcloud.com/documents/reporting/?doc=view-detail"
 parent: "https://fptcloud.com/documents/reporting"

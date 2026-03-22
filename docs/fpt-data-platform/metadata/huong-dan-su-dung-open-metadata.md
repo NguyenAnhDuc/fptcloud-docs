@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Huong dan su dung open metadata"
+sidebar_label: "Hướng dẫn sử dụng Open Metatdata"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=huong-dan-su-dung-open-metadata"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

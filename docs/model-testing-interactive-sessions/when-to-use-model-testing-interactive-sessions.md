@@ -1,5 +1,5 @@
 ---
-sidebar_label: "When to Use Model Testing - Interactive Sessions?"
+sidebar_label: "You should use Interactive Session when:"
 title: "When to Use Model Testing - Interactive Sessions?"
 source: "https://fptcloud.com/en/documents/model-testing-interactive-sessions/?doc=when-to-use-model-testing-interactive-sessions"
 parent: "https://fptcloud.com/en/documents/model-testing-interactive-sessions"

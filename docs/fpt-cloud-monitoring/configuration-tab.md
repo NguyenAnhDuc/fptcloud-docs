@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Configuration tab"
+sidebar_label: "3.2. Configuration Tab"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=configuration-tab"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

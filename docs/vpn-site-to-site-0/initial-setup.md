@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Initial Setup"
+sidebar_label: "Nếu đây là lần đầu tiên bạn sử dụng, trước tiên hãy kiểm tra và hoàn thành các công việc sau:"
 title: "Initial Setup"
 source: "https://fptcloud.com/documents/vpn-site-to-site-0/?doc=initial-setup"
 parent: "https://fptcloud.com/documents/vpn-site-to-site-0"

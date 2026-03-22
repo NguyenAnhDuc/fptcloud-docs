@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Create address pair"
+sidebar_label: "Khởi tạo Address pair"
 title: "2. Allow Address Pair"
 source: "https://fptcloud.com/documents/allow-address-pair/?doc=create-address-pair"
 parent: "https://fptcloud.com/documents/allow-address-pair"

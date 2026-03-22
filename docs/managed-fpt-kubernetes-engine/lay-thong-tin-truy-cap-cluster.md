@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Lay thong tin truy cap cluster"
+sidebar_label: "Lấy thông tin truy cập Cluster"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=lay-thong-tin-truy-cap-cluster"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

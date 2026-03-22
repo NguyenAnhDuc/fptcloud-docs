@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Create veeam recovery media"
+sidebar_label: "Create Veeam Recovery Media"
 title: "2. FPT Backup As a Service"
 source: "https://fptcloud.com/documents/fpt-backup-as-a-service/?doc=create-veeam-recovery-media"
 parent: "https://fptcloud.com/documents/fpt-backup-as-a-service"

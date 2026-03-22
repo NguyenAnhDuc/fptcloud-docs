@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Jupyterhub guide"
+sidebar_label: "Jupyterhub"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=jupyterhub-guide"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

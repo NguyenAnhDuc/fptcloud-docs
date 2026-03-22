@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Restore persistent volume tren k8s"
+sidebar_label: "Tính năng restore volume từ snapshot trên kubernetes"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=restore-persistent-volume-tren-k8s"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

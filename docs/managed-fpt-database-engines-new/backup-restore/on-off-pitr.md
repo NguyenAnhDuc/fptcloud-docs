@@ -1,5 +1,5 @@
 ---
-sidebar_label: "On off pitr"
+sidebar_label: "Bật/tắt PITR"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=on-off-pitr"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

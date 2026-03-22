@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Backup restore vn"
+sidebar_label: "Tính năng Backup & Restore"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=backup-restore-vn"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

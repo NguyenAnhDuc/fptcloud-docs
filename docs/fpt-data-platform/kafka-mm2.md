@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Kafka mm2"
+sidebar_label: "Kafka Mm2"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=kafka-mm2"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

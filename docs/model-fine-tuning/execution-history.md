@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Execution History"
+sidebar_label: "Execution history provides a detailed log of all fine-tuning executions for a selected model."
 title: "Execution History"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=execution-history"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

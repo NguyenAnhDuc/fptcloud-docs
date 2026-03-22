@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Url filter settings"
+sidebar_label: "URL Filter Settings"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=url-filter-settings"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

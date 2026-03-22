@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Kich hoat dich vu fcmon"
+sidebar_label: "Kich Hoat Dich Vu Fcmon"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=kich-hoat-dich-vu-fcmon"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

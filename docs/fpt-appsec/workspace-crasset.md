@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Workspace crasset"
+sidebar_label: "Hướng dẫn thực hiện các thao tác cơ bản với Container Registry asset (image)"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=workspace-crasset"
 parent: "https://fptcloud.com/documents/fpt-appsec"

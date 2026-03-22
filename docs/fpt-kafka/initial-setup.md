@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Initial Setup"
+sidebar_label: "Create a FPT Cloud account and log in to the FPT Cloud Portal."
 title: "Initial Setup"
 source: "https://fptcloud.com/en/documents/fpt-kafka/?doc=initial-setup"
 parent: "https://fptcloud.com/en/documents/fpt-kafka"

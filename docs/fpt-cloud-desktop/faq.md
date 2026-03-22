@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Faq"
+sidebar_label: "Câu hỏi thường gặp (FAQs)"
 title: "2. FPT Cloud Desktop"
 source: "https://fptcloud.com/documents/fpt-cloud-desktop/?doc=faq"
 parent: "https://fptcloud.com/documents/fpt-cloud-desktop"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan Ly Mountpoint"
+sidebar_label: "Quản lý MountPoint"
 title: "2. File Storage – High Performance"
 source: "https://fptcloud.com/documents/file-storage-high-performance/?doc=quan-ly-mountpoint"
 parent: "https://fptcloud.com/documents/file-storage-high-performance"

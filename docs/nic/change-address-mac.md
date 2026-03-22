@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Change address mac"
+sidebar_label: "Thay đổi địa chỉ MAC"
 title: "2. Network Interface Card (NIC)"
 source: "https://fptcloud.com/documents/nic/?doc=change-address-MAC"
 parent: "https://fptcloud.com/documents/nic"

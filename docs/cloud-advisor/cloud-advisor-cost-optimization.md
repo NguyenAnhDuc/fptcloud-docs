@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Cloud advisor cost optimization"
+sidebar_label: "Cost Optimization"
 title: "2. Cloud Advisor"
 source: "https://fptcloud.com/documents/cloud-advisor/?doc=cloud-advisor-cost-optimization"
 parent: "https://fptcloud.com/documents/cloud-advisor"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tutorials Su Dung Object Storage Tren Fpt Portal"
+sidebar_label: "Sử dụng Object Storage trên FPT Portal"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/?doc=tutorials-su-dung-object-storage-tren-fpt-portal"
 parent: "https://fptcloud.com/documents/object-storage"

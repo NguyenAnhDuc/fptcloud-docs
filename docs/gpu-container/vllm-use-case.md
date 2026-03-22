@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Deploy model by using vLLM"
+sidebar_label: "Please remember to replace the value of your Hugging Face token into the HF_TOKEN field."
 title: "Deploy model by using vLLM"
 source: "https://fptcloud.com/en/documents/gpu-container/?doc=vllm-use-case"
 parent: "https://fptcloud.com/en/documents/gpu-container"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quan ly resource"
+sidebar_label: "Quản lý Resource"
 title: "2. Managed – FPT Database Engine"
 source: "https://fptcloud.com/documents/managed-fpt-database-engine/?doc=Quan-ly-Resource"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engine"

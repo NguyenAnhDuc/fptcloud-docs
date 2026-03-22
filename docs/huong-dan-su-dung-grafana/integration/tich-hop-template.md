@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tich hop template"
+sidebar_label: "Tich Hop Template"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=tich-hop-template"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"

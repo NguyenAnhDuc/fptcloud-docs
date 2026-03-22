@@ -1,5 +1,5 @@
 ---
-sidebar_label: "System status"
+sidebar_label: "System Status"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=system-status"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

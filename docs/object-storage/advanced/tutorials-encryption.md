@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tutorials Encryption"
+sidebar_label: "Encryption"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/?doc=tutorials-encryption"
 parent: "https://fptcloud.com/documents/object-storage"

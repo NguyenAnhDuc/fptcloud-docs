@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Thay doi flavor cau hinh nodes"
+sidebar_label: "Thay đổi Flavor (cấu hình) Nodes"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=thay-doi-flavor-cau-hinh-nodes"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

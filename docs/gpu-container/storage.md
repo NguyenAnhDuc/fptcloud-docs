@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Storage"
+sidebar_label: "Available until the container is deleted permanently."
 title: "Storage"
 source: "https://fptcloud.com/en/documents/gpu-container/?doc=storage"
 parent: "https://fptcloud.com/en/documents/gpu-container"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Network filters scheduling"
+sidebar_label: "Network Filters Scheduling"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=network-filters-scheduling"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

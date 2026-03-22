@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tinh nang chuyen worker base managed gpu cluster"
+sidebar_label: "Tính năng chuyển Worker Group base"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=tinh-nang-chuyen-worker-base-managed-gpu-cluster"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

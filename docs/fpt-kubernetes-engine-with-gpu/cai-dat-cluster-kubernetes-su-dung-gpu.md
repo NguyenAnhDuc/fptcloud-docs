@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Cai dat cluster kubernetes su dung gpu"
+sidebar_label: "Cài đặt và khởi tạo Cluster Kubernetes sử dụng GPU"
 title: "2. FPT Kubernetes Engine with GPU"
 source: "https://fptcloud.com/documents/fpt-kubernetes-engine-with-gpu/?doc=cai-dat-cluster-kubernetes-su-dung-gpu"
 parent: "https://fptcloud.com/documents/fpt-kubernetes-engine-with-gpu"

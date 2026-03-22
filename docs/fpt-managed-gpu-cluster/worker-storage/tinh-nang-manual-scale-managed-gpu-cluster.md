@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tinh nang manual scale managed gpu cluster"
+sidebar_label: "Tính năng Manual Scale"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=tinh-nang-manual-scale-managed-gpu-cluster"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

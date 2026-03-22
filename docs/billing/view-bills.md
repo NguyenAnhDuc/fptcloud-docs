@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "View bills"
+sidebar_label: "Xem đối soát theo kỳ hóa đơn"
 title: "2. Bills"
 source: "https://fptcloud.com/documents/billing/?doc=view-bills"
 parent: "https://fptcloud.com/documents/billing"

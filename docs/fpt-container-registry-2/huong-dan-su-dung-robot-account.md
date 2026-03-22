@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Huong dan su dung robot account"
+sidebar_label: "Hướng dẫn sử dụng Robot Account"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=huong-dan-su-dung-robot-account"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

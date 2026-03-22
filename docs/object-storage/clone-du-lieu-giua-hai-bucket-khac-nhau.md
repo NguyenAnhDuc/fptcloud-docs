@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Clone Du Lieu Giua Hai Bucket Khac Nhau"
+sidebar_label: "Clone dữ liệu giữa hai bucket khác nhau"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/?doc=clone-du-lieu-giua-hai-bucket-khac-nhau"
 parent: "https://fptcloud.com/documents/object-storage"

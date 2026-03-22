@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Huong dan airflow my workspace"
+sidebar_label: "Hướng dẫn Airflow & My Workspace"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=huong-dan-airflow-my-workspace"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

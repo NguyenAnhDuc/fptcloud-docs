@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Edit tag"
+sidebar_label: "Chỉnh sửa tag"
 title: "2. Tagging"
 source: "https://fptcloud.com/documents/tagging/?doc=edit-tag"
 parent: "https://fptcloud.com/documents/tagging"

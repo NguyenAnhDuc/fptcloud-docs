@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Lay thong tin truy cap cluster"
+sidebar_label: "Lấy thông tin truy cập Cluster"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=lay-thong-tin-truy-cap-cluster"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

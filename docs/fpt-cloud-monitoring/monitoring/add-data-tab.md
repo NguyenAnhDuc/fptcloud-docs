@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Add data tab"
+sidebar_label: "3.3. Add data Tab"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=add-data-tab"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

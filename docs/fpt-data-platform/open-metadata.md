@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Open metadata"
+sidebar_label: "Open Metadata"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=open-metadata"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

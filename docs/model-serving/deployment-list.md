@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Deployment List"
+sidebar_label: "Model Serving Name | The name of the Model Serving"
 title: "Deployment List"
 source: "https://fptcloud.com/en/documents/model-serving/?doc=deployment-list"
 parent: "https://fptcloud.com/en/documents/model-serving"

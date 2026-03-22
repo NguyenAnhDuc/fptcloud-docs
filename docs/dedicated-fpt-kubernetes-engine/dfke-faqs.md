@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Dfke faqs"
+sidebar_label: "FAQs"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=dfke-faqs"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

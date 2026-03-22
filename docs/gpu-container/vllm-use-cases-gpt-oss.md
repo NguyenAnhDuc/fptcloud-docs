@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Deploy model GPT-OSS by using vLLM v0.10.0"
+sidebar_label: "openai/gpt-oss-20b : for lower latency, and local or specialized use cases"
 title: "Deploy model GPT-OSS by using vLLM v0.10.0"
 source: "https://fptcloud.com/en/documents/gpu-container/?doc=vllm-use-cases-gpt-oss"
 parent: "https://fptcloud.com/en/documents/gpu-container"

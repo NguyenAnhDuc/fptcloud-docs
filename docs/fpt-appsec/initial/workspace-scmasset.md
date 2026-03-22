@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Workspace scmasset"
+sidebar_label: "Hướng dẫn thực hiện các thao tác cơ bản với Source Code anagement asset (repo/project)"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=workspace-scmasset"
 parent: "https://fptcloud.com/documents/fpt-appsec"

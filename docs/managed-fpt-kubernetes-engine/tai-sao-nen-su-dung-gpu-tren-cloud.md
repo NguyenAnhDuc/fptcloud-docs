@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tai sao nen su dung gpu tren cloud"
+sidebar_label: "Tại sao nên sử dụng GPU trên Cloud?"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=tai-sao-nen-su-dung-gpu-tren-cloud"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

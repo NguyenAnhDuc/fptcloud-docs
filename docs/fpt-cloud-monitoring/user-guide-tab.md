@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "User guide tab"
+sidebar_label: "3.6. User guide Tab"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=user-guide-tab"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

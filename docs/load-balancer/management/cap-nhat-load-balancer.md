@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Update Load Balancer"
+sidebar_label: "Tại đây người dùng được cập nhật các thông tin:"
 title: "Update Load Balancer"
 source: "https://fptcloud.com/documents/load-balancer/?doc=cap-nhat-load-balancer"
 parent: "https://fptcloud.com/documents/load-balancer"

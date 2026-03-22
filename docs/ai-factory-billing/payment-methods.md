@@ -1,5 +1,5 @@
 ---
-sidebar_label: "What are the payment methods?"
+sidebar_label: "FPT AI Factory uses PCI-certified partners for all payment processing."
 title: "What are the payment methods?"
 source: "https://fptcloud.com/en/documents/ai-factory-billing/?doc=payment-methods"
 parent: "https://fptcloud.com/en/documents/ai-factory-billing"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "View db list"
+sidebar_label: "Xem danh sách cơ sở dữ liệu"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=view-db-list"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

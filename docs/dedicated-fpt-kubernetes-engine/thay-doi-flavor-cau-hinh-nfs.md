@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Thay doi flavor cau hinh nfs"
+sidebar_label: "Thay đổi Flavor (cấu hình) NFS Server"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=thay-doi-flavor-cau-hinh-nfs"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

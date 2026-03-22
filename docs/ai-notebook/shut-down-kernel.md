@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How to shut down kernel?"
+sidebar_label: "Displays information about all currently running GPU kernels in your lab."
 title: "How to shut down kernel?"
 source: "https://fptcloud.com/en/documents/ai-notebook/?doc=shut-down-kernel"
 parent: "https://fptcloud.com/en/documents/ai-notebook"

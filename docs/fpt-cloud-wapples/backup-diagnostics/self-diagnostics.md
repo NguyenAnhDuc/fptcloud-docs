@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Self diagnostics"
+sidebar_label: "Self-diagnostics"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=self-diagnostics"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

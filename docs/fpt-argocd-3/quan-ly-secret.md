@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly secret"
+sidebar_label: "Quản lý secret"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=quan-ly-secret"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

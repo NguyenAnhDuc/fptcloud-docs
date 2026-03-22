@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "See notification bell"
+sidebar_label: "Xem hành động khi nhấn vào chuông thông báo"
 title: "2. Notification Bell"
 source: "https://fptcloud.com/documents/notification-bell/?doc=see-notification-bell"
 parent: "https://fptcloud.com/documents/notification-bell"

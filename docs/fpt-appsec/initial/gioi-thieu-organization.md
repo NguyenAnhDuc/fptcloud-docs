@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Gioi thieu organization"
+sidebar_label: "Organization Management - Quản lý Organization"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=gioi-thieu-Organization"
 parent: "https://fptcloud.com/documents/fpt-appsec"

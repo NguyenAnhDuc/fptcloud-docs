@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Cau hinh proxy protocol cho istio ingress"
+sidebar_label: "Cấu hình proxy protocol cho istio-ingress với Managed Kubernetes cluster"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=cau-hinh-proxy-protocol-cho-istio-ingress"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

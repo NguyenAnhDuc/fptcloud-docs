@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly app catalogs"
+sidebar_label: "Quản lý App Catalogs"
 title: "2. FPT App Catalogs"
 source: "https://fptcloud.com/documents/app-catalogs/?doc=quan-ly-app-catalogs"
 parent: "https://fptcloud.com/documents/app-catalogs"

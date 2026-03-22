@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Jira"
+sidebar_label: "D. Atlassian Jira"
 title: "2. Incident Management"
 source: "https://fptcloud.com/documents/incident-management/?doc=jira"
 parent: "https://fptcloud.com/documents/incident-management"

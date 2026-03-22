@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Delete Topics"
+sidebar_label: "In case you want to delete a topic that is no longer in use, you can follow these instructions:"
 title: "Delete Topics"
 source: "https://fptcloud.com/en/documents/fpt-kafka/?doc=delete-topics"
 parent: "https://fptcloud.com/en/documents/fpt-kafka"

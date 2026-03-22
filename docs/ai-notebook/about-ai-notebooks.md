@@ -1,5 +1,5 @@
 ---
-sidebar_label: "About Ai Notebooks"
+sidebar_label: "1. 1-Click Deployment: Launch a ready-to-use environment without manual setup."
 title: "Overview"
 source: "https://fptcloud.com/en/documents/ai-notebook/?doc=about-ai-notebooks"
 parent: "https://fptcloud.com/en/documents/ai-notebook"

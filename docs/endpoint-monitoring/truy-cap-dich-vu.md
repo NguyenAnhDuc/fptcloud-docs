@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Truy cap dich vu"
+sidebar_label: "Truy cập vào dịch vụ"
 title: "2. Endpoint monitoring"
 source: "https://fptcloud.com/documents/endpoint-monitoring/?doc=truy-cap-dich-vu"
 parent: "https://fptcloud.com/documents/endpoint-monitoring"

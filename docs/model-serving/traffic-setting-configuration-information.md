@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Traffic Setting Configuration Information"
+sidebar_label: "Service type | Type of service connecting to the external network | Cannot be changed"
 title: "Traffic Setting Configuration Information"
 source: "https://fptcloud.com/en/documents/model-serving/?doc=traffic-setting-configuration-information"
 parent: "https://fptcloud.com/en/documents/model-serving"

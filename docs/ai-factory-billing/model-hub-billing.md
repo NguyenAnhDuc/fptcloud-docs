@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Model Hub Billing"
+sidebar_label: "Based on usage volume and usage duration of a pipeline."
 title: "Model Hub Billing"
 source: "https://fptcloud.com/en/documents/ai-factory-billing/?doc=model-hub-billing"
 parent: "https://fptcloud.com/en/documents/ai-factory-billing"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Status and Actions for a Deployment"
+sidebar_label: "Deployment Statuses:"
 title: "Status and Actions for a Deployment"
 source: "https://fptcloud.com/en/documents/model-serving/?doc=status-actions-deployment"
 parent: "https://fptcloud.com/en/documents/model-serving"

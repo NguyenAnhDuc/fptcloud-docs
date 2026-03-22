@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Cac luu y khi su dung fke"
+sidebar_label: "Các lưu ý khi sử dụng FKE"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=cac-luu-y-khi-su-dung-fke"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Nang goi dich vu dang su dung"
+sidebar_label: "Nâng gói dịch vụ đang sử dụng"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=nang-goi-dich-vu-dang-su-dung"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

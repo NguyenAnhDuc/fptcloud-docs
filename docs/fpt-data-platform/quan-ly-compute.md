@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly compute"
+sidebar_label: "Quản lý Compute"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=quan-ly-compute"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

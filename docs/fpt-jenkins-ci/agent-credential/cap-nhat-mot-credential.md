@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Cap nhat mot credential"
+sidebar_label: "Cập nhật một credential"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=cap-nhat-mot-credential"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

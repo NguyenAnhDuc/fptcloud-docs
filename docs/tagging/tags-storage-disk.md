@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tags storage disk"
+sidebar_label: "Manage tag to Storage disk"
 title: "2. Tagging"
 source: "https://fptcloud.com/documents/tagging/?doc=tags-storage-disk"
 parent: "https://fptcloud.com/documents/tagging"

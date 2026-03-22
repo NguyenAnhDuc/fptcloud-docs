@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Thay doi cau hinh k8s"
+sidebar_label: "Thay đổi cấu hình K8S Cluster"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=thay-doi-cau-hinh-k8s"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

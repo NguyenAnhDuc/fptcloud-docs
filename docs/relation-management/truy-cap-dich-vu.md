@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Truy cap dich vu"
+sidebar_label: "Truy cập vào dịch vụ"
 title: "2. Relation management"
 source: "https://fptcloud.com/documents/relation-management/?doc=truy-cap-dich-vu"
 parent: "https://fptcloud.com/documents/relation-management"

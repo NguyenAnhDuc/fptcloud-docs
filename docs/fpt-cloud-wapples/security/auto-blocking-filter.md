@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Auto blocking filter"
+sidebar_label: "Auto Blocking Filter"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=auto-blocking-filter"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

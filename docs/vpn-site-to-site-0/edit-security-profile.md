@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Edit Security Profile"
+sidebar_label: "Edit Security Profile: Thay đổi cấu hình bảo mật kết nối."
 title: "Edit Security Profile"
 source: "https://fptcloud.com/documents/vpn-site-to-site-0/?doc=edit-security-profile"
 parent: "https://fptcloud.com/documents/vpn-site-to-site-0"

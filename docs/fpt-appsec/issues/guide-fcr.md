@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Guide fcr"
+sidebar_label: "FPT Container Registry"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=guide-fcr"
 parent: "https://fptcloud.com/documents/fpt-appsec"

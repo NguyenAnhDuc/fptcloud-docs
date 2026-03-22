@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Load balancing"
+sidebar_label: "Load Balancing"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=load-balancing"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

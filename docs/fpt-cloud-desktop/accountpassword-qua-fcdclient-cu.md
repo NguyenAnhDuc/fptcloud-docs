@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Accountpassword qua fcdclient cu"
+sidebar_label: "Truy cập qua FCDClient cũ (luồng cũ)"
 title: "2. FPT Cloud Desktop"
 source: "https://fptcloud.com/documents/fpt-cloud-desktop/?doc=accountpassword-qua-FCDClient-cu"
 parent: "https://fptcloud.com/documents/fpt-cloud-desktop"

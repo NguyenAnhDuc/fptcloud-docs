@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Voucher List"
+sidebar_label: "Field | Description"
 title: "Voucher List"
 source: "https://fptcloud.com/en/documents/ai-factory-billing/?doc=voucher-list"
 parent: "https://fptcloud.com/en/documents/ai-factory-billing"

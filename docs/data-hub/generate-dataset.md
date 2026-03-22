@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Generate Dataset"
+sidebar_label: "API Key : An API key is a unique code that authenticates your access to a service"
 title: "Generate Dataset"
 source: "https://fptcloud.com/en/documents/data-hub/?doc=generate-dataset"
 parent: "https://fptcloud.com/en/documents/data-hub"

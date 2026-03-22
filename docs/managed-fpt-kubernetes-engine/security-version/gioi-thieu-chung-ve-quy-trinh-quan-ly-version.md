@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Gioi thieu chung ve quy trinh quan ly version"
+sidebar_label: "Giới thiệu chung về quy trình quản lý version Kubernetes trên FPTCloud"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=gioi-thieu-chung-ve-quy-trinh-quan-ly-version"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

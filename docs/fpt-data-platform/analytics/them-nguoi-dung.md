@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Them nguoi dung"
+sidebar_label: "Thêm người dùng"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=them-nguoi-dung"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

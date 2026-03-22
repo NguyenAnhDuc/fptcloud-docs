@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Start Pipeline"
+sidebar_label: "2. Find the Pipeline you want to start and click the 3-dot icon in the Actions column"
 title: "Start Pipeline"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=start-pipeline"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Fde glossary"
+sidebar_label: "Glossary"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=fde-glossary"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

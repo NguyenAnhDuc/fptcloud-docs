@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly mem team"
+sidebar_label: "Quản lý Members"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=quan-ly-mem-team"
 parent: "https://fptcloud.com/documents/fpt-appsec"

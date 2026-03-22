@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xoa orchestration"
+sidebar_label: "Xóa Orchestration"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xoa-orchestration"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

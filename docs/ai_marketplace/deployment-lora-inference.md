@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Deployment (LoRA Inference)"
+sidebar_label: "Or click View deployment from the success pop-up after fine-tuning."
 title: "Deployment (LoRA Inference)"
 source: "https://fptcloud.com/en/documents/ai_marketplace/?doc=deployment-lora-inference"
 parent: "https://fptcloud.com/en/documents/ai_marketplace"

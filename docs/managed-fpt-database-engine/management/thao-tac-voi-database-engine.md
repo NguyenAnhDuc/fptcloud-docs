@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Thao tac voi database engine"
+sidebar_label: "Thao tác với Database Engine"
 title: "2. Managed – FPT Database Engine"
 source: "https://fptcloud.com/documents/managed-fpt-database-engine/?doc=Thao-tac-voi-Database-Engine"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engine"

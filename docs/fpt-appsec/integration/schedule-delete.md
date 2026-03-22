@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Schedule delete"
+sidebar_label: "Hướng dẫn xóa schedule"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=schedule-delete"
 parent: "https://fptcloud.com/documents/fpt-appsec"

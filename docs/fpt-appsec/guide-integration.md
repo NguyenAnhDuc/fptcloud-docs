@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Guide integration"
+sidebar_label: "Integration Management - Quản lý tích hợp"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=guide-integration"
 parent: "https://fptcloud.com/documents/fpt-appsec"

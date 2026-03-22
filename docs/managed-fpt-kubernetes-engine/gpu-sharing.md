@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Gpu sharing"
+sidebar_label: "Tính năng GPU Sharing"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=gpu-sharing"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

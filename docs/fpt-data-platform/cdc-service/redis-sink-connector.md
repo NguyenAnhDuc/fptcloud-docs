@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Redis sink connector"
+sidebar_label: "2.19 Redis Sink Connector"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=redis-sink-connector"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

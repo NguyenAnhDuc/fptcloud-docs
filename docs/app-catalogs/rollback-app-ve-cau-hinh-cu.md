@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Rollback app ve cau hinh cu"
+sidebar_label: "Thực hiện rollback app về cấu hình cũ"
 title: "2. FPT App Catalogs"
 source: "https://fptcloud.com/documents/app-catalogs/?doc=rollback-app-ve-cau-hinh-cu"
 parent: "https://fptcloud.com/documents/app-catalogs"

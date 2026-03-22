@@ -1,5 +1,5 @@
 ---
-sidebar_label: "FAQ"
+sidebar_label: "Use them when you want to:"
 title: "FAQ"
 source: "https://fptcloud.com/en/documents/model-testing-interactive-sessions/?doc=faq"
 parent: "https://fptcloud.com/en/documents/model-testing-interactive-sessions"

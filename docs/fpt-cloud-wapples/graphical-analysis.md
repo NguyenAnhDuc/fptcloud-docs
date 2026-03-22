@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Graphical analysis"
+sidebar_label: "Graphical Analysis"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=graphical-analysis"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

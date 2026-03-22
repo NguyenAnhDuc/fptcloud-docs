@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Create token"
+sidebar_label: "Thời gian hết hạn : Người dùng lựa chọn trong danh sách hệ thống cung cấp."
 title: "Create token"
 source: "https://fptcloud.com/documents/cloud-server/?doc=create-token"
 parent: "https://fptcloud.com/documents/cloud-server"

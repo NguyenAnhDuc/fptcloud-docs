@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Update version"
+sidebar_label: "Update version (v1.1)"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=update-version"
 parent: "https://fptcloud.com/documents/model-hub"

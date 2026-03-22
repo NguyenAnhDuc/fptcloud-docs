@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Logs"
+sidebar_label: "You can use Logs to:"
 title: "Logs"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=logs"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

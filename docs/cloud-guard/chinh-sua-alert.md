@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Chinh sua alert"
+sidebar_label: "Chỉnh sửa Alert"
 title: "2. FPT Cloud Guard"
 source: "https://fptcloud.com/documents/cloud-guard/?doc=chinh-sua-alert"
 parent: "https://fptcloud.com/documents/cloud-guard"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Initial setup"
+sidebar_label: "Initial Setup"
 title: "2. Notification Bell"
 source: "https://fptcloud.com/documents/notification-bell/?doc=initial-setup"
 parent: "https://fptcloud.com/documents/notification-bell"

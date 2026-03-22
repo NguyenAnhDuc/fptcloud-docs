@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly target"
+sidebar_label: "Quản lý Target"
 title: "2. FPT Cloud VA"
 source: "https://fptcloud.com/documents/fpt-va/?doc=quan-ly-target"
 parent: "https://fptcloud.com/documents/fpt-va"

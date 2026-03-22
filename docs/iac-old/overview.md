@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "I. Initial setup & service authentication"
+sidebar_label: "Giới thiệu"
 title: "2. IaC old"
 source: "https://fptcloud.com/documents/iac-old/?doc=overview"
 parent: "https://fptcloud.com/documents/iac-old"

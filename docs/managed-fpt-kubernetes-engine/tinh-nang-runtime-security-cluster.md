@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tinh nang runtime security cluster"
+sidebar_label: "Tính năng Runtime Security cho Managed Kubernetes Cluster"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=tinh-nang-runtime-security-cluster"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

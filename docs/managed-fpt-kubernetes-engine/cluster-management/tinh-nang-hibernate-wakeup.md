@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tinh nang hibernate wakeup"
+sidebar_label: "Tính năng Hibernate & Wake-up"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=tinh-nang-hibernate-wakeup"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Backup Volume"
+sidebar_label: "Backup đảm bảo dữ liệu luôn có bản dự phòng và có thể khôi phục khi xảy ra sự cố."
 title: "Backup Volume"
 source: "https://fptcloud.com/documents/backup/?doc=backup-volume"
 parent: "https://fptcloud.com/documents/backup"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Truy cap vao dashboard"
+sidebar_label: "7.1. Truy cập vào dashboard"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=truy-cap-vao-dashboard"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

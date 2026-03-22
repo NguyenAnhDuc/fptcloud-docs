@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quan ly 404 host"
+sidebar_label: "Quản lý 404 Host"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=quan-ly-404-host"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

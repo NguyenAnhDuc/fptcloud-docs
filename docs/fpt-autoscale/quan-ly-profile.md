@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly profile"
+sidebar_label: "Quản lý Profile"
 title: "2. FPT Autoscale"
 source: "https://fptcloud.com/documents/fpt-autoscale/?doc=quan-ly-profile"
 parent: "https://fptcloud.com/documents/fpt-autoscale"

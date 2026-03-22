@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Audit level"
+sidebar_label: "Audit Level"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=audit-level"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

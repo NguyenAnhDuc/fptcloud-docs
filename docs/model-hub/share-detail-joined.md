@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Share detail joined"
+sidebar_label: "Share detail (joined)"
 title: "2. Model Hub"
 source: "https://fptcloud.com/documents/model-hub/?doc=share-detail-joined"
 parent: "https://fptcloud.com/documents/model-hub"

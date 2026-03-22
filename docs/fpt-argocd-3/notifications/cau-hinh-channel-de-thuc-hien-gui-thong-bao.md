@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Cau hinh channel de thuc hien gui thong bao"
+sidebar_label: "Cấu hình channel để thực hiện gửi thông báo"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=cau-hinh-channel-de-thuc-hien-gui-thong-bao"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

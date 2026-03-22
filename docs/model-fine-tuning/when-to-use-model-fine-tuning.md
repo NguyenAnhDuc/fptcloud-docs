@@ -1,5 +1,5 @@
 ---
-sidebar_label: "When to Use Model Fine-tuning?"
+sidebar_label: "Model Fine-tuning is useful when:"
 title: "When to Use Model Fine-tuning?"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=when-to-use-model-fine-tuning"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

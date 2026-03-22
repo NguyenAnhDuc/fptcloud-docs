@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "View bill charges by resource"
+sidebar_label: "Xem đối soát theo tài nguyên sử dụng (Charges by resource)"
 title: "2. Bills"
 source: "https://fptcloud.com/documents/billing/?doc=view-bill-charges-by-resource"
 parent: "https://fptcloud.com/documents/billing"

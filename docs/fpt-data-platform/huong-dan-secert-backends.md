@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Huong dan secert backends"
+sidebar_label: "Hướng dẫn Secret backends"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=huong-dan-secert-backends"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

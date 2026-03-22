@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Db proxy"
+sidebar_label: "DB Proxy"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=db-proxy"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

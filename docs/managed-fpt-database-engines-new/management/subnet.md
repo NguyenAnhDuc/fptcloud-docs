@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Subnet"
+sidebar_label: "Quản lý Subnet"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=subnet"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

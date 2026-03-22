@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly applications da duoc deploy"
+sidebar_label: "Quản lý applications đã được deploy tới cluster"
 title: "2. FPT App Catalogs"
 source: "https://fptcloud.com/documents/app-catalogs/?doc=quan-ly-applications-da-duoc-deploy"
 parent: "https://fptcloud.com/documents/app-catalogs"

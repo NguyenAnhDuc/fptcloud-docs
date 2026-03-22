@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Backup job mgmt"
+sidebar_label: "Quản lý Job Backup"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=backup-job-mgmt"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

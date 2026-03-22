@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Automatic backup"
+sidebar_label: "Automatic Backup"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=automatic-backup"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

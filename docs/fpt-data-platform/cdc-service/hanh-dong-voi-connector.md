@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Hanh dong voi connector"
+sidebar_label: "2.23 Hành động với connector"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=hanh-dong-voi-connector"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

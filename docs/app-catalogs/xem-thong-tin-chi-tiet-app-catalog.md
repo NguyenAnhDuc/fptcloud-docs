@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xem thong tin chi tiet app catalog"
+sidebar_label: "Xem thông tin chi tiết App Catalog"
 title: "2. FPT App Catalogs"
 source: "https://fptcloud.com/documents/app-catalogs/?doc=xem-thong-tin-chi-tiet-app-catalog"
 parent: "https://fptcloud.com/documents/app-catalogs"

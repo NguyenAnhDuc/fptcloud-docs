@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Initial setup"
+sidebar_label: "Yêu cầu thiết lập ban đầu"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=Initial-setup"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

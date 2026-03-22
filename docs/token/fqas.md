@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Fqas"
+sidebar_label: "FQAs"
 title: "2. Token"
 source: "https://fptcloud.com/documents/token/?doc=fqas"
 parent: "https://fptcloud.com/documents/token"

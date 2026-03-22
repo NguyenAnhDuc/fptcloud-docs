@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Keystore management"
+sidebar_label: "Keystore Management"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=keystore-management"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

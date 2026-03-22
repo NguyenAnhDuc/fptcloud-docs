@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Monitor waf voi dashboard overview"
+sidebar_label: "Monitor WAF với Dashboard Overview"
 title: "2. FPT Cloud WAF"
 source: "https://fptcloud.com/documents/fpt-cloud-waf/?doc=monitor-waf-voi-dashboard-overview"
 parent: "https://fptcloud.com/documents/fpt-cloud-waf"

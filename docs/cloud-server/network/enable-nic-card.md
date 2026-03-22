@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Enable Network Interface Card"
+sidebar_label: "_Tính năng chỉ áp dụng cho khách hàng mua dich vụ loại Speicific_"
 title: "Enable Network Interface Card"
 source: "https://fptcloud.com/documents/cloud-server/?doc=enable-NIC-card"
 parent: "https://fptcloud.com/documents/cloud-server"

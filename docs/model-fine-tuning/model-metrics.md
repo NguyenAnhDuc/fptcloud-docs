@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Model Metrics"
+sidebar_label: "Training metrics:"
 title: "Model Metrics"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=model-metrics"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

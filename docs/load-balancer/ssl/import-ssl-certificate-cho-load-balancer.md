@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Import SSL Certificate cho Load Balancer"
+sidebar_label: "Để import SSL Certificate , bạn thực hiện theo hướng dẫn sau:"
 title: "Import SSL Certificate cho Load Balancer"
 source: "https://fptcloud.com/documents/load-balancer/?doc=import-ssl-certificate-cho-load-balancer"
 parent: "https://fptcloud.com/documents/load-balancer"

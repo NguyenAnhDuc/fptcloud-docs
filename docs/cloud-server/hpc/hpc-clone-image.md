@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Clone image"
+sidebar_label: "Để thực hiện Clone image, thực hiện các bước sau:"
 title: "Clone image"
 source: "https://fptcloud.com/documents/cloud-server/?doc=hpc-clone-image"
 parent: "https://fptcloud.com/documents/cloud-server"

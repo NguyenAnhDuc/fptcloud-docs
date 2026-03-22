@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Iam"
+sidebar_label: "Quyền truy cập dịch vụ FPT Database Engine"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=iam"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

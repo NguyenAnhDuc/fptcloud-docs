@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Schedule detail"
+sidebar_label: "Hướng dẫn xem danh sách & chi tiết schedule"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=schedule-detail"
 parent: "https://fptcloud.com/documents/fpt-appsec"

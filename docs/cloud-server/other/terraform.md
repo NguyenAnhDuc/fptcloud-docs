@@ -1,5 +1,5 @@
 ---
-sidebar_label: "IaC (Terraform)"
+sidebar_label: "Hệ điều hành: Terraform hỗ trợ nhiều hệ điều hành như Linux, macOS, Windows."
 title: "IaC (Terraform)"
 source: "https://fptcloud.com/documents/cloud-server/?doc=terraform"
 parent: "https://fptcloud.com/documents/cloud-server"

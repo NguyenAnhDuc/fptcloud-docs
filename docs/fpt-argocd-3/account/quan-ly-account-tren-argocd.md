@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quan ly account tren argocd"
+sidebar_label: "Quản lý account trên argocd"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=quan-ly-account-tren-argocd"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

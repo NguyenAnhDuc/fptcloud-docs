@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How to Create Session?"
+sidebar_label: "Maximum 100 characters"
 title: "How to Create Session?"
 source: "https://fptcloud.com/en/documents/model-testing-interactive-sessions/?doc=how-to-create-session"
 parent: "https://fptcloud.com/en/documents/model-testing-interactive-sessions"

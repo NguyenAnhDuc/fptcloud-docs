@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tutorials tao secret engine"
+sidebar_label: "Tạo Secret Engine"
 title: "2. FPT Key Vault"
 source: "https://fptcloud.com/documents/fpt-key-vault/?doc=tutorials-tao-secret-engine"
 parent: "https://fptcloud.com/documents/fpt-key-vault"

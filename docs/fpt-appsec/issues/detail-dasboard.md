@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Detail dasboard"
+sidebar_label: "Dashboard"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=detail-dasboard"
 parent: "https://fptcloud.com/documents/fpt-appsec"

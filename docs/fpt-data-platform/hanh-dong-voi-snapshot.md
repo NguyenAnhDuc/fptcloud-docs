@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Hanh dong voi snapshot"
+sidebar_label: "2.27. Hành động với Snapshot"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=hanh-dong-voi-snapshot"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

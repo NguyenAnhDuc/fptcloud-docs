@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Command terraform"
+sidebar_label: "Các lệnh cơ bản"
 title: "2. Terraform"
 source: "https://fptcloud.com/documents/terraform/?doc=command-terraform"
 parent: "https://fptcloud.com/documents/terraform"

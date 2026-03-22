@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Khoi tao workspace"
+sidebar_label: "Khoi Tao Workspace"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=khoi-tao-workspace"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"

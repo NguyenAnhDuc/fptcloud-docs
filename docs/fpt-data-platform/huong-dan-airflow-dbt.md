@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Huong dan airflow dbt"
+sidebar_label: "Hướng dẫn Airflow & dbt"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=huong-dan-airflow-dbt"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

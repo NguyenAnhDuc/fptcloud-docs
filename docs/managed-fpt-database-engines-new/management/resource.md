@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Resource"
+sidebar_label: "Quản lý tài nguyên cụm cơ sở dữ liệu"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=resource"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tao security groups"
+sidebar_label: "Tạo Security Groups"
 title: "2. Managed – FPT Database Engine"
 source: "https://fptcloud.com/documents/managed-fpt-database-engine/?doc=tao-security-groups"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engine"

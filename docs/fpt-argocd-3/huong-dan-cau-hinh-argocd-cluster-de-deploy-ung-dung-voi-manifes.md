@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Huong dan cau hinh argocd cluster de deploy ung dung voi manifes"
+sidebar_label: "Hướng dẫn cấu hình ArgoCD cluster để deploy ứng dụng với manifes"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=huong-dan-cau-hinh-argocd-cluster-de-deploy-ung-dung-voi-manifes"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

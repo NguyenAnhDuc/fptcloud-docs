@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tutorials Quan Ly Access Key Cua Object Storage Tren Fpt Portal"
+sidebar_label: "Quản lý Access Key"
 title: "2. FPT Object Storage"
 source: "https://fptcloud.com/documents/object-storage/?doc=tutorials-quan-ly-access-key-cua-object-storage-tren-fpt-portal"
 parent: "https://fptcloud.com/documents/object-storage"

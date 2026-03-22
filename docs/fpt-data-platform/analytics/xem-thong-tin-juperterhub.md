@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xem thong tin juperterhub"
+sidebar_label: "Xem thông tin JuperterHub"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xem-thong-tin-juperterhub"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

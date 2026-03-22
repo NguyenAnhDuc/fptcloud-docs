@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Huong dan dang nhap vao fpt cloud jenkins ci"
+sidebar_label: "Hướng dẫn đăng nhập vào FPT Cloud Jenkins CI"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=huong-dan-dang-nhap-vao-fpt-cloud-jenkins-ci"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

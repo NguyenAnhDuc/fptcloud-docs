@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Thay doi cau hinh cua applications"
+sidebar_label: "Thực hiện thay đổi cấu hình của applications"
 title: "2. FPT App Catalogs"
 source: "https://fptcloud.com/documents/app-catalogs/?doc=thay-doi-cau-hinh-cua-applications"
 parent: "https://fptcloud.com/documents/app-catalogs"

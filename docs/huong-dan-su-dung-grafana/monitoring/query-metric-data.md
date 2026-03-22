@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Query metric data"
+sidebar_label: "4.5. Hướng dẫn Query Metric Data"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=query-metric-data"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"

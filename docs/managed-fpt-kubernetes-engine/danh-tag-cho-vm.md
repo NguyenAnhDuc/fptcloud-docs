@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Danh tag cho vm"
+sidebar_label: "Tính năng đánh Tag cho Virtual Machine"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=danh-tag-cho-vm"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

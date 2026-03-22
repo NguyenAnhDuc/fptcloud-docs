@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Huong dan cau hinh nodes build tren jenkins"
+sidebar_label: "Hướng dẫn cấu hình Nodes Build trên Jenkins"
 title: "2. FPT Jenkins CI"
 source: "https://fptcloud.com/documents/fpt-jenkins-ci/?doc=huong-dan-cau-hinh-nodes-build-tren-jenkins"
 parent: "https://fptcloud.com/documents/fpt-jenkins-ci"

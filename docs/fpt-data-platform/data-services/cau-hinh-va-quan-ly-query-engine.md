@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Cau hinh va quan ly query engine"
+sidebar_label: "Truy cập và cấu hình quản lý Query Engine"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=cau-hinh-va-quan-ly-query-engine"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

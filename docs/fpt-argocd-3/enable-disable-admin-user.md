@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Enable disable admin user"
+sidebar_label: "Enable/disable admin user"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=enable-disable-admin-user"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

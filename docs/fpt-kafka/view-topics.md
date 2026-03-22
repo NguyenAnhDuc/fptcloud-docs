@@ -1,5 +1,5 @@
 ---
-sidebar_label: "View Topics"
+sidebar_label: "Detail tab: List the information of the topic that you have entered."
 title: "View Topics"
 source: "https://fptcloud.com/en/documents/fpt-kafka/?doc=view-topics"
 parent: "https://fptcloud.com/en/documents/fpt-kafka"

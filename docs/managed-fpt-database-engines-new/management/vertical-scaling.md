@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Vertical scaling"
+sidebar_label: "Vertical Scaling"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=vertical-scaling"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

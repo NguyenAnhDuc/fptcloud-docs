@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xoa processing service"
+sidebar_label: "Xóa Processing service"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xoa-processing-service"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

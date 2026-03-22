@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Fqas 5"
+sidebar_label: "Vì sao tôi không thể chọn submit để gửi ticket?"
 title: "2. Request Resource"
 source: "https://fptcloud.com/documents/end-user-request-resource/?doc=fqas-5"
 parent: "https://fptcloud.com/documents/end-user-request-resource"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Use sso"
+sidebar_label: "Sử dụng tính năng SSO"
 title: "2. SSO – Single sign-on"
 source: "https://fptcloud.com/documents/sso-single-sign-on/?doc=use-sso"
 parent: "https://fptcloud.com/documents/sso-single-sign-on"

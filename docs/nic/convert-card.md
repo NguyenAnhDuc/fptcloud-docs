@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Convert card"
+sidebar_label: "Chuyển card thường thành card Primary"
 title: "2. Network Interface Card (NIC)"
 source: "https://fptcloud.com/documents/nic/?doc=convert-card"
 parent: "https://fptcloud.com/documents/nic"

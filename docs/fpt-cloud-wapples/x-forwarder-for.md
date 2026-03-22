@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "X forwarder for"
+sidebar_label: "X-Forwarder-For"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=x-forwarder-for"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

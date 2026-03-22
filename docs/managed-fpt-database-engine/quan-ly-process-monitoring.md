@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly process monitoring"
+sidebar_label: "Quản lý Process Monitoring"
 title: "2. Managed – FPT Database Engine"
 source: "https://fptcloud.com/documents/managed-fpt-database-engine/?doc=Quan-ly-Process-Monitoring"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engine"

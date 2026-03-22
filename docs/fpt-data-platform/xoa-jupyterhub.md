@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xoa jupyterhub"
+sidebar_label: "Xóa Jupyterhub"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xoa-jupyterhub"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

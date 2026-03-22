@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quan ly workspace"
+sidebar_label: "Quan Ly Workspace"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=quan-ly-workspace"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

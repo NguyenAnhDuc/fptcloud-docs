@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Nang cap k8s version"
+sidebar_label: "Nâng cấp K8s version"
 title: "2. Dedicated – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine/?doc=nang-cap-k8s-version"
 parent: "https://fptcloud.com/documents/dedicated-fpt-kubernetes-engine"

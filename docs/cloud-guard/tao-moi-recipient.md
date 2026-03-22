@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tao moi recipient"
+sidebar_label: "Tạo mới Recipient"
 title: "2. FPT Cloud Guard"
 source: "https://fptcloud.com/documents/cloud-guard/?doc=tao-moi-recipient"
 parent: "https://fptcloud.com/documents/cloud-guard"

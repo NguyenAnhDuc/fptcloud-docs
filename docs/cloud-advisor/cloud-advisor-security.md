@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Cloud advisor security"
+sidebar_label: "Security"
 title: "2. Cloud Advisor"
 source: "https://fptcloud.com/documents/cloud-advisor/?doc=cloud-advisor-security"
 parent: "https://fptcloud.com/documents/cloud-advisor"

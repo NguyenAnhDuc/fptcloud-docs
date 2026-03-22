@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Detection log analysis"
+sidebar_label: "Detection Log Analysis"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=detection-log-analysis"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

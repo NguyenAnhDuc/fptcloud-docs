@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Initial Setup"
+sidebar_label: "Để bắt đầu sử dụng dịch vụ FPT Cloud WAF , người dùng cần đăng nhập vào FPT Portal."
 title: "Initial Setup"
 source: "https://fptcloud.com/documents/cloud-server/?doc=Initial-Setup"
 parent: "https://fptcloud.com/documents/cloud-server"

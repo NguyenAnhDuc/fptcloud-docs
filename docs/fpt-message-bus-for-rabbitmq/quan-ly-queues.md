@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly queues"
+sidebar_label: "Quản lý Queues"
 title: "2. FPT Message Bus for RabbitMQ"
 source: "https://fptcloud.com/documents/fpt-message-bus-for-rabbitmq/?doc=quan-ly-queues"
 parent: "https://fptcloud.com/documents/fpt-message-bus-for-rabbitmq"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Tao superset"
+sidebar_label: "Tạo superset"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=tao-superset"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

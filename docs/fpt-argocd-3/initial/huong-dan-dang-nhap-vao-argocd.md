@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Huong dan dang nhap vao argocd"
+sidebar_label: "Hướng dẫn đăng nhập vào ArgoCD"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=huong-dan-dang-nhap-vao-argocd"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

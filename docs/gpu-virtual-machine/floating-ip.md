@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Floating IP"
+sidebar_label: "A Floating IP (also known as a Public IP) is a publicly accessible static IPv4 address."
 title: "Floating IP"
 source: "https://fptcloud.com/en/documents/gpu-virtual-machine-en/?doc=floating-ip"
 parent: "https://fptcloud.com/en/documents/gpu-virtual-machine-en"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xoa firewall policy"
+sidebar_label: "Xóa Firewall Policy"
 title: "2. Fortigate – FPT NGFW"
 source: "https://fptcloud.com/documents/fortigate-fpt-ngfw/?doc=xoa-firewall-policy"
 parent: "https://fptcloud.com/documents/fortigate-fpt-ngfw"

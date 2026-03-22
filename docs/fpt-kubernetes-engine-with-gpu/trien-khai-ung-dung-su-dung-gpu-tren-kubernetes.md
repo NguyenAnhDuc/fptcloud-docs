@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Trien khai ung dung su dung gpu tren kubernetes"
+sidebar_label: "Triển khai ứng dụng sử dụng GPU trên Kubernetes"
 title: "2. FPT Kubernetes Engine with GPU"
 source: "https://fptcloud.com/documents/fpt-kubernetes-engine-with-gpu/?doc=trien-khai-ung-dung-su-dung-gpu-tren-kubernetes"
 parent: "https://fptcloud.com/documents/fpt-kubernetes-engine-with-gpu"

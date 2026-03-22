@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Activity log"
+sidebar_label: "Kiểm tra hoạt động - Activity Logs"
 title: "2. Allow Address Pair"
 source: "https://fptcloud.com/documents/allow-address-pair/?doc=activity-log"
 parent: "https://fptcloud.com/documents/allow-address-pair"

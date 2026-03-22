@@ -1,5 +1,5 @@
 ---
-sidebar_label: "FPT Images"
+sidebar_label: "Ubuntu | 22.04"
 title: "FPT Images"
 source: "https://fptcloud.com/en/documents/gpu-virtual-machine-en/?doc=fpt_images"
 parent: "https://fptcloud.com/en/documents/gpu-virtual-machine-en"

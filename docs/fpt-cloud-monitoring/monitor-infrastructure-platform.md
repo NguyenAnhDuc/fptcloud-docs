@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Monitor infrastructure platform"
+sidebar_label: "Monitor Infrastructure Platform"
 title: "2. FPT Cloud Monitoring"
 source: "https://fptcloud.com/documents/fpt-cloud-monitoring/?doc=monitor-infrastructure-platform"
 parent: "https://fptcloud.com/documents/fpt-cloud-monitoring"

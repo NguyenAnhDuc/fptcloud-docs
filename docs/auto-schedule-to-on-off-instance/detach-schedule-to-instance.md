@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Detach schedule to instance"
+sidebar_label: "Gỡ một hoặc nhiều máy ảo ra khỏi instance schedule"
 title: "2. Auto Schedule To On-Off Instance"
 source: "https://fptcloud.com/documents/auto-schedule-to-on-off-instance/?doc=detach-schedule-to-instance"
 parent: "https://fptcloud.com/documents/auto-schedule-to-on-off-instance"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Setting agert"
+sidebar_label: "Tạo gói cài đặt Agent, cài đặt Agert"
 title: "2. Trellix Customer Guide"
 source: "https://fptcloud.com/documents/trellix-customer-guide/?doc=setting-agert"
 parent: "https://fptcloud.com/documents/trellix-customer-guide"

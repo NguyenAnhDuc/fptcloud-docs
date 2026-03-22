@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Delete Pipeline"
+sidebar_label: "2. Find the Pipeline you want to delete and click 3-dot icon in the Actions column"
 title: "Delete Pipeline"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=delete-pipeline"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

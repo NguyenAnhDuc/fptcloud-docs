@@ -1,5 +1,5 @@
 ---
-sidebar_label: "How to Monitor and Evaluate?"
+sidebar_label: "2. Open the Execution history , by clicking Pipeline name in the Name column."
 title: "How to Monitor and Evaluate?"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=how-to-monitor-and-evaluate"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

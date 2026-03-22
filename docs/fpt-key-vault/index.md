@@ -1,5 +1,5 @@
 ---
-sidebar_label: "FPT Key Vault Documentation"
+sidebar_label: "FPT Key Vault"
 title: "2. FPT Key Vault"
 source: "https://fptcloud.com/documents/fpt-key-vault/"
 lang: vi

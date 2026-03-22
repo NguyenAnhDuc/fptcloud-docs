@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly security"
+sidebar_label: "Quản lý Security"
 title: "2. FPT Event Gateway"
 source: "https://fptcloud.com/documents/fpt-event-gateway/?doc=quan-ly-security"
 parent: "https://fptcloud.com/documents/fpt-event-gateway"

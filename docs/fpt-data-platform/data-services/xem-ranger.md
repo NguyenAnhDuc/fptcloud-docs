@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xem ranger"
+sidebar_label: "Xem thông tin Ranger"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xem-ranger"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

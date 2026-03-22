@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Importing YAML file"
+sidebar_label: "2. Click Import Configuration located on the top right of the container list page."
 title: "Importing YAML file"
 source: "https://fptcloud.com/en/documents/gpu-container/?doc=import-config"
 parent: "https://fptcloud.com/en/documents/gpu-container"

@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Huong dan nang goi dich vu dang su dung"
+sidebar_label: "Hướng dẫn nâng gói dịch vụ đang sử dụng"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=huong-dan-nang-goi-dich-vu-dang-su-dung"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

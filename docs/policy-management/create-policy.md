@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Create policy"
+sidebar_label: "Khởi tạo Policy Management"
 title: "2. Policy Management"
 source: "https://fptcloud.com/documents/policy-management/?doc=create-policy"
 parent: "https://fptcloud.com/documents/policy-management"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Db connect"
+sidebar_label: "Kết nối cơ sở dữ liệu"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=db-connect"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

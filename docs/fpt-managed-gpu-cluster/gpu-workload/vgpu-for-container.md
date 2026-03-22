@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Vgpu for container"
+sidebar_label: "VGPU for container"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=vgpu-for-container"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

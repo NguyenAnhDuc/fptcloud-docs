@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Create request resource"
+sidebar_label: "Tạo một yêu cầu cung cấp tài nguyên"
 title: "2. Request Resource"
 source: "https://fptcloud.com/documents/end-user-request-resource/?doc=create-request-resource"
 parent: "https://fptcloud.com/documents/end-user-request-resource"

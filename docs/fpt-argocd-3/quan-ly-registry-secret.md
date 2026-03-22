@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Quan ly registry secret"
+sidebar_label: "Quản lý registry secret"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=quan-ly-registry-secret"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

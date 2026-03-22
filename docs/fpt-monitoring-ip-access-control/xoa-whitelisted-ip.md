@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xoa whitelisted ip"
+sidebar_label: "Xóa bỏ whitelisted IP/dải IP"
 title: "2. FPT Monitoring – IP Access Control"
 source: "https://fptcloud.com/documents/fpt-monitoring-ip-access-control/?doc=xoa-whitelisted-ip"
 parent: "https://fptcloud.com/documents/fpt-monitoring-ip-access-control"

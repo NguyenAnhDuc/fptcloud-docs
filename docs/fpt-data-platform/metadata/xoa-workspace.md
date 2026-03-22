@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xoa workspace"
+sidebar_label: "Xóa workspace"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=xoa-workspace"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Custom Images"
+sidebar_label: "If you no longer need a Custom Image, you can delete it by following these steps:"
 title: "Custom Images"
 source: "https://fptcloud.com/en/documents/gpu-virtual-machine-en/?doc=custom-images"
 parent: "https://fptcloud.com/en/documents/gpu-virtual-machine-en"

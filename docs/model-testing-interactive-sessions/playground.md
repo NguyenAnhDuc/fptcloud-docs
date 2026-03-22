@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Playground"
+sidebar_label: "You can follow guide to evaluate your model:"
 title: "Playground"
 source: "https://fptcloud.com/en/documents/model-testing-interactive-sessions/?doc=playground"
 parent: "https://fptcloud.com/en/documents/model-testing-interactive-sessions"

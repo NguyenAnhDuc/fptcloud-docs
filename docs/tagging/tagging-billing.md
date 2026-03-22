@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Tagging billing"
+sidebar_label: "Tagging Billing"
 title: "2. Tagging"
 source: "https://fptcloud.com/documents/tagging/?doc=tagging-billing"
 parent: "https://fptcloud.com/documents/tagging"

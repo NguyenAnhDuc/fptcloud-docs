@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Cai dat superset"
+sidebar_label: "Apache Superset"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=cai-dat-superset"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

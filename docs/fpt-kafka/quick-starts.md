@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Quick Starts"
+sidebar_label: "To create a topic, follow these steps:"
 title: "Quick Starts"
 source: "https://fptcloud.com/en/documents/fpt-kafka/?doc=quick-starts"
 parent: "https://fptcloud.com/en/documents/fpt-kafka"

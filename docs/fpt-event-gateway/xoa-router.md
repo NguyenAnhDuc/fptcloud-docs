@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xoa router"
+sidebar_label: "Xóa Router"
 title: "2. FPT Event Gateway"
 source: "https://fptcloud.com/documents/fpt-event-gateway/?doc=xoa-router"
 parent: "https://fptcloud.com/documents/fpt-event-gateway"

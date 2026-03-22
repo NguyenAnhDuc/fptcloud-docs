@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "C32G | 64 | 6448036 | 1842199 | 15350.46 | 767.49"
+sidebar_label: "Kết quả Benchmark Sysbench"
 title: "2. Managed – FPT Database Engines"
 source: "https://fptcloud.com/documents/managed-fpt-database-engines-new/?doc=benchmark-sysbench"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engines-new"

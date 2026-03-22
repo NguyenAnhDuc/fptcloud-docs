@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Chinh sua thong tin org"
+sidebar_label: "Chỉnh sửa thông tin tổ chức"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=chinh-sua-thong-tin-org"
 parent: "https://fptcloud.com/documents/fpt-appsec"

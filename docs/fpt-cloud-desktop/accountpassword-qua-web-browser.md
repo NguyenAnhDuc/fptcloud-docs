@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Accountpassword qua web browser"
+sidebar_label: "Truy cập qua Web browser"
 title: "2. FPT Cloud Desktop"
 source: "https://fptcloud.com/documents/fpt-cloud-desktop/?doc=accountpassword-qua-web-browser"
 parent: "https://fptcloud.com/documents/fpt-cloud-desktop"

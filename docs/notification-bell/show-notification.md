@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Show notification"
+sidebar_label: "Hiển thị chuông thông báo trên trang Cloud Portal"
 title: "2. Notification Bell"
 source: "https://fptcloud.com/documents/notification-bell/?doc=show-notification"
 parent: "https://fptcloud.com/documents/notification-bell"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Phan quyen nguoi dung su dung profile"
+sidebar_label: "Phân quyền người dùng sử dụng profile"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=phan-quyen-nguoi-dung-su-dung-profile"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

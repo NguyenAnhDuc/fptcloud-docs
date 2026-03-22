@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Delete Consumer Groups"
+sidebar_label: "To delete a consumer group, follow these steps:"
 title: "Delete Consumer Groups"
 source: "https://fptcloud.com/en/documents/fpt-kafka/?doc=delete-consumer-groups"
 parent: "https://fptcloud.com/en/documents/fpt-kafka"

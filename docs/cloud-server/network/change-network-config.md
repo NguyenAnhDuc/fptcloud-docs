@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Change Network Config"
+sidebar_label: "_Tính năng chỉ áp dụng cho khách hàng mua dich vụ loại Speicific_"
 title: "Change Network Config"
 source: "https://fptcloud.com/documents/cloud-server/?doc=change-network-config"
 parent: "https://fptcloud.com/documents/cloud-server"

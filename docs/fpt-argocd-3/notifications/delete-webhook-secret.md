@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Delete webhook secret"
+sidebar_label: "Delete webhook Secret"
 title: "2. FPT ArgoCD"
 source: "https://fptcloud.com/documents/fpt-argocd-3/?doc=delete-webhook-secret"
 parent: "https://fptcloud.com/documents/fpt-argocd-3"

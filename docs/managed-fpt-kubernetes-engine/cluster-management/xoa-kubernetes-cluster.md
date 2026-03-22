@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Xoa kubernetes cluster"
+sidebar_label: "Xóa Kubernetes Cluster"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=xoa-kubernetes-cluster"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

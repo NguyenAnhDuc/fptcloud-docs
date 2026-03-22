@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Cem chi tiet quota dich vu"
+sidebar_label: "Xem chi tiết Quota dịch vụ"
 title: "2. FPT Container Registry"
 source: "https://fptcloud.com/documents/fpt-container-registry-2/?doc=cem-chi-tiet-quota-dich-vu"
 parent: "https://fptcloud.com/documents/fpt-container-registry-2"

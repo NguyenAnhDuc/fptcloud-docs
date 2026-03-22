@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Add them worker group"
+sidebar_label: "Add thêm Worker Group"
 title: "2. Managed GPU Cluster (Kubernetes)"
 source: "https://fptcloud.com/documents/fpt-managed-gpu-cluster/?doc=add-them-worker-group"
 parent: "https://fptcloud.com/documents/fpt-managed-gpu-cluster"

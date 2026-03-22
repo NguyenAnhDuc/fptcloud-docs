@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Apache flink"
+sidebar_label: "Flink"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=apache-flink"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

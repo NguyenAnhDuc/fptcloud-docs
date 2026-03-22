@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Provision database engine"
+sidebar_label: "Provision Database Engine"
 title: "2. Managed – FPT Database Engine"
 source: "https://fptcloud.com/documents/managed-fpt-database-engine/?doc=Provision-Database-Engine"
 parent: "https://fptcloud.com/documents/managed-fpt-database-engine"

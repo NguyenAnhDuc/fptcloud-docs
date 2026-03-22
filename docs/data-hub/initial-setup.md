@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Initial Setup"
+sidebar_label: "After logging in successfully, you will be directed to the AI Factory Portal"
 title: "Initial Setup"
 source: "https://fptcloud.com/en/documents/data-hub/?doc=initial-setup"
 parent: "https://fptcloud.com/en/documents/data-hub"

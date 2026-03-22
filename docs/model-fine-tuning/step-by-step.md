@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Step-by-Step"
+sidebar_label: "Select Billing in the Sidemenu"
 title: "Step-by-Step"
 source: "https://fptcloud.com/en/documents/model-fine-tuning/?doc=step-by-step"
 parent: "https://fptcloud.com/en/documents/model-fine-tuning"

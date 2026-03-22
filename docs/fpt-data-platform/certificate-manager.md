@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Certificate manager"
+sidebar_label: "Certificate Manager"
 title: "2. FPT Data Platform"
 source: "https://fptcloud.com/documents/fpt-data-platform/?doc=certificate-manager"
 parent: "https://fptcloud.com/documents/fpt-data-platform"

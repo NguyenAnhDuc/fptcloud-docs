@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Thay doi cluster endponit access"
+sidebar_label: "Thay đổi Cluster Endpoint Access"
 title: "2. Managed – FPT Kubernetes Engine"
 source: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine/?doc=thay-doi-cluster-endponit-access"
 parent: "https://fptcloud.com/documents/managed-fpt-kubernetes-engine"

@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Create a Snapshot"
+sidebar_label: "Note: This feature only supports GPU VMs using Block Storage – Persistent Disk."
 title: "Create a Snapshot"
 source: "https://fptcloud.com/en/documents/gpu-virtual-machine-en/?doc=create-a-snapshot"
 parent: "https://fptcloud.com/en/documents/gpu-virtual-machine-en"

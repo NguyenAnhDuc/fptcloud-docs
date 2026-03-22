@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Guide github"
+sidebar_label: "GitHub Personal/Enterprise Cloud"
 title: "2. FPT AppSec"
 source: "https://fptcloud.com/documents/fpt-appsec/?doc=guide-github"
 parent: "https://fptcloud.com/documents/fpt-appsec"

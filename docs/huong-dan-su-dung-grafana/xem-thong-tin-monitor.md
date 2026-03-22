@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xem thong tin monitor"
+sidebar_label: "5.2. Xem thông tin metric/log/trace/query data"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=xem-thong-tin-monitor"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"

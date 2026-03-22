@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Detection exceptions"
+sidebar_label: "Detection Exceptions"
 title: "2. FPT Cloud WAPPLES"
 source: "https://fptcloud.com/documents/fpt-cloud-wapples/?doc=detection-exceptions"
 parent: "https://fptcloud.com/documents/fpt-cloud-wapples"

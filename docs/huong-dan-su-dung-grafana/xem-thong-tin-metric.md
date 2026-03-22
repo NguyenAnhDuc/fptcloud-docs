@@ -1,6 +1,6 @@
 ---
 sidebar_class_name: hidden
-sidebar_label: "Xem thong tin metric"
+sidebar_label: "4.2. Xem thông tin metric"
 title: "2. Hướng dẫn sử dụng Grafana"
 source: "https://fptcloud.com/documents/huong-dan-su-dung-grafana/?doc=xem-thong-tin-metric"
 parent: "https://fptcloud.com/documents/huong-dan-su-dung-grafana"
