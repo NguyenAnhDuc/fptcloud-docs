@@ -1,0 +1,11 @@
+{
+  "label": "Quản lý Listener",
+  "position": 4,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "load-balancer/listener/index"
+  },
+  "key": "load-balancer-listener"
+}

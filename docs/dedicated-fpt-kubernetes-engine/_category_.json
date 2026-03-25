@@ -1,0 +1,10 @@
+{
+  "label": "Dedicated – FPT Kubernetes Engine",
+  "link": {
+    "type": "doc",
+    "id": "dedicated-fpt-kubernetes-engine/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "dedicated-fpt-kubernetes-engine"
+}

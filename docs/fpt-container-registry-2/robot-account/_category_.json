@@ -1,0 +1,11 @@
+{
+  "label": "Robot Account",
+  "position": 5,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-container-registry-2/robot-account/index"
+  },
+  "key": "fpt-container-registry-2-robot-account"
+}

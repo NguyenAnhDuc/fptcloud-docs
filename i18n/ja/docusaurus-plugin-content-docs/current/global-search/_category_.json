@@ -1,0 +1,9 @@
+{
+  "label": "2. Global Search",
+  "link": {
+    "type": "generated-index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "global-search"
+}

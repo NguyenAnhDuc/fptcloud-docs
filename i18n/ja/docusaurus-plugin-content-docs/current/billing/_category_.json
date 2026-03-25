@@ -1,0 +1,10 @@
+{
+  "label": "2. Bills",
+  "link": {
+    "type": "generated-index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "position": 2,
+  "key": "billing"
+}

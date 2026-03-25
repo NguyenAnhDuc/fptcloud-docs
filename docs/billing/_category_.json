@@ -1,0 +1,11 @@
+{
+  "label": "Bills",
+  "link": {
+    "type": "doc",
+    "id": "billing/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "position": 2,
+  "key": "billing"
+}

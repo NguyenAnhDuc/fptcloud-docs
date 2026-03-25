@@ -1,0 +1,11 @@
+{
+  "label": "Chia sẻ & Triển khai",
+  "position": 5,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "model-hub/sharing-deploy/index"
+  },
+  "key": "model-hub-sharing-deploy"
+}

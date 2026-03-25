@@ -1,0 +1,14 @@
+{
+  "label": "Khởi tạo & Truy cập",
+  "position": 2,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "dedicated-fpt-kubernetes-engine/initial/index"
+  },
+  "customProps": {
+    "sidebar_key": "dedicated-fpt-kubernetes-engine-initial"
+  },
+  "key": "dedicated-fpt-kubernetes-engine-initial"
+}

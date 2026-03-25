@@ -1,0 +1,11 @@
+{
+  "label": "Lập lịch",
+  "position": 9,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "cloud-server/scheduling/index"
+  },
+  "key": "cloud-server-scheduling"
+}

@@ -1,0 +1,11 @@
+{
+  "label": "Khởi tạo & Đăng ký",
+  "position": 2,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "managed-fpt-database-engines-new/initial/index"
+  },
+  "key": "managed-fpt-database-engines-new-initial"
+}

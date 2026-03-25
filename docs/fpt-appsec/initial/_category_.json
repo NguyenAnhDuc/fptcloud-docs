@@ -1,0 +1,14 @@
+{
+  "label": "Khởi tạo & Tổ chức",
+  "position": 2,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-appsec/initial/index"
+  },
+  "customProps": {
+    "sidebar_key": "fpt-appsec-initial"
+  },
+  "key": "fpt-appsec-initial"
+}

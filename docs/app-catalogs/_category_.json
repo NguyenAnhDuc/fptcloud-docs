@@ -1,0 +1,10 @@
+{
+  "label": "FPT App Catalogs",
+  "link": {
+    "type": "doc",
+    "id": "app-catalogs/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "app-catalogs"
+}

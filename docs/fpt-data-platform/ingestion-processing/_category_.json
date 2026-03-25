@@ -1,0 +1,11 @@
+{
+  "label": "Ingestion & Processing",
+  "position": 6,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-data-platform/ingestion-processing/index"
+  },
+  "key": "fpt-data-platform-ingestion-processing"
+}

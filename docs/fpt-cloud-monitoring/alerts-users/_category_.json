@@ -1,0 +1,11 @@
+{
+  "label": "Cảnh báo & Người dùng",
+  "position": 4,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-cloud-monitoring/alerts-users/index"
+  },
+  "key": "fpt-cloud-monitoring-alerts-users"
+}

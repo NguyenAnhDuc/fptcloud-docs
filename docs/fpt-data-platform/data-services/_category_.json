@@ -1,0 +1,11 @@
+{
+  "label": "Dịch vụ Dữ liệu",
+  "position": 5,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-data-platform/data-services/index"
+  },
+  "key": "fpt-data-platform-data-services"
+}

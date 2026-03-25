@@ -1,0 +1,14 @@
+{
+  "label": "Khởi tạo & Đăng nhập",
+  "position": 2,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-cloud-waf/initial/index"
+  },
+  "customProps": {
+    "sidebar_key": "fpt-cloud-waf-initial"
+  },
+  "key": "fpt-cloud-waf-initial"
+}

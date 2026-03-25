@@ -1,0 +1,11 @@
+{
+  "label": "Quản lý Database",
+  "position": 3,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "managed-fpt-database-engines-new/management/index"
+  },
+  "key": "managed-fpt-database-engines-new-management"
+}

@@ -1,0 +1,11 @@
+{
+  "label": "CDC Service & Connectors",
+  "position": 3,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-data-platform/cdc-service/index"
+  },
+  "key": "fpt-data-platform-cdc-service"
+}

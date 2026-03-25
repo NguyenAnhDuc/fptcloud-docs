@@ -1,0 +1,11 @@
+{
+  "label": "GPU trên Kubernetes",
+  "position": 6,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "managed-fpt-kubernetes-engine/gpu/index"
+  },
+  "key": "managed-fpt-kubernetes-engine-gpu"
+}

@@ -1,0 +1,10 @@
+{
+  "label": "NAT Instance",
+  "link": {
+    "type": "doc",
+    "id": "nat_instance/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "nat-instance"
+}

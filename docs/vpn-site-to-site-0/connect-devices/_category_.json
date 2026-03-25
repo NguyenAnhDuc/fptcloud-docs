@@ -1,0 +1,11 @@
+{
+  "label": "Kết nối thiết bị",
+  "position": 4,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "vpn-site-to-site-0/connect-devices/index"
+  },
+  "key": "vpn-site-to-site-0-connect-devices"
+}

@@ -1,0 +1,14 @@
+{
+  "label": "Storage & Backup",
+  "position": 5,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "managed-fpt-kubernetes-engine/storage-backup/index"
+  },
+  "customProps": {
+    "sidebar_key": "managed-fpt-kubernetes-engine-storage-backup"
+  },
+  "key": "managed-fpt-kubernetes-engine-storage-backup"
+}

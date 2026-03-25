@@ -1,0 +1,10 @@
+{
+  "label": "Global Search",
+  "link": {
+    "type": "doc",
+    "id": "global-search/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "global-search"
+}

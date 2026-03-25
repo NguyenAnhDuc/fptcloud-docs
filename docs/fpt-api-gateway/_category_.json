@@ -1,0 +1,10 @@
+{
+  "label": "FPT API Gateway",
+  "link": {
+    "type": "doc",
+    "id": "fpt-api-gateway/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "fpt-api-gateway"
+}

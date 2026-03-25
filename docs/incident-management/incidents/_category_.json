@@ -1,0 +1,11 @@
+{
+  "label": "Quản lý Incident",
+  "position": 3,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "incident-management/incidents/index"
+  },
+  "key": "incident-management-incidents"
+}

@@ -1,0 +1,11 @@
+{
+  "label": "Khác",
+  "position": 12,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "cloud-server/other/index"
+  },
+  "key": "cloud-server-other"
+}

@@ -1,0 +1,10 @@
+{
+  "label": "Policy Management",
+  "link": {
+    "type": "doc",
+    "id": "policy-management/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "policy-management"
+}

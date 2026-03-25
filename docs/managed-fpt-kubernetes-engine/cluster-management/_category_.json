@@ -1,0 +1,14 @@
+{
+  "label": "Quản lý Cluster",
+  "position": 3,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "managed-fpt-kubernetes-engine/cluster-management/index"
+  },
+  "customProps": {
+    "sidebar_key": "managed-fpt-kubernetes-engine-cluster-management"
+  },
+  "key": "managed-fpt-kubernetes-engine-cluster-management"
+}

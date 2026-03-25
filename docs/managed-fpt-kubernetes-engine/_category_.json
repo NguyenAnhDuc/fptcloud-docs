@@ -1,0 +1,10 @@
+{
+  "label": "Managed – FPT Kubernetes Engine",
+  "link": {
+    "type": "doc",
+    "id": "managed-fpt-kubernetes-engine/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "managed-fpt-kubernetes-engine"
+}

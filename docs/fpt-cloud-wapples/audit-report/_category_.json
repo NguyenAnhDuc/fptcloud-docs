@@ -1,0 +1,11 @@
+{
+  "label": "Kiểm tra & Báo cáo",
+  "position": 5,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-cloud-wapples/audit-report/index"
+  },
+  "key": "fpt-cloud-wapples-audit-report"
+}

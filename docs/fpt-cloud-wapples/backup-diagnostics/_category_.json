@@ -1,0 +1,11 @@
+{
+  "label": "Backup & Diagnostics",
+  "position": 6,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-cloud-wapples/backup-diagnostics/index"
+  },
+  "key": "fpt-cloud-wapples-backup-diagnostics"
+}

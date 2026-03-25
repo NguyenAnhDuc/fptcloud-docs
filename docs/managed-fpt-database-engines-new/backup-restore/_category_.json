@@ -1,0 +1,11 @@
+{
+  "label": "Backup & Restore",
+  "position": 4,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "managed-fpt-database-engines-new/backup-restore/index"
+  },
+  "key": "managed-fpt-database-engines-new-backup-restore"
+}

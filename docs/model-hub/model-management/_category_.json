@@ -1,0 +1,11 @@
+{
+  "label": "Quản lý Model",
+  "position": 3,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "model-hub/model-management/index"
+  },
+  "key": "model-hub-model-management"
+}

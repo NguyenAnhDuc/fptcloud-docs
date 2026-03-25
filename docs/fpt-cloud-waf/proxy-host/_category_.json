@@ -1,0 +1,11 @@
+{
+  "label": "Proxy Host",
+  "position": 4,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-cloud-waf/proxy-host/index"
+  },
+  "key": "fpt-cloud-waf-proxy-host"
+}

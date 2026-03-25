@@ -1,0 +1,14 @@
+---
+sidebar_class_name: hidden
+sidebar_label: "Tao tai"
+title: "2. Relation management"
+source: "https://fptcloud.com/documents/relation-management/?doc=tao-tai"
+parent: "https://fptcloud.com/documents/relation-management"
+lang: vi
+converted: "2026-03-19"
+---
+
+# 2. Relation management
+
+
+* * *

@@ -1,0 +1,11 @@
+{
+  "label": "Quản lý Load Balancer",
+  "position": 3,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "load-balancer/management/index"
+  },
+  "key": "load-balancer-management"
+}

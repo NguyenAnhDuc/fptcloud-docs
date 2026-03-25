@@ -1,0 +1,11 @@
+{
+  "label": "Tổng quan & Cấu hình ban đầu",
+  "position": 2,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-cloud-wapples/overview-setup/index"
+  },
+  "key": "fpt-cloud-wapples-overview-setup"
+}

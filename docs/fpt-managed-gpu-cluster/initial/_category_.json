@@ -1,0 +1,11 @@
+{
+  "label": "Khởi tạo & Quản lý",
+  "position": 2,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-managed-gpu-cluster/initial/index"
+  },
+  "key": "fpt-managed-gpu-cluster-initial"
+}

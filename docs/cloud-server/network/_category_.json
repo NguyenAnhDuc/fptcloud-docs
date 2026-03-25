@@ -1,0 +1,11 @@
+{
+  "label": "Network & NIC",
+  "position": 4,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "cloud-server/network/index"
+  },
+  "key": "cloud-server-network"
+}

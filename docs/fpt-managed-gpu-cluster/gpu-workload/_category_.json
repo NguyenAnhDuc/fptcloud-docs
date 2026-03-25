@@ -1,0 +1,11 @@
+{
+  "label": "GPU & Workloads",
+  "position": 4,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-managed-gpu-cluster/gpu-workload/index"
+  },
+  "key": "fpt-managed-gpu-cluster-gpu-workload"
+}

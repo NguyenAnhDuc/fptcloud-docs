@@ -1,0 +1,46 @@
+---
+sidebar_label: "Hướng dẫn đọc biểu đồ Asset by team"
+title: "2. FPT AppSec"
+source: "https://fptcloud.com/documents/fpt-appsec/?doc=guide-asset-by-team"
+parent: "https://fptcloud.com/documents/fpt-appsec"
+lang: vi
+converted: "2026-03-19"
+---
+
+# 2. FPT AppSec
+
+
+Hướng dẫn đọc biểu đồ Asset by team 
+
+
+* * *
+
+Biểu đồ phân tích số lượng asset (repositories, images) đang được các team quản lý trong hệ thống. 
+
+_Note_ : 
+
+  * _Biểu đồ lấy dữ liệu từ lần quét thành công gần nhất._
+
+  * _Ấn ‘Refresh’ để làm mới dữ liệu_
+
+![anhfsec](/img/docs/d0bb4e879fa5-map-asset.png)
+
+## 1\. Cấu trúc biểu đồ
+
+Thành phần | Mô tả  
+---|---  
+Loại biểu đồ | Grouped Bar Chart (biểu đồ cột nhóm)  
+Trục X | Tên các team/subteam (sắp xếp từ trái qua phải theo tổng số asset giảm dần)  
+Trục Y | Số lượng asset theo từng tool tích hợp  
+Legend | Danh sách các tool tích hợp, hiển thị dưới góc phải (Right Bottom)  
+Group Column | Mỗi team có 1 nhóm gồm tối đa 5 cột con – mỗi cột tương ứng 1 tool tích hợp  
+  
+## 2\. Lọc dữ liệu theo nhu cầu
+
+**Tùy chọn legend (góc phải dưới):**
+
+  * Click để ẩn/hiện dữ liệu theo từng loại asset, bao gồm asset từ GitHub, GitLab, GitLab server, FPT Container Registry, Harbor 
+
+Có thể áp dụng filter team ở phần trên của dashboard để thu hẹp dữ liệu theo bộ phận cụ thể.
+
+[ Previous Hướng dẫn đọc biểu đồ Issue by team ](./guide-issue-by-team) [ Next Organization Management - Quản lý Organization ](./gioi-thieu-organization)

@@ -1,0 +1,11 @@
+{
+  "label": "Bảo mật & Phát hiện",
+  "position": 3,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-cloud-wapples/security/index"
+  },
+  "key": "fpt-cloud-wapples-security"
+}

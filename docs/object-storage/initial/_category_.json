@@ -1,0 +1,11 @@
+{
+  "label": "Khởi tạo & Sử dụng",
+  "position": 2,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "object-storage/initial/index"
+  },
+  "key": "object-storage-initial"
+}

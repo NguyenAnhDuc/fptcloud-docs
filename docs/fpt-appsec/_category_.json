@@ -1,0 +1,10 @@
+{
+  "label": "FPT AppSec",
+  "link": {
+    "type": "doc",
+    "id": "fpt-appsec/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "fpt-appsec"
+}

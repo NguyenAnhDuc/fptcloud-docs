@@ -1,0 +1,10 @@
+{
+  "label": "Load Balancer",
+  "link": {
+    "type": "doc",
+    "id": "load-balancer/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "load-balancer"
+}

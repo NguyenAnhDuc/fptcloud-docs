@@ -1,0 +1,11 @@
+{
+  "label": "Tích hợp & Lên lịch",
+  "position": 5,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-appsec/integration/index"
+  },
+  "key": "fpt-appsec-integration"
+}

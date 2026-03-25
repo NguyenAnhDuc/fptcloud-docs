@@ -1,0 +1,10 @@
+{
+  "label": "IAM",
+  "link": {
+    "type": "doc",
+    "id": "iam/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "iam"
+}

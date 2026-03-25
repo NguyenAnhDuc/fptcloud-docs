@@ -1,0 +1,11 @@
+{
+  "label": "Backup",
+  "link": {
+    "type": "doc",
+    "id": "backup/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "position": 3,
+  "key": "backup"
+}

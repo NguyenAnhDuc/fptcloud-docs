@@ -1,0 +1,14 @@
+{
+  "label": "Khởi tạo & Đăng nhập",
+  "position": 2,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-jenkins-ci/initial/index"
+  },
+  "customProps": {
+    "sidebar_key": "fpt-jenkins-ci-initial"
+  },
+  "key": "fpt-jenkins-ci-initial"
+}

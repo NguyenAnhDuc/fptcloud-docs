@@ -1,0 +1,11 @@
+{
+  "label": "Bảo mật & Phiên bản",
+  "position": 7,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "managed-fpt-kubernetes-engine/security-version/index"
+  },
+  "key": "managed-fpt-kubernetes-engine-security-version"
+}

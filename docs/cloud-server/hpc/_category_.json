@@ -1,0 +1,11 @@
+{
+  "label": "HPC Bare Metal",
+  "position": 7,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "cloud-server/hpc/index"
+  },
+  "key": "cloud-server-hpc"
+}

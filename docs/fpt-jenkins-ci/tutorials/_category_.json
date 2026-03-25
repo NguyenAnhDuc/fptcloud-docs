@@ -1,0 +1,11 @@
+{
+  "label": "Hướng dẫn sử dụng",
+  "position": 5,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-jenkins-ci/tutorials/index"
+  },
+  "key": "fpt-jenkins-ci-tutorials"
+}

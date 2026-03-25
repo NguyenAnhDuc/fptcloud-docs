@@ -1,0 +1,11 @@
+{
+  "label": "Cấu hình",
+  "position": 3,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-jenkins-ci/configuration/index"
+  },
+  "key": "fpt-jenkins-ci-configuration"
+}

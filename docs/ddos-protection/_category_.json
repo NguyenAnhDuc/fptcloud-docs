@@ -1,0 +1,10 @@
+{
+  "label": "DdoS Protection",
+  "link": {
+    "type": "doc",
+    "id": "ddos-protection/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "ddos-protection"
+}

@@ -1,0 +1,10 @@
+{
+  "label": "SSO – Single sign-on",
+  "link": {
+    "type": "doc",
+    "id": "sso-single-sign-on/index"
+  },
+  "collapsed": true,
+  "collapsible": true,
+  "key": "sso-single-sign-on"
+}

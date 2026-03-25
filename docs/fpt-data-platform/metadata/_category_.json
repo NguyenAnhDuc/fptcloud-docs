@@ -1,0 +1,11 @@
+{
+  "label": "Open Metadata & Workspace",
+  "position": 7,
+  "collapsed": true,
+  "collapsible": true,
+  "link": {
+    "type": "doc",
+    "id": "fpt-data-platform/metadata/index"
+  },
+  "key": "fpt-data-platform-metadata"
+}
